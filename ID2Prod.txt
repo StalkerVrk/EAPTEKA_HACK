@@ -1,0 +1,2479 @@
+,MNN_ID,MNN_NAME,MNN_CODE
+0,53,Силденафил,sildenafil
+7,248,Цинка оксид,tsinka_oksid
+8,82,Прамипексол,pramipeksol
+10,710,Клиндамицин,klindamitsin
+13,677,Напроксен,naproksen
+14,1318,Иммуноглобулин антитимоцитарный,immunoglobulin_antitimotsitarnyy
+15,741,Гвайфенезин,gvayfenezin
+16,123,Оксиметазолин,oksimetazolin
+17,616,"Парацетамол, Фенилэфрин, Хлорфенамин",paratsetamol_fenilefrin_khlorfenamin
+18,797,Фенилэфрин,fenilefrin
+19,1571,Миконазол,mikonazol
+20,1380,"Кальция карбонат, Колекальциферол,  Медь оксид, Натрия борат, Цинка оксид, Марганец сульфат",kaltsiya_karbonat_kolekaltsiferol_med_oksid_natriya_borat_tsinka_oksid_marganets_sulfat
+21,693,Витамин Е,vitamin_e
+22,622,"Кальция карбонат, Колекальциферол",kaltsiya_karbonat_kolekaltsiferol
+24,297,"Поливитамины, Минералы",polivitaminy_mineraly
+34,23,Ацетилсалициловая кислота,atsetilsalitsilovaya_kislota
+35,443,Цефотаксим,tsefotaksim
+36,556,"Цефоперазон, [Сульбактам]",tsefoperazon_sulbaktam
+37,941,Алоэ древовидного листья,aloe_drevovidnogo_listya
+38,330,Раувольфии алкалоиды,rauvolfii_alkaloidy
+39,176,Иммуноглобулин человека нормальный,immunoglobulin_cheloveka_normalnyy
+40,474,Аллопуринол,allopurinol
+42,16,Инозин,inozin
+43,134,Кальция глюконат,kaltsiya_glyukonat
+44,1466,Ландыша листьев гликозид,landysha_listev_glikozid
+45,946,Алтея лекарственного травы экстракт,alteya_lekarstvennogo_travy_ekstrakt
+46,1813,Строфантин К,strofantin_k
+47,80,"Душицы тр.экстр, Клещевины сем масло, Моркови семян экстт, Мяты лист.масло, Пихты масло, Хмеля экстр.",dushitsy_tr_ekstr_kleshcheviny_sem_maslo_morkovi_semyan_ekstt_myaty_list_maslo_pikhty_maslo_khmelya_ekstr
+48,1825,Сумма флавоноидов Бессмертника песчанного,summa_flavonoidov_bessmertnika_peschannogo
+49,1990,Эвкалипта листьев экстракт,evkalipta_listev_ekstrakt
+50,292,Менадиона натрия бисульфит,menadiona_natriya_bisulfit
+51,241,Неостигмина метилсульфат,neostigmina_metilsulfat
+52,905,Трифосаденин,trifosadenin
+53,730,Фуросемид,furosemid
+54,1816,Суксаметония йодид,suksametoniya_yodid
+55,41,"Ацетилсалициловая кислота, Кофеин, Парацетамол",atsetilsalitsilovaya_kislota_kofein_paratsetamol
+56,1446,Кремния диоксид коллоидный,kremniya_dioksid_kolloidnyy
+58,230,Мебгидролин,mebgidrolin
+59,1641,Ортосифона тычиночного листья,ortosifona_tychinochnogo_listya
+60,92,Ихтаммол,ikhtammol
+61,1154,Гемин,gemin
+62,528,Левоноргестрел,levonorgestrel
+63,1530,Спираль с медью,spiral_s_medyu
+64,527,Тамоксифен,tamoksifen
+67,1414,Клодроновая кислота,klodronovaya_kislota
+69,1226,Дексаметазон,deksametazon
+70,674,Кромоглициевая кислота,kromoglitsievaya_kislota
+71,745,"Пилокарпин, Тимолол",pilokarpin_timolol
+73,11,Тимолол,timolol
+75,763,"Аденозин, Никотинамид, Цитохром С",adenozin_nikotinamid_tsitokhrom_s
+76,148,Кларитромицин,klaritromitsin
+77,159,Гинкго двулопастного листьев экстракт,ginkgo_dvulopastnogo_listev_ekstrakt
+80,178,Макрогол,makrogol
+82,342,Смектит диоктаэдрический,smektit_dioktaedricheskiy
+83,1181,"Гинкго Билоба, Троксерутин",ginkgo_biloba_trokserutin
+84,1180,"Гинкго Билоба, Гептаминол, Троксерутин",ginkgo_biloba_geptaminol_trokserutin
+85,689,Гиосцина бутилбромид,giostsina_butilbromid
+86,307,Бисакодил,bisakodil
+88,703,Пиклоксидин,pikloksidin
+89,44,Гемцитабин,gemtsitabin
+91,645,Инсулин растворимый человеческий генно-инженерный,insulin_rastvorimyy_chelovecheskiy_genno_inzhenernyy
+93,646,Инсулин двуфазный (человеческий генно-инженерный),insulin_dvufaznyy_chelovecheskiy_genno_inzhenernyy
+95,121,Инсулин-изофан человеческий генно-инженерный,insulin_izofan_chelovecheskiy_genno_inzhenernyy
+97,1463,Инсулин лизпро,insulin_lizpro
+98,701,Оксибутинин,oksibutinin
+99,1037,Высушенный порошк бактерий штамма Bacillus cereus,vysushennyy_poroshk_bakteriy_shtamma_bacillus_cereus
+100,452,Рокситромицин,roksitromitsin
+101,1439,"Кофеин, Парацетамол, Пропифеназон",kofein_paratsetamol_propifenazon
+102,1574,Минералы,mineraly
+104,1381,"Кальция карбонат, Магния карбонат",kaltsiya_karbonat_magniya_karbonat
+106,144,Карбоцистеин,karbotsistein
+108,293,Бензалкония хлорид,benzalkoniya_khlorid
+109,332,"Неомицин, Нистатин, Полимиксин B",neomitsin_nistatin_polimiksin_b
+110,636,Пирантел,pirantel
+113,713,Тенонитрозол,tenonitrozol
+114,2091,"Железа глюконат, Марганца глюконат, Меди глюконат",zheleza_glyukonat_margantsa_glyukonat_medi_glyukonat
+117,1984,Цитруллина Малат,tsitrullina_malat
+118,1781,Сахаромицеты Boulardil,sakharomitsety_boulardil
+121,456,Биклотимол,biklotimol
+122,1069,"Биклотимол, Эноксолон, Лизонцим",biklotimol_enoksolon_lizontsim
+123,1654,Парацетамол,paratsetamol
+125,782,"Парацетамол, Фенирамин, Аскорбиновая кислота",paratsetamol_feniramin_askorbinovaya_kislota
+127,2023,Дорзоламид,dorzolamid
+128,77,"Дорзоламид, Тимолол",dorzolamid_timolol
+129,1660,"Парацетамол, Хлорфенамин, [Аскорбиновая кислота]",paratsetamol_khlorfenamin_askorbinovaya_kislota
+131,208,Поливитамины,polivitaminy
+134,1523,"Подорожника экстр, Мать-и-мачехи экстр, Мятное масло, Эвкалиптовое масло",podorozhnika_ekstr_mat_i_machekhi_ekstr_myatnoe_maslo_evkaliptovoe_maslo
+135,1002,"Аскорбиновая кислота, Кальция карбонат",askorbinovaya_kislota_kaltsiya_karbonat
+137,598,"Алгелдрат, Магния гидроксид",algeldrat_magniya_gidroksid
+139,1947,"Тетракаин, Хлоргексидин, Аскорбиновая кислота",tetrakain_khlorgeksidin_askorbinovaya_kislota
+140,1989,Шалфея лек. листьев экстракт,shalfeya_lek_listev_ekstrakt
+141,117,Флуконазол,flukonazol
+148,520,Винорелбин,vinorelbin
+149,1649,Пальмы ползучей плодов экстр.,palmy_polzuchey_plodov_ekstr
+150,1750,Рибосомы бактериальные,ribosomy_bakterialnye
+153,2064,Вакцина для профилактики менингококковых инфекций,vaktsina_dlya_profilaktiki_meningokokkovykh_infektsiy
+154,471,Вакцина для профилактики вирусного гепатита А,vaktsina_dlya_profilaktiki_virusnogo_gepatita_a
+155,1101,Вакцина для профилактики пневмококковых инфекций,vaktsina_dlya_profilaktiki_pnevmokokkovykh_infektsiy
+156,1100,Вакцина для профилактики инфекций вызываемых Haemophilus Influenzae,vaktsina_dlya_profilaktiki_infektsiy_vyzyvaemykh_haemophilus_influenzae
+158,828,Вакцина для профилактики полиомиелита,vaktsina_dlya_profilaktiki_poliomielita
+159,1476,Ленограстим,lenograstim
+160,27,Метронидазол,metronidazol
+161,625,Спирамицин,spiramitsin
+163,449,Эноксапарин натрия,enoksaparin_natriya
+169,568,"Пиперонил бутоксид, Эсбиол",piperonil_butoksid_esbiol
+170,715,Амиодарон,amiodaron
+172,481,Вальпроевая кислота,valproevaya_kislota
+177,410,Дисульфирам,disulfiram
+178,1512,"Магний, Пиридоксин",magniy_piridoksin
+180,1590,Надропарин кальция,nadroparin_kaltsiya
+182,1809,Лизаты бактерий,lizaty_bakteriy
+183,1252,Дилтиазем,diltiazem
+184,174,Индапамид,indapamid
+185,1918,Фенспирид,fenspirid
+187,1939,Фузафунгин,fuzafungin
+189,1160,"Гесперидин, Диосмин",gesperidin_diosmin
+191,1684,Пинаверия бромид,pinaveriya_bromid
+193,40,Сульпирид,sulpirid
+196,611,Алфузозин,alfuzozin
+197,594,Бетаксолол,betaksolol
+198,122,Нифуроксазид,nifuroksazid
+200,361,Атенолол,atenolol
+201,1172,"Гидроталцит, Магния гидроксид",gidrotaltsit_magniya_gidroksid
+203,116,Диклофенак,diklofenak
+204,14,Азитромицин,azitromitsin
+209,1846,Терлипрессин,terlipressin
+210,739,Натрия пикосульфат,natriya_pikosulfat
+211,99,Нафазолин,nafazolin
+212,1948,Хлорнитрофенол,khlornitrofenol
+213,249,"Бутамират, Гвайфенезин",butamirat_gvayfenezin
+214,1612,"Антазолин, Нафазолин",antazolin_nafazolin
+215,1436,"Пигменты корня куркумы, франгулоэмодин, эфирных масла -эвкалиптовое, мятное, магния салицилат",pigmenty_kornya_kurkumy_franguloemodin_efirnykh_masla_evkaliptovoe_myatnoe_magniya_salitsilat
+216,100,"Дигидроэргокристин, Эскулин, Рутозид",digidroergokristin_eskulin_rutozid
+217,573,"Ундециленовая кислота, Ундециленат цинка",undetsilenovaya_kislota_undetsilenat_tsinka
+218,546,Хлорпротиксен,khlorprotiksen
+219,648,Гепариноид,geparinoid
+221,508,Изосорбида мононитрат,izosorbida_mononitrat
+223,929,"Аллантоин, Повидон-Йод",allantoin_povidon_yod
+224,1080,"Боярышник цветки и листья, Боярышник плоды, Гвайфенезин, Зверобоя трава, Хмель, Мелисса, Пассифлора, ",boyaryshnik_tsvetki_i_listya_boyaryshnik_plody_gvayfenezin_zveroboya_trava_khmel_melissa_passiflora
+225,748,Гексэтидин,geksetidin
+227,765,"Подорожника экстракт, Тимьяна экстракт, Чабреца экстракт",podorozhnika_ekstrakt_timyana_ekstrakt_chabretsa_ekstrakt
+230,255,Троксерутин,trokserutin
+231,29,Офлоксацин,ofloksatsin
+232,806,Оксиконазол,oksikonazol
+233,507,Ранитидин,ranitidin
+235,663,Изотретиноин,izotretinoin
+237,1337,Интерферон альфа-2a,interferon_alfa_2a
+238,1059,"Бенсеразид, Леводопа",benserazid_levodopa
+239,609,"Леводопа, Бенсеразид",levodopa_benserazid
+241,193,Орнидазол,ornidazol
+243,812,Прокарбазин,prokarbazin
+244,2098,"Пириметамин, Сульфадоксин",pirimetamin_sulfadoksin
+246,707,Флумазенил,flumazenil
+247,792,Мефлохин,meflokhin
+248,1639,Орлистат,orlistat
+251,398,Филграстим,filgrastim
+252,1268,Дорназа альфа,dornaza_alfa
+253,709,Третиноин,tretinoin
+254,2537,Кальцитриол,kaltsitriol
+255,627,"Ко-тримоксазол Сульфаметоксазол, Триметоприм",ko_trimoksazol_sulfametoksazol_trimetoprim
+257,584,Аморолфин,amorolfin
+263,133,Ксилометазолин,ksilometazolin
+264,772,Летрозол,letrozol
+265,78,Циклоспорин,tsiklosporin
+267,1112,"Валсартан, Гидрохлоротиазид",valsartan_gidrokhlorotiazid
+268,198,Тербинафин,terbinafin
+269,43,Кальцитонин,kaltsitonin
+270,429,Ривастигмин,rivastigmin
+274,1111,Валсартан,valsartan
+276,201,Тизанидин,tizanidin
+281,493,Карбамазепин,karbamazepin
+288,279,Октреотид,oktreotid
+290,1031,Базиликсимаб,baziliksimab
+291,295,Формотерол,formoterol
+292,468,Трописетрон,tropisetron
+295,1382,"Кальция лактоглюконат, Кальция карбонат",kaltsiya_laktoglyukonat_kaltsiya_karbonat
+297,522,Кломипрамин,klomipramin
+299,1518,Мапротилин,maprotilin
+300,440,Бутамират,butamirat
+302,85,Диметинден,dimetinden
+305,1644,Остеогенон,osteogenon
+306,1283,Железа сульфат,zheleza_sulfat
+307,543,Железа III гидроксид полимальтозат,zheleza_iii_gidroksid_polimaltozat
+309,394,Будесонид,budesonid
+310,813,"Бупивакаин, Эпинефрин",bupivakain_epinefrin
+311,453,Фелодипин,felodipin
+314,1394,Кандесартан,kandesartan
+319,450,Бупивакаин,bupivakain
+324,165,Омепразол,omeprazol
+328,114,Метопролол,metoprolol
+329,1487,"Лидокаин, Прилокаин",lidokain_prilokain
+334,580,Далтепарин натрия,dalteparin_natriya
+337,42,Латанопрост,latanoprost
+338,793,Поливитамины парентеральное введение,polivitaminy_parenteralnoe_vvedenie
+339,263,Соматропин,somatropin
+340,1573,Микролакс,mikrolaks
+341,2507,Маточное молочко,matochnoe_molochko
+342,222,Бензилбензоат,benzilbenzoat
+343,1390,"Камфора, Салициловая кислота, Сосны хвои масло",kamfora_salitsilovaya_kislota_sosny_khvoi_maslo
+344,1388,"Камфора, Диметилсульфоксид, Бензилникотинат, Сосны хвои масло",kamfora_dimetilsulfoksid_benzilnikotinat_sosny_khvoi_maslo
+346,477,Сульфадиазин,sulfadiazin
+347,960,Аминокислоты для парентерального питания,aminokisloty_dlya_parenteralnogo_pitaniya
+349,976,Амоксициллин,amoksitsillin
+352,479,"Гепарин натрия, Аллантоин, Декспантенол",geparin_natriya_allantoin_dekspantenol
+360,576,Метилэргометрин,metilergometrin
+362,65,"Натрия хлорида раствор сложный Калия хлорид, Кальция хлорид, Натрия хлорид",natriya_khlorida_rastvor_slozhnyy_kaliya_khlorid_kaltsiya_khlorid_natriya_khlorid
+363,545,Фамотидин,famotidin
+365,203,Цефалексин,tsefaleksin
+366,31,Эналаприл,enalapril
+369,781,"Гепарин натрия, Преднизолон",geparin_natriya_prednizolon
+371,326,Аскорбиновая кислотa,askorbinovaya_kislota
+375,700,"Натрия лактата раствор сложный Калия хлорид, Кальция хлорид, Натрия хлорид, Натрия лактат",natriya_laktata_rastvor_slozhnyy_kaliya_khlorid_kaltsiya_khlorid_natriya_khlorid_natriya_laktat
+377,2179,Лиофильно высушенные споры Bacillus cereus IP 5832,liofilno_vysushennye_spory_bacillus_cereus_ip_5832
+380,867,Митомицин,mitomitsin
+382,1074,Блеомицин,bleomitsin
+383,2036,Этопозид,etopozid
+385,1690,Пиреноксин,pirenoksin
+386,1447,Криданимод,kridanimod
+387,921,"Активированный уголь, Желчь, Чеснок",aktivirovannyy_ugol_zhelch_chesnok
+389,197,"Бендазол, Метамизол натрия, Папаверин, Фенобарбитал",bendazol_metamizol_natriya_papaverin_fenobarbital
+391,395,"Гриба березового экстр., Кобальта хлорид",griba_berezovogo_ekstr_kobalta_khlorid
+392,433,Валерианы лекарственной корневища с корнями,valeriany_lekarstvennoy_kornevishcha_s_kornyami
+394,347,Декстроза,dekstroza
+396,417,"Йод, (Калия йодид, Этанол)",yod_kaliya_yodid_etanol
+397,34,Ксантинола никотинат,ksantinola_nikotinat
+398,382,Пантов благородного оленя экстр.,pantov_blagorodnogo_olenya_ekstr
+399,864,"Бендазол, Папаверин",bendazol_papaverin
+400,1785,Сеннозиды А И В,sennozidy_a_i_v
+401,2005,Элеутерококка корневища и корни,eleuterokokka_kornevishcha_i_korni
+402,171,Активированный уголь,aktivirovannyy_ugol
+403,1055,Бензилпенициллин,benzilpenitsillin
+404,262,Ибупрофен,ibuprofen
+405,340,Пентаэритритила тетранитрат,pentaeritritila_tetranitrat
+406,289,Фталилсульфатиазол,ftalilsulfatiazol
+407,866,"Мяты перечной листьев масло, Фенобарбитал, Этилбромизовалерианат",myaty_perechnoy_listev_maslo_fenobarbital_etilbromizovalerianat
+408,1365,"Календулы цветков экстр, Ромашки цветков экстр, Тысячелистника травы экстр.",kalenduly_tsvetkov_ekstr_romashki_tsvetkov_ekstr_tysyachelistnika_travy_ekstr
+409,1421,"Кодеин, Натрия гидрокарбонат, Солодки корни, Термопсиса ланцетного трава",kodein_natriya_gidrokarbonat_solodki_korni_termopsisa_lantsetnogo_trava
+410,2089,"Кодеин, Натрия гидрокарбонат, Терпингидрат",kodein_natriya_gidrokarbonat_terpingidrat
+411,447,"Кодеин, Кофеин, Метамизол натрия, Фенобарбитал",kodein_kofein_metamizol_natriya_fenobarbital
+412,1314,Имипрамин,imipramin
+413,364,Нифедипин,nifedipin
+414,156,Пирацетам,piratsetam
+418,325,Амброксол,ambroksol
+420,1368,Левомепромазин,levomepromazin
+421,182,Нитроглицерин,nitroglitserin
+422,498,"Железа сульфат, Аскорбиновая кислота",zheleza_sulfat_askorbinovaya_kislota
+424,254,Диоксотетрагидрокситетрагидронафталин,dioksotetragidroksitetragidronaftalin
+425,309,Гентамицин,gentamitsin
+426,252,Дротаверин,drotaverin
+427,744,Римантадин,rimantadin
+428,1153,Гематоген,gematogen
+429,25,Домперидон,domperidon
+432,371,Итраконазол,itrakonazol
+433,483,Кетоконазол,ketokonazol
+435,187,Рисперидон,risperidon
+437,12,Лоперамид,loperamid
+439,515,"Глауцин, Эфедрин, Базилика обыкновенного масло",glautsin_efedrin_bazilika_obyknovennogo_maslo
+440,103,Кленбутерол,klenbuterol
+441,466,Поморийского озера маточный щелок,pomoriyskogo_ozera_matochnyy_shchelok
+442,435,Галантамин,galantamin
+446,465,Молсидомин,molsidomin
+447,811,Цитизин,tsitizin
+448,467,Индометацин,indometatsin
+453,577,Карбомер,karbomer
+454,150,Декспантенол,dekspantenol
+461,147,Пустырника трава,pustyrnika_trava
+462,124,Тиоктовая кислота,tioktovaya_kislota
+464,1725,Прополис,propolis
+467,237,Калия и магния аспарагинат,kaliya_i_magniya_asparaginat
+470,151,Аминофиллин,aminofillin
+471,209,"Бетакаротен, Витамин Е, Менадион, Ретинол",betakaroten_vitamin_e_menadion_retinol
+473,1170,Гидроксиметилхиноксилиндиоксид,gidroksimetilkhinoksilindioksid
+476,256,Лидокаин,lidokain
+477,183,Папаверин,papaverin
+478,830,Лактобактерии ацидофильные,laktobakterii_atsidofilnye
+479,1894,"Уксусная кислота, Азотная кислота, Дигидрат щавелевой кислоты, Гексагидрат нитрата цинка",uksusnaya_kislota_azotnaya_kislota_digidrat_shchavelevoy_kisloty_geksagidrat_nitrata_tsinka
+480,1895,"Уксусная кислота, Азотная кислота, Молочная кислота, Щавелевая кислота,  Нитрат меди",uksusnaya_kislota_azotnaya_kislota_molochnaya_kislota_shchavelevaya_kislota_nitrat_medi
+481,1260,Депротеинизированный диализат из крови телят,deproteinizirovannyy_dializat_iz_krovi_telyat
+488,177,Кетопрофен,ketoprofen
+493,495,Дидрогестерон,didrogesteron
+494,384,Лактулоза,laktuloza
+497,615,Флувоксамин,fluvoksamin
+505,698,Тропикамид,tropikamid
+506,10,Интерферон альфа-2b,interferon_alfa_2b
+510,684,Лансопразол,lansoprazol
+511,73,Ципрофлоксацин,tsiprofloksatsin
+512,1503,Ловастатин,lovastatin
+515,501,"Бензалкония хлорид, Мяты перечной листьев масло, Тимол, Эвкалипта прутовидного листьев масло, Левоментол",benzalkoniya_khlorid_myaty_perechnoy_listev_maslo_timol_evkalipta_prutovidnogo_listev_maslo_levomentol
+520,601,Циннаризин,tsinnarizin
+521,460,"Метамизол натрия, Триацетонамин-4-толуолсульфонат",metamizol_natriya_triatsetonamin_4_toluolsulfonat
+522,539,"Метамизол натрия, Питофенон, Фенпивериния бромид",metamizol_natriya_pitofenon_fenpiveriniya_bromid
+524,221,"Пирацетам, Циннаризин",piratsetam_tsinnarizin
+526,138,Ацикловир,atsiklovir
+527,1738,Макро- и микроэлементы,makro_i_mikroelementy
+528,359,Галоперидол,galoperidol
+529,403,Кетотифен,ketotifen
+534,591,Пироксикам,piroksikam
+539,535,"Хлоргексидин, Аскорбиновая кислота",khlorgeksidin_askorbinovaya_kislota
+543,164,Тимуса экстракт,timusa_ekstrakt
+545,981,Анатоксин дифтерийно-столбнячный,anatoksin_difteriyno_stolbnyachnyy
+547,604,Окситоцин,oksitotsin
+549,2085,Сыворотка эшерихиозная,syvorotka_esherikhioznaya
+550,1320,Иммуноглобулин человека антистафилококковый,immunoglobulin_cheloveka_antistafilokokkovyy
+551,1336,Интерферон альфа,interferon_alfa
+552,835,Вакцина для лечения стафилококковых инфекций,vaktsina_dlya_lecheniya_stafilokokkovykh_infektsiy
+554,1720,Непатогенным стрептококк – Streptococcus,nepatogennym_streptokokk_streptococcus
+555,1204,Гомеопатический состав,gomeopaticheskiy_sostav
+570,720,Облепихи масло,oblepikhi_maslo
+571,1356,Ирбесартан,irbesartan
+575,46,Клопидогрел,klopidogrel
+577,427,Вакцина для профилактики гриппа [инактивированная],vaktsina_dlya_profilaktiki_grippa_inaktivirovannaya
+578,270,Бетагистин,betagistin
+579,1527,Мебеверин,mebeverin
+581,494,"Дидрогестерон, Эстрадиол",didrogesteron_estradiol
+584,1401,Кардиоспермум,kardiospermum
+589,275,Ондансетрон,ondansetron
+590,346,Флутиказона фуроат,flutikazona_furoat
+591,652,Фексофенадин,feksofenadin
+593,802,Дименгидринат,dimengidrinat
+595,458,Доксиламин,doksilamin
+599,560,Алпростадил,alprostadil
+600,796,Динопростон,dinoproston
+601,462,Медроксипрогестерон,medroksiprogesteron
+602,569,Метилпреднизолон,metilprednizolon
+603,63,Гидрокортизон,gidrokortizon
+604,2057,Бактериофаг колипротейный,bakteriofag_koliproteynyy
+605,1035,Бактериофаг стафилококковый,bakteriofag_stafilokokkovyy
+607,1034,Бактериофаг сальмонеллезный,bakteriofag_salmonelleznyy
+609,1036,Бактериофаг стрептококковый,bakteriofag_streptokokkovyy
+610,1343,Интести-бактериофаг,intesti_bakteriofag
+612,1033,Бактериофаг протейный,bakteriofag_proteynyy
+613,868,Бактериофаг дизентерийный,bakteriofag_dizenteriynyy
+615,1027,Ацитретин,atsitretin
+618,847,Лигнин гидролизный,lignin_gidroliznyy
+623,161,Винпоцетин,vinpotsetin
+625,323,"Белладонны листьев экстр., Фенилсалицилат",belladonny_listev_ekstr_fenilsalitsilat
+628,319,Метамизол натрия,metamizol_natriya
+629,218,Никотиновая кислота,nikotinovaya_kislota
+631,19,Тиамазол,tiamazol
+632,475,Тиамин,tiamin
+633,855,Трифлуоперазин,trifluoperazin
+634,1909,Фениндион,fenindion
+635,1352,Йохимбина гидрохлорид,yokhimbina_gidrokhlorid
+637,39,Никетамид,niketamid
+643,142,Цианокобаламин,tsianokobalamin
+644,691,Бромгексин,bromgeksin
+647,1907,Тыквы обыкновенной семян масло,tykvy_obyknovennoy_semyan_maslo
+650,1529,Меглюмина акридонацетат,meglyumina_akridonatsetat
+652,1802,"Камфора, Хлоробутанол, Эвкалипта прутовид листьев масло, Левоментол",kamfora_khlorobutanol_evkalipta_prutovid_listev_maslo_levomentol
+653,1996,Эксаметазим,eksametazim
+654,1485,"Лидокаин, Трибенозид",lidokain_tribenozid
+656,1768,Рутозид,rutozid
+658,736,"Диметинден, Фенилэфрин",dimetinden_fenilefrin
+661,276,Нитрофурал,nitrofural
+665,1663,"Кофеин, Парацетамол",kofein_paratsetamol
+667,392,"Парацетамол, Фенилэфрин, Аскорбиновая кислота",paratsetamol_fenilefrin_askorbinovaya_kislota
+668,1437,"Кофеин, Кодеин, Парацетамол",kofein_kodein_paratsetamol
+669,1621,Никотин,nikotin
+675,771,Цефтазидим,tseftazidim
+678,233,Цефуроксим,tsefuroksim
+680,257,Суматриптан,sumatriptan
+682,273,Этамзилат,etamzilat
+683,506,Лизат бактерий Esсheriсhia сoli,lizat_bakteriy_essherishia_soli
+693,1396,Капецитабин,kapetsitabin
+695,90,"Гипромеллоза, Декстран",gipromelloza_dekstran
+696,396,Оксалиплатин,oksaliplatin
+698,728,Пароксетин,paroksetin
+699,478,Сальбутамол,salbutamol
+701,859,Солодки корни,solodki_korni
+705,1998,"Anas barbariaelium, hepatic et cordis extractum 200К-0,01мл",anas_barbariaelium_hepatic_et_cordis_extractum_200k_0_01ml
+708,597,"Алгелдрат, Бензокаин, Магния гидроксид",algeldrat_benzokain_magniya_gidroksid
+709,227,Клотримазол,klotrimazol
+711,33,Прогестерон,progesteron
+713,632,Эстрадиол,estradiol
+714,1001,"Гемицеллюлаза, Желчи компоненты, Панкреатин",gemitsellyulaza_zhelchi_komponenty_pankreatin
+718,1717,Препарат растительного происхождения,preparat_rastitelnogo_proiskhozhdeniya
+719,541,"Дезогестрел, Этинилэстрадиол",dezogestrel_etinilestradiol
+723,304,Лизиноприл,lizinopril
+726,143,Преднизолон,prednizolon
+727,503,Цинка гиалуронат,tsinka_gialuronat
+728,1906,Фенилбутазон,fenilbutazon
+729,499,Пипекурония бромид,pipekuroniya_bromid
+731,510,Мепивакаин,mepivakain
+732,1953,Целекоксиб,tselekoksib
+740,107,Салициловая кислота,salitsilovaya_kislota
+741,200,Вазелин,vazelin
+742,74,Глицерол,glitserol
+743,1222,Деготь березовый,degot_berezovyy
+744,1746,"Ретинол, Витамин Е, Эргокальциферол",retinol_vitamin_e_ergokaltsiferol
+745,94,Формальдегид,formaldegid
+749,22,Ретинол,retinol
+754,1606,Натрия хлорид,natriya_khlorid
+756,238,Альбумин человека,albumin_cheloveka
+759,1691,Пирибедил,piribedil
+761,496,Ацетиламиноянтарная кислота,atsetilaminoyantarnaya_kislota
+762,497,Гидроксизин,gidroksizin
+763,1313,"Имипенем, [Циластатин]",imipenem_tsilastatin
+764,1327,Индинавир,indinavir
+765,120,Монтелукаст,montelukast
+770,366,Симвастатин,simvastatin
+771,154,Финастерид,finasterid
+776,388,Лозартан,lozartan
+777,228,Эфавиренз,efavirenz
+781,425,Нимесулид,nimesulid
+782,2088,"Тернидазол, Неомицина сульфат, Нистатин, Преднизолона натрия метасульфобензоат",ternidazol_neomitsina_sulfat_nistatin_prednizolona_natriya_metasulfobenzoat
+784,756,"Дексаметазон, Неомицин, Полимиксин B",deksametazon_neomitsin_polimiksin_b
+785,759,"Дексаметазон, Неомицин, Полимиксин B, Фенилэфрин",deksametazon_neomitsin_polimiksin_b_fenilefrin
+786,296,Топирамат,topiramat
+788,407,Трипторелин,triptorelin
+789,118,Комплекс ботулинический токсин типа А-гемагглютинин,kompleks_botulinicheskiy_toksin_tipa_a_gemagglyutinin
+790,1856,"Тилброхинол, Тилихинол, Тилихинол N- додецилсульфа",tilbrokhinol_tilikhinol_tilikhinol_n_dodetsilsulfa
+791,2032,"Этинилэстрадиол, Левоноргестрел",etinilestradiol_levonorgestrel
+792,1885,"Трипсин, Панкреатин, Рутозид, Химотрипсин, Бромелаин, Липаза, Амилаза, Папаин",tripsin_pankreatin_rutozid_khimotripsin_bromelain_lipaza_amilaza_papain
+795,35,Хлорамфеникол,khloramfenikol
+801,294,"Полиадениловая кислота, Полиуридиловая кислота",poliadenilovaya_kislota_poliuridilovaya_kislota
+802,650,Доксорубицин,doksorubitsin
+803,820,Фторурацил,ftoruratsil
+805,511,"Малатион, Перметрин, Пиперонил бутоксид",malation_permetrin_piperonil_butoksid
+806,639,"Тримазолин, Фенилэфрин",trimazolin_fenilefrin
+810,858,Аира корневища,aira_kornevishcha
+811,1023,"Ацетилсалициловая кислотa, Лимонная кислотa, Натрия гидрокарбонат",atsetilsalitsilovaya_kislota_limonnaya_kislota_natriya_gidrokarbonat
+812,596,Азеластин,azelastin
+816,824,Алтайский экстракт,altayskiy_ekstrakt
+818,2000,Биоактивный концентрат из мелкой морской рыбы,bioaktivnyy_kontsentrat_iz_melkoy_morskoy_ryby
+822,130,Альфакальцидол,alfakaltsidol
+826,424,Амикацин,amikatsin
+829,974,Аммиак,ammiak
+831,226,Ампициллин,ampitsillin
+832,880,Амфотерицин B,amfoteritsin_b
+833,839,Анатоксин стафилококковый,anatoksin_stafilokokkovyy
+834,1295,"Зверобоя трава, Ромашки цветки, Фасоли створки, Хвоща трава, Черники побеги, Шиповника плоды, Элеуте",zveroboya_trava_romashki_tsvetki_fasoli_stvorki_khvoshcha_trava_cherniki_pobegi_shipovnika_plody_eleute
+838,1028,Багульника болотного побеги,bagulnika_bolotnogo_pobegi
+839,924,Гликозаминогликаны сульфатированные,glikozaminoglikany_sulfatirovannye
+841,181,"Бетаметазон, Гентамицин",betametazon_gentamitsin
+843,75,Бетаметазон,betametazon
+845,492,"Бетаметазон, Салициловая кислота",betametazon_salitsilovaya_kislota
+849,581,Бенфотиамин,benfotiamin
+851,1062,Березы почки,berezy_pochki
+854,317,Бифидобактерии бифидум,bifidobakterii_bifidum
+858,318,Бифоназол,bifonazol
+860,1053,"Бензатина бензилпенициллин, Бензилпенициллин прокаина, Бензилпенициллин",benzatina_benzilpenitsillin_benzilpenitsillin_prokaina_benzilpenitsillin
+862,2096,"Бензатина бензилпенициллин, Бензилпенициллин прокаина",benzatina_benzilpenitsillin_benzilpenitsillin_prokaina
+863,1076,Борная кислота,bornaya_kislota
+864,536,Ботулинический токсин типа А-гемагглютинин комплекс,botulinicheskiy_toksin_tipa_a_gemagglyutinin_kompleks
+865,47,Боярышника плоды,boyaryshnika_plody
+868,61,Бриллиантовый зеленый,brilliantovyy_zelenyy
+873,374,Тобрамицин,tobramitsin
+875,1089,Брусники листья,brusniki_listya
+876,1092,Бузины черной цветки,buziny_chernoy_tsvetki
+879,113,Парафин жидкий,parafin_zhidkiy
+881,1095,Вакцина для лечения рака мочевого пузыря БЦЖ,vaktsina_dlya_lecheniya_raka_mochevogo_puzyrya_btszh
+883,1817,Сулодексид,sulodeksid
+884,271,Тетризолин,tetrizolin
+885,1887,Тромантадин,tromantadin
+886,521,Колекальциферол,kolekaltsiferol
+887,153,"Трипсин, Химотрипсин, Папаин",tripsin_khimotripsin_papain
+890,245,"Салициловая кислота, Цинка оксид",salitsilovaya_kislota_tsinka_oksid
+891,821,Гамамелиса виргинского настойка гомеопатическая,gamamelisa_virginskogo_nastoyka_gomeopaticheskaya
+893,1156,Гепарин натрия,geparin_natriya
+898,1399,Карбамида пероксид,karbamida_peroksid
+899,575,Эконазол,ekonazol
+900,1708,Полидигидроксифенилентиосульфонат натрия,polidigidroksifenilentiosulfonat_natriya
+901,83,Холина альфосцерат,kholina_alfostserat
+904,189,Тирозил-D-аланил-глицил-фенилаланил-лейцил-аргинина,tirozil_d_alanil_glitsil_fenilalanil_leytsil_arginina
+905,1484,"Лауромакрогол 600, Лидокаин, Ромашки аптечной цветков экстракт",lauromakrogol_600_lidokain_romashki_aptechnoy_tsvetkov_ekstrakt
+911,666,"Медроксипрогестерон, Эстрадиол",medroksiprogesteron_estradiol
+915,844,Доксициклин,doksitsiklin
+916,2109,Глюкозамин,glyukozamin
+917,1266,Донника трава,donnika_trava
+918,846,Допамин,dopamin
+920,1275,Душица обыкновенная,dushitsa_obyknovennaya
+922,1289,Желчь,zhelch
+923,1536,"Белладонны настойка, Валерианы лек. корневищ с корнями настойка, Ландыша травы настойка, Левоментол",belladonny_nastoyka_valeriany_lek_kornevishch_s_kornyami_nastoyka_landysha_travy_nastoyka_levomentol
+924,1299,Золототысячника трава,zolototysyachnika_trava
+925,562,Сертралин,sertralin
+927,455,Инозин Пранобекс,inozin_pranobeks
+928,755,Фрамицетин,framitsetin
+930,239,Иммуноглобулин человека противоаллергический,immunoglobulin_cheloveka_protivoallergicheskiy
+931,327,Аргинил-альфа-аспартил-лизил-валил-тирозил-аргинин,arginil_alfa_aspartil_lizil_valil_tirozil_arginin
+933,694,Гидроксиэтилкрахмал,gidroksietilkrakhmal
+935,1608,"Натрия хлорид, Калия ацетат, Кальция ацетат, Натрия ацетат, Магния аспартат",natriya_khlorid_kaliya_atsetat_kaltsiya_atsetat_natriya_atsetat_magniya_aspartat
+936,163,Каланхоэ побегов сок,kalankhoe_pobegov_sok
+937,874,Календулы лек. цветки,kalenduly_lek_tsvetki
+938,1425,Кальция глицерофосфат,kaltsiya_glitserofosfat
+939,1393,Канамицин,kanamitsin
+943,1419,"Беклометазон, Клотримазол",beklometazon_klotrimazol
+946,607,Каптоприл,kaptopril
+951,996,"Аронии черноплодной плоды, Березы почки, Боярышника плоды, Боярышника цветки, Сосны кедровой сибирск",aronii_chernoplodnoy_plody_berezy_pochki_boyaryshnika_plody_boyaryshnika_tsvetki_sosny_kedrovoy_sibirsk
+952,1407,Кетоаналоги аминокислот,ketoanalogi_aminokislot
+953,36,Лоратадин,loratadin
+954,1706,Поливинилбутираль,polivinilbutiral
+955,678,Зуклопентиксол,zuklopentiksol
+965,1850,"Колистиметат натрия, Тетрациклин, Хлорамфеникол",kolistimetat_natriya_tetratsiklin_khloramfenikol
+966,570,Инактивированные микробные клетки E. coli,inaktivirovannye_mikrobnye_kletki_e_coli
+967,551,"Мяты перечной листьев масло, Фенобарбитал, Хмеля соплодий масло, Этилбромизовалерианат",myaty_perechnoy_listev_maslo_fenobarbital_khmelya_soplodiy_maslo_etilbromizovalerianat
+970,379,Полипептиды коры головного мозга скота,polipeptidy_kory_golovnogo_mozga_skota
+974,1453,Кукурузы столбики с рыльцами,kukuruzy_stolbiki_s_ryltsami
+975,1052,"Бензалкония, Гипромеллоза",benzalkoniya_gipromelloza
+976,1464,Ламинарии слоевища,laminarii_sloevishcha
+977,875,Лапчатки прямостоячей корневища,lapchatki_pryamostoyachey_kornevishcha
+981,251,Глюкозаминилмурамилдипептид,glyukozaminilmuramildipeptid
+983,26,Линкомицин,linkomitsin
+987,643,Фенофибрат,fenofibrat
+989,1756,Ритуксимаб,rituksimab
+992,1526,Мать-и-мачехи листья,mat_i_machekhi_listya
+995,56,Мелиссы лек. трава,melissy_lek_trava
+996,758,Метадоксин,metadoksin
+997,1557,Диоксометилтетрагидропиримидин,dioksometiltetragidropirimidin
+1000,1535,Мельдоний,meldoniy
+1003,282,Ропивакаин,ropivakain
+1006,877,Дезоксирибонуклеат натрия,dezoksiribonukleat_natriya
+1009,803,Натрия фторид,natriya_ftorid
+1013,180,"Гепарин натрия, Бензокаин, Бензилникотинат",geparin_natriya_benzokain_benzilnikotinat
+1017,1632,Одуванчика лек.трава,oduvanchika_lek_trava
+1018,825,Оксациллин,oksatsillin
+1020,192,"Гидрокортизон, Окситетрациклин",gidrokortizon_oksitetratsiklin
+1024,375,"Лидокаин, Феназон",lidokain_fenazon
+1025,757,Рифамицин,rifamitsin
+1028,532,Рабепразол,rabeprazol
+1029,2012,"Эвкалипта прутовидного листьев масло, Левоментол",evkalipta_prutovidnogo_listev_maslo_levomentol
+1030,1681,Пижмы обыкновенной цветки,pizhmy_obyknovennoy_tsvetki
+1031,247,Пилокарпин,pilokarpin
+1034,1032,Бактериальный липополисахарид,bakterialnyy_lipopolisakharid
+1038,320,Подорожника большого листья,podorozhnika_bolshogo_listya
+1039,411,Азоксимера бромид,azoksimera_bromid
+1042,531,Пропилтиоурацил,propiltiouratsil
+1043,1805,"Солодки корнь, Золотарника канадского трава, Зверобоя трава, Эхинацея пурпурной корневище с корнями",solodki_korn_zolotarnika_kanadskogo_trava_zveroboya_trava_ekhinatseya_purpurnoy_kornevishche_s_kornyami
+1044,214,Простаты экстракт,prostaty_ekstrakt
+1046,680,Флуоксетин,fluoksetin
+1047,848,Меглюмина натрия сукцинат,meglyumina_natriya_suktsinat
+1048,1749,Рибавирин,ribavirin
+1049,365,"Декстроза, Калия хлорид, Натрия хлорид, Натрия цитрат",dekstroza_kaliya_khlorid_natriya_khlorid_natriya_tsitrat
+1050,1759,Родиолы розовой корневища и корни,rodioly_rozovoy_kornevishcha_i_korni
+1051,1186,Гликозаминогликан-Пептидный комплекс,glikozaminoglikan_peptidnyy_kompleks
+1052,1769,Рыбий жир из печени трески,rybiy_zhir_iz_pecheni_treski
+1054,328,Сенны остролистной листья,senny_ostrolistnoy_listya
+1055,1152,Гексэстрол,geksestrol
+1056,559,Пиритион цинк,pirition_tsink
+1060,881,Сосны обыкновенной почки,sosny_obyknovennoy_pochki
+1061,810,Троспия хлорид,trospiya_khlorid
+1065,1837,Статин,statin
+1069,1823,Сульфацетамид,sulfatsetamid
+1071,1847,"Термопсиса ланцетного трава, Натрия гидрокарбонат",termopsisa_lantsetnogo_trava_natriya_gidrokarbonat
+1072,1429,"Коллаген, Фибриноген, Тромбин",kollagen_fibrinogen_trombin
+1074,547,Эпросартан,eprosartan
+1075,1752,"Борная кислота, Метенамин, Тальк, Натрия тетраборат, Салициловая кислота, Свинца ацетат, Формальдегид, Цинк",bornaya_kislota_metenamin_talk_natriya_tetraborat_salitsilovaya_kislota_svintsa_atsetat_formaldegid_tsink
+1076,784,Тиаприд,tiaprid
+1083,1884,Трипсин,tripsin
+1085,149,Толокнянки обыкновенной листья,toloknyanki_obyknovennoy_listya
+1086,1545,Месна,mesna
+1087,408,Урсодезоксихолевая кислота,ursodezoksikholevaya_kislota
+1088,1866,Торемифен,toremifen
+1090,749,Амбазон,ambazon
+1091,649,Эпирубицин,epirubitsin
+1095,589,"Железа сульфат, Фолиевая кислота, Цианокобаламин",zheleza_sulfat_folievaya_kislota_tsianokobalamin
+1097,1279,Железа III гидроксид декстран,zheleza_iii_gidroksid_dekstran
+1098,336,Моксонидин,moksonidin
+1099,586,Флупентиксол,flupentiksol
+1101,799,Тегафур,tegafur
+1111,188,Хондроитина сульфат,khondroitina_sulfat
+1112,998,Артишока листьев экстракт,artishoka_listev_ekstrakt
+1114,145,Цефазолин,tsefazolin
+1118,1971,Циклопентолат,tsiklopentolat
+1119,1977,Цинка сульфат,tsinka_sulfat
+1120,1982,Циталопрам,tsitalopram
+1122,1985,Гриб березовый,grib_berezovyy
+1123,2468,Чага измельченная,chaga_izmelchennaya
+1124,377,Чемерицы Лобеля корневищ с корнями настойка,chemeritsy_lobelya_kornevishch_s_kornyami_nastoyka
+1125,1988,Чистотела большого трава,chistotela_bolshogo_trava
+1127,892,Шалфея лек. листья,shalfeya_lek_listya
+1129,68,Эвкалипта прутовидного листья,evkalipta_prutovidnogo_listya
+1131,659,"Календулы лек.цветки, Ромашки цветки, Солодки корни, Череды трава, Шалфея лек.листья, Эвкалипта листья",kalenduly_lek_tsvetki_romashki_tsvetki_solodki_korni_cheredy_trava_shalfeya_lek_listya_evkalipta_listya
+1132,1743,Растительные экстракты,rastitelnye_ekstrakty
+1133,1711,Полиметилсилоксана полигидрат,polimetilsiloksana_poligidrat
+1135,975,Аммония Глицирризинат,ammoniya_glitsirrizinat
+1136,350,Эпоэтин альфа,epoetin_alfa
+1137,2016,Эрвы шерстистой трава,ervy_sherstistoy_trava
+1138,308,Эритромицин,eritromitsin
+1140,794,Цитарабин,tsitarabin
+1142,489,Нафтифин,naftifin
+1145,488,"Бацитрацин, Неомицин",batsitratsin_neomitsin
+1150,819,Кальция фолинат,kaltsiya_folinat
+1151,370,Метотрексат,metotreksat
+1153,2104,Пептидов мозга комплекс,peptidov_mozga_kompleks
+1160,1647,Паклитаксел,paklitaksel
+1170,987,Антиингибиторный коагулянтный комплекс,antiingibitornyy_koagulyantnyy_kompleks
+1172,1903,Фактор Свертывания Крови Ix,faktor_svertyvaniya_krovi_ix
+1174,1905,Фактор Свертывания Крови Viii,faktor_svertyvaniya_krovi_viii
+1177,15,Пентоксифиллин,pentoksifillin
+1178,258,"Пиридоксин, Тиамин, Цианокобаламин",piridoksin_tiamin_tsianokobalamin
+1179,2100,"Железа фумарат, Фолиевая кислота",zheleza_fumarat_folievaya_kislota
+1181,115,"Гепарин натрия, Декспантенол, Диметилсульфоксид",geparin_natriya_dekspantenol_dimetilsulfoksid
+1183,1744,"Расторопши пятнистой плоды, Дымянки лек.трава",rastoropshi_pyatnistoy_plody_dymyanki_lek_trava
+1184,1239,Депротеинизированный гемодериват крови телят,deproteinizirovannyy_gemoderivat_krovi_telyat
+1187,2025,"Этамиван, Этофиллин, Гексобендин",etamivan_etofillin_geksobendin
+1190,768,Гексопреналин,geksoprenalin
+1199,482,Лорноксикам,lornoksikam
+1216,869,Аминокапроновая кислота,aminokapronovaya_kislota
+1219,242,"Бетаин, Пепсин",betain_pepsin
+1220,1049,Бендазол,bendazol
+1224,1234,Декстран,dekstran
+1225,808,Декстран ср.мол.масса 30000-50000,dekstran_sr_mol_massa_30000_50000
+1229,170,Дифенгидрамин,difengidramin
+1236,1517,Маннитол,mannitol
+1239,204,Нистатин,nistatin
+1243,84,Рифампицин,rifampitsin
+1245,205,Тетрациклин,tetratsiklin
+1246,473,Аминофенилмасляная кислота,aminofenilmaslyanaya_kislota
+1249,725,"Желчь, Поджелудочной железы порошок, Слизистой тонкой кишки порошок",zhelch_podzheludochnoy_zhelezy_poroshok_slizistoy_tonkoy_kishki_poroshok
+1252,469,Мозга крупного рогатого скота гидролизат,mozga_krupnogo_rogatogo_skota_gidrolizat
+1254,1810,Стрептокиназа,streptokinaza
+1256,291,Метилэтилпиридинол,metiletilpiridinol
+1258,195,Амантадин,amantadin
+1261,211,"Аскорбиновая кислота, Декстроза",askorbinovaya_kislota_dekstroza
+1264,891,"Деготь, Трибромфенолята висмута и Висмута оксида комплекс",degot_tribromfenolyata_vismuta_i_vismuta_oksida_kompleks
+1268,20,Вода,voda
+1270,91,"Камфора, Мяты перечной листьев масло/Левоментол, Эвкалипта прутовидного листьев масло",kamfora_myaty_perechnoy_listev_maslo_levomentol_evkalipta_prutovidnogo_listev_maslo
+1277,1366,Календулы лекарственной цветков экстракт,kalenduly_lekarstvennoy_tsvetkov_ekstrakt
+1279,126,Клещевины обыкновенной семян масло,kleshcheviny_obyknovennoy_semyan_maslo
+1282,397,"Йод, (Калия йодид, Глицерол)",yod_kaliya_yodid_glitserol
+1286,1598,Натрия гидрокарбонат,natriya_gidrokarbonat
+1288,805,Нитрофурантоин,nitrofurantoin
+1292,1692,Пиридоксин,piridoksin
+1294,1787,Сера,sera
+1295,300,Фолиевая кислота,folievaya_kislota
+1296,1940,Фуразолидон,furazolidon
+1304,1819,Сульфагуанидин,sulfaguanidin
+1305,358,Магния сульфат,magniya_sulfat
+1306,476,Кофеин,kofein
+1309,1129,"Витамин Е, Ретинол",vitamin_e_retinol
+1316,2046,Янтарная кислота,yantarnaya_kislota
+1317,950,"Дигидроэргокриптин, Кофеин",digidroergokriptin_kofein
+1320,907,Азапентацен,azapentatsen
+1324,1246,"Дигидралазин, Гидрохлоротиазид, Резерпин",digidralazin_gidrokhlorotiazid_rezerpin
+1326,602,Магния оротат,magniya_orotat
+1327,986,"Анисовое масло, Лаванда масло, Ментол, Шалфей, Тимьяна масло",anisovoe_maslo_lavanda_maslo_mentol_shalfey_timyana_maslo
+1342,108,"Аммиак, Аниса обыкновенного семян масло, Солодки корней экстр.",ammiak_anisa_obyknovennogo_semyan_maslo_solodki_korney_ekstr
+1345,1472,Левзеи экстракт,levzei_ekstrakt
+1347,423,"Бензокаин, Прокаин, Левоментол",benzokain_prokain_levomentol
+1348,54,Мяты перечной листья,myaty_perechnoy_listya
+1349,985,"Аммиак, Аниса обыкновенного семян масло",ammiak_anisa_obyknovennogo_semyan_maslo
+1352,873,Водорода пероксид,vodoroda_peroksid
+1355,1941,Хвоща полевого трава,khvoshcha_polevogo_trava
+1356,207,Тимьяна ползучего трава,timyana_polzuchego_trava
+1360,399,Сульфаниламид,sulfanilamid
+1373,1848,"Термопсиса экстр., Аммония хлорид, Аниса масло, Натрия бензоат, Натрия гидрокарбонат, Солодки корни",termopsisa_ekstr_ammoniya_khlorid_anisa_maslo_natriya_benzoat_natriya_gidrokarbonat_solodki_korni
+1378,1370,"Тимьяна ползучего травы экстракт, Калия бромид",timyana_polzuchego_travy_ekstrakt_kaliya_bromid
+1379,140,Перца водяного трава,pertsa_vodyanogo_trava
+1380,2183,Перца стручкового плодов настойка,pertsa_struchkovogo_plodov_nastoyka
+1381,76,"Пиона уклоняющегося трава,корневища и корни",piona_uklonyayushchegosya_trava_kornevishcha_i_korni
+1392,876,Шиповника семян масло,shipovnika_semyan_maslo
+1397,653,Желатин,zhelatin
+1400,1201,Глютаминовая кислота,glyutaminovaya_kislota
+1401,514,Эхинацеи узколистной настойка,ekhinatsei_uzkolistnoy_nastoyka
+1409,1973,Цимицифуги кистевидной корневищ экстракт,tsimitsifugi_kistevidnoy_kornevishch_ekstrakt
+1411,2454,Безвременника осеннего семян экстракт,bezvremennika_osennego_semyan_ekstrakt
+1414,1707,Полигексанид,poligeksanid
+1417,430,Гиалуронидаза,gialuronidaza
+1428,1914,Феноксиметилпенициллин,fenoksimetilpenitsillin
+1429,316,Верапамил,verapamil
+1432,173,Амлодипин,amlodipin
+1434,1359,Ифосфамид,ifosfamid
+1442,822,Этамбутол,etambutol
+1444,992,Аралии Маньчжурской корни,aralii_manchzhurskoy_korni
+1445,525,"Гвоздики масло, Камфора, Коричника масло, Мяты масло, Перца н-ка, Тимол, Хлоралгидрат, Эвкалипт масло",gvozdiki_maslo_kamfora_korichnika_maslo_myaty_maslo_pertsa_n_ka_timol_khloralgidrat_evkalipt_maslo
+1448,1205,Горчичный порошок,gorchichnyy_poroshok
+1451,1329,"Индометацин, Троксерутин",indometatsin_trokserutin
+1454,52,Расторопши пятнистой плодов экстракт,rastoropshi_pyatnistoy_plodov_ekstrakt
+1457,132,Календулы лекарственной цветков настойка гомеопатическая,kalenduly_lekarstvennoy_tsvetkov_nastoyka_gomeopaticheskaya
+1458,1871,"Полыни понтийской трава, Чабера трава, Бутоны гвоздичн дерев, Перца черн плоды",polyni_pontiyskoy_trava_chabera_trava_butony_gvozdichn_derev_pertsa_chern_plody
+1465,1702,Подорожника ланцетовидного экстракт,podorozhnika_lantsetovidnogo_ekstrakt
+1473,1719,"Провитамин А, Витамин Е",provitamin_a_vitamin_e
+1474,550,Моксифлоксацин,moksifloksatsin
+1479,658,Каберголин,kabergolin
+1480,815,"Метопролол, Фелодипин",metoprolol_felodipin
+1481,412,Налтрексон,naltrekson
+1488,695,"Боярышника плодов экстр., Бузины черной цветков экстр., Валерианы лек. корневищ с корнями",boyaryshnika_plodov_ekstr_buziny_chernoy_tsvetkov_ekstr_valeriany_lek_kornevishch_s_kornyami
+1489,1886,"Трипсин, Рутозид, Бромелаин",tripsin_rutozid_bromelain
+1495,1633,Октенидина дигидрохлорид,oktenidina_digidrokhlorid
+1496,110,Панкреатин,pankreatin
+1498,1777,"Бромгексин, Гвайфенезин, Сальбутамол",bromgeksin_gvayfenezin_salbutamol
+1503,135,Гликлазид,gliklazid
+1512,1412,"Кларитромицин, Омепразол, Тинидазол",klaritromitsin_omeprazol_tinidazol
+1513,2202,Экстракт из культуры термофильного штамма золотистого стафилококка,ekstrakt_iz_kultury_termofilnogo_shtamma_zolotistogo_stafilokokka
+1514,1501,Икатибант,ikatibant
+1515,529,Холина салицилат,kholina_salitsilat
+1516,418,Этилметилгидроксипиридина сукцинат,etilmetilgidroksipiridina_suktsinat
+1524,1,Хинаприл,khinapril
+1526,167,"Глибенкламид, Метформин",glibenklamid_metformin
+1530,1776,"Салметерол, Флутиказон",salmeterol_flutikazon
+1535,152,Химотрипсин,khimotripsin
+1542,9,Спиронолактон,spironolakton
+1546,2394,"Иммуноглобулин человека нормальный [IgG, IgM, IgA], Интерферон альфа-2b",immunoglobulin_cheloveka_normalnyy_igg_igm_iga_interferon_alfa_2b
+1548,64,Доксазозин,doksazozin
+1549,2465,Антитела,antitela
+1553,1513,Магния оксид,magniya_oksid
+1556,259,"Иммуноглобулин человека нормальный IgG, IgA, IgM",immunoglobulin_cheloveka_normalnyy_igg_iga_igm
+1566,1263,"Дицикловерин, Парацетамол",ditsikloverin_paratsetamol
+1574,588,Алюминия фосфат,alyuminiya_fosfat
+1577,1983,Цитохром С,tsitokhrom_s
+1579,487,Цианамид,tsianamid
+1581,13,Ницерголин,nitsergolin
+1583,735,Эбастин,ebastin
+1584,1642,Осельтамивир,oseltamivir
+1593,1920,Фенхеля обыкновенного плоды,fenkhelya_obyknovennogo_plody
+1594,732,Ноноксинол,nonoksinol
+1595,86,Месалазин,mesalazin
+1600,774,Менотропины,menotropiny
+1601,109,Адапален,adapalen
+1602,385,Бусерелин,buserelin
+1603,444,Ацетилцистеин,atsetiltsistein
+1605,55,Плюща обыкновенного листьев экстракт,plyushcha_obyknovennogo_listev_ekstrakt
+1614,637,Метилпреднизолона ацепонат,metilprednizolona_atseponat
+1631,264,Эстриол,estriol
+1639,1563,"Метронидазол, Хлорхиналдон",metronidazol_khlorkhinaldon
+1650,642,Нимодипин,nimodipin
+1653,284,Пиобактериофаг,piobakteriofag
+1657,2067,"Вакцина для профилактики кори, краснухи и паротита",vaktsina_dlya_profilaktiki_kori_krasnukhi_i_parotita
+1659,1713,Полипептиды сетчатки глаз скота,polipeptidy_setchatki_glaz_skota
+1665,1967,"Шалфея экстракт, Шалфея масло",shalfeya_ekstrakt_shalfeya_maslo
+1666,351,Мемантин,memantin
+1667,1935,Фосфокреатин,fosfokreatin
+1668,391,Умифеновир,umifenovir
+1671,1462,"Лактулоза, Лигнин гидролизный",laktuloza_lignin_gidroliznyy
+1674,1006,"Аскорбиновая к-та, Цианокобаламин, Фолиевая к-та, Пиридоксин, Рибофлавин, Тиамин, Витамин Е, Бетакаратин",askorbinovaya_k_ta_tsianokobalamin_folievaya_k_ta_piridoksin_riboflavin_tiamin_vitamin_e_betakaratin
+1675,1806,Сорбитол,sorbitol
+1676,685,Бензидамин,benzidamin
+1677,553,"Холина салицилат, Цеталкония хлорид",kholina_salitsilat_tsetalkoniya_khlorid
+1678,1197,Глутоксим,glutoksim
+1683,329,Жировые эмульсии для парентерального питания,zhirovye_emulsii_dlya_parenteralnogo_pitaniya
+1693,742,Повидон-Йод,povidon_yod
+1695,552,Проксиметакаин,proksimetakain
+1697,608,Рилменидин,rilmenidin
+1699,216,"Аминокислоты для парентерального питания, Прочие препараты Минералы",aminokisloty_dlya_parenteralnogo_pitaniya_prochie_preparaty_mineraly
+1704,555,Алклометазон,alklometazon
+1709,1041,"Искусственный мускус, Искусственный безоар, Жемчуг, Янтарь, Борнеол, Цинка карбонат",iskusstvennyy_muskus_iskusstvennyy_bezoar_zhemchug_yantar_borneol_tsinka_karbonat
+1710,620,"Ипратропия бромид, Фенотерол",ipratropiya_bromid_fenoterol
+1717,32,Триметазидин,trimetazidin
+1718,518,Невирапин,nevirapin
+1719,519,Мебендазол,mebendazol
+1720,959,Аминодигидрофталазиндион натрия,aminodigidroftalazindion_natriya
+1721,1814,Субстанция из высушенных жизнеспособных клеток лактобацилюс,substantsiya_iz_vysushennykh_zhiznesposobnykh_kletok_laktobatsilyus
+1722,567,Миртол,mirtol
+1724,523,Милнаципран,milnatsipran
+1742,544,"Железа III гидроксид полимальтозат, Фолиевая кислота",zheleza_iii_gidroksid_polimaltozat_folievaya_kislota
+1744,600,Метоклопрамид,metoklopramid
+1746,341,Беклометазон,beklometazon
+1747,175,Норфлоксацин,norfloksatsin
+1756,1251,"Диклофенак, Парацетамол",diklofenak_paratsetamol
+1757,28,Азаметония бромид,azametoniya_bromid
+1758,234,Пропафенон,propafenon
+1765,95,Миртазапин,mirtazapin
+1766,1344,Инфликсимаб,infliksimab
+1772,1844,Теразозин,terazozin
+1774,1091,"Будесонид, Формотерол",budesonid_formoterol
+1778,579,"Леводопа, [Карбидопа]",levodopa_karbidopa
+1780,533,Спарфлоксацин,sparfloksatsin
+1781,669,"Ампициллин, [Сульбактам]",ampitsillin_sulbaktam
+1784,48,Левофлоксацин,levofloksatsin
+1789,422,Темозоломид,temozolomid
+1796,104,"Дексаметазон, Тобрамицин",deksametazon_tobramitsin
+1801,1604,Натрия тетрадецилсульфат,natriya_tetradetsilsulfat
+1809,480,Фузидовая кислота,fuzidovaya_kislota
+1811,5,"Гидрокортизон, Фузидовая кислота",gidrokortizon_fuzidovaya_kislota
+1812,2103,"Бетаметазон ,  Фузидовая кислота",betametazon_fuzidovaya_kislota
+1815,390,Шиповника плодов экстракт,shipovnika_plodov_ekstrakt
+1817,311,Гонадотропин хорионический,gonadotropin_khorionicheskiy
+1824,887,Вакцина для профилактики вирусного гепатита В,vaktsina_dlya_profilaktiki_virusnogo_gepatita_v
+1826,1818,Сульбутиамин,sulbutiamin
+1828,704,Дезлоратадин,dezloratadin
+1830,1760,Рокурония бромид,rokuroniya_bromid
+1832,1709,Полидоканол,polidokanol
+1835,2048,Эхинацеи узколистной экстракт,ekhinatsei_uzkolistnoy_ekstrakt
+1836,767,Флутамид,flutamid
+1843,885,Иммуноглобулин человека антирезус Rho (D),immunoglobulin_cheloveka_antirezus_rho_d
+1846,1376,"Кальций, Магний, Цинк, Колекальциферол",kaltsiy_magniy_tsink_kolekaltsiferol
+1854,1519,Марены красильной экстр.,mareny_krasilnoy_ekstr
+1856,587,Кальция добезилат,kaltsiya_dobezilat
+1858,1450,Крушины кора,krushiny_kora
+1866,1363,"Календула, Мята, Пижма, Ромашка, Тысячелистник",kalendula_myata_pizhma_romashka_tysyachelistnik
+1868,1364,"Календулы лек цветки, Мяты переч листья, Толокнянки обык листья, Укропа плоды, Элеутерококка корневища",kalenduly_lek_tsvetki_myaty_perech_listya_toloknyanki_obyk_listya_ukropa_plody_eleuterokokka_kornevishcha
+1869,1109,"Валериана, Мята, Пустырник, Солодка, Хмель",valeriana_myata_pustyrnik_solodka_khmel
+1870,1108,"Валериана, Донник, Душица, Чабрец, Пустырник",valeriana_donnik_dushitsa_chabrets_pustyrnik
+1876,1674,Пегинтерферон Альфа-2B,peginterferon_alfa_2b
+1877,612,Иматиниб,imatinib
+1878,155,Цефтриаксон,tseftriakson
+1891,141,Цетиризин,tsetirizin
+1901,1775,"Салициловая кислота, Бензойная кислота, Яблочная кислота",salitsilovaya_kislota_benzoynaya_kislota_yablochnaya_kislota
+1903,1171,Гидроксиэтилцеллюлоза,gidroksietiltsellyuloza
+1908,1492,"Калия гидрокарбонат, Лимонная кислота, Натрия цитрат",kaliya_gidrokarbonat_limonnaya_kislota_natriya_tsitrat
+1910,786,Оксибупрокаин,oksibuprokain
+1913,2546,"Кофеин, Напроксен, Салициламид",kofein_naproksen_salitsilamid
+1914,354,Меропенем,meropenem
+1917,1936,Фосфомицин,fosfomitsin
+1922,158,Хлоргексидин,khlorgeksidin
+1925,686,Линезолид,linezolid
+1929,378,"Бетаметазон, Гентамицин, Клотримазол",betametazon_gentamitsin_klotrimazol
+1933,265,"Багульника побеги, Календулы цветки, Мяты листья, Ромашки цветки, Фиалки трава, Солодка корни",bagulnika_pobegi_kalenduly_tsvetki_myaty_listya_romashki_tsvetki_fialki_trava_solodka_korni
+1937,393,Мометазон,mometazon
+1942,419,Варфарин,varfarin
+1947,840,"Бифидобактерии бифидум, Лизоцим",bifidobakterii_bifidum_lizotsim
+1949,1789,Серебра протеинат,serebra_proteinat
+1950,212,Эзомепразол,ezomeprazol
+1955,286,Десмопрессин,desmopressin
+1959,2160,"Алгелдрат, Магния гидроксид, Симетикон",algeldrat_magniya_gidroksid_simetikon
+1962,1676,Пентагидроксиэтилнафтохинон,pentagidroksietilnaftokhinon
+1964,1085,Бринзоламид,brinzolamid
+1965,490,"Поливитамины, Прочие препараты",polivitaminy_prochie_preparaty
+1969,1264,"Диэтиламина салицилат, Эсцин",dietilamina_salitsilat_estsin
+1970,1964,Цефиксим,tsefiksim
+1977,883,Вакцина для профилактики герпетических инфекций,vaktsina_dlya_profilaktiki_gerpeticheskikh_infektsiy
+1978,102,Миноксидил,minoksidil
+1987,572,Гидроталцит,gidrotaltsit
+1994,2008,"Гидрохлоротиазид, Эналаприл",gidrokhlorotiazid_enalapril
+1996,1038,"Грибковая диастаза, папаин, симетико, уг.актив, никотинамид",gribkovaya_diastaza_papain_simetiko_ug_aktiv_nikotinamid
+1997,1997,Эксеместан,eksemestan
+1999,1404,Картофеля побегов экстр.,kartofelya_pobegov_ekstr
+2003,1879,Трастузумаб,trastuzumab
+2004,1736,Пэгинтерферон альфа-2a (40 кДа),peginterferon_alfa_2a_40_kda
+2005,194,Эпоэтин бета,epoetin_beta
+2008,889,Тилорон,tiloron
+2009,1701,Подорожника большого листьев экстракт,podorozhnika_bolshogo_listev_ekstrakt
+2012,789,Дакарбазин,dakarbazin
+2014,2015,Эптифибатид,eptifibatid
+2015,565,Карбоплатин,karboplatin
+2020,1134,Вода Адриатического моря с натуральными микроэлементами,voda_adriaticheskogo_morya_s_naturalnymi_mikroelementami
+2021,1771,Сабельника экстракт,sabelnika_ekstrakt
+2022,442,"Глицирризиновая кислота, Фосфолипиды",glitsirrizinovaya_kislota_fosfolipidy
+2024,1220,Девясила корневища с корнями,devyasila_kornevishcha_s_kornyami
+2025,1636,Ольхи соплодия,olkhi_soplodiya
+2045,564,Калия йодид,kaliya_yodid
+2048,1486,"Лидокаин, Хлоргексидин",lidokain_khlorgeksidin
+2050,1408,"Кетоконазол, Пиритион цинк",ketokonazol_pirition_tsink
+2057,630,"Атенолол, Хлорталидон",atenolol_khlortalidon
+2060,21,Гопантеновая кислота,gopantenovaya_kislota
+2061,1312,"Имбирь, Солодки голой, Эмблики лек., Рацементол",imbir_solodki_goloy_embliki_lek_ratsementol
+2065,69,"Альфа-Глутамил, Триптофан, Аскорбиновая кислота, Бендазол",alfa_glutamil_triptofan_askorbinovaya_kislota_bendazol
+2068,647,"Этинилэстрадиол, Диеногест",etinilestradiol_dienogest
+2072,1015,Ацеклофенак,atseklofenak
+2087,1282,Железа протеинсукцинилат,zheleza_proteinsuktsinilat
+2091,1470,"Латанопрост, Тимолол",latanoprost_timolol
+2094,660,"Дифенгидрамин, Нафазолин, Цинка сульфат",difengidramin_nafazolin_tsinka_sulfat
+2096,1986,Череды трава,cheredy_trava
+2104,1223,Дезогестрел,dezogestrel
+2105,1858,"Эвкалипта прутовидного листьев масло, Рацементол",evkalipta_prutovidnogo_listev_maslo_ratsementol
+2108,667,"Альфакальцидол, Кальция карбонат",alfakaltsidol_kaltsiya_karbonat
+2109,1928,Флувастатин,fluvastatin
+2110,1210,Гриба Фузариум Биомасса,griba_fuzarium_biomassa
+2111,683,Ипидакрин,ipidakrin
+2116,18,Карведилол,karvedilol
+2123,500,Левокарнитин,levokarnitin
+2132,656,"Ацетилсалициловая кислота, Магния гидроксид",atsetilsalitsilovaya_kislota_magniya_gidroksid
+2146,1613,Нафталанская нефть,naftalanskaya_neft
+2149,605,"Амилметакрезол, Дихлорбензиловый спирт, Левоментол",amilmetakrezol_dikhlorbenzilovyy_spirt_levomentol
+2151,1000,"Аскорбиновая к-та, Ацетилсалициловая к-та, Рутозид, Метамизол натрия, Кальция глюконат, Дифенгидроми",askorbinovaya_k_ta_atsetilsalitsilovaya_k_ta_rutozid_metamizol_natriya_kaltsiya_glyukonat_difengidromi
+2152,244,Бактериофаг клебсиелл пневмонии,bakteriofag_klebsiell_pnevmonii
+2158,1561,"Метронидазол, Миконазол",metronidazol_mikonazol
+2165,383,Метформин,metformin
+2167,8,Цисплатин,tsisplatin
+2171,682,"Верапамил, Трандолаприл",verapamil_trandolapril
+2180,1830,Тадалафил,tadalafil
+2183,665,"Глюкозамин, Хондроитина сульфат",glyukozamin_khondroitina_sulfat
+2189,1116,Варденафил,vardenafil
+2193,261,Габапентин,gabapentin
+2197,895,Йодофеназон,yodofenazon
+2198,629,Эхинацеи пурпурной травы сок,ekhinatsei_purpurnoy_travy_sok
+2200,1272,"Дротаверин, Кодеин, Парацетамол",drotaverin_kodein_paratsetamol
+2206,105,"Дроспиренон, Этинилэстрадиол",drospirenon_etinilestradiol
+2208,1533,Мелоксикам,meloksikam
+2210,1683,Пимекролимус,pimekrolimus
+2212,2042,Эфирных масел композиция,efirnykh_masel_kompozitsiya
+2213,754,Валганцикловир,valgantsiklovir
+2217,1481,Лефлуномид,leflunomid
+2219,51,Аторвастатин,atorvastatin
+2223,66,"Амоксициллин, Клавулановая кислота",amoksitsillin_klavulanovaya_kislota
+2225,675,Бензоила пероксид,benzoila_peroksid
+2227,2033,"Этинилэстрадиол, Хлормадинон",etinilestradiol_khlormadinon
+2229,215,Бисопролол,bisoprolol
+2232,1120,"Винпоцетин, Пирацетам",vinpotsetin_piratsetam
+2246,1409,Пептидогликан кислый из ростков картофеля,peptidoglikan_kislyy_iz_rostkov_kartofelya
+2247,1043,"Беклометазон, Клотримазол, Лидокаин, Хлорамфеникол",beklometazon_klotrimazol_lidokain_khloramfenikol
+2250,343,Розувастатин,rozuvastatin
+2258,1491,"Лизоцим, Пиридоксин",lizotsim_piridoksin
+2259,633,"Гестоден, Этинилэстрадиол",gestoden_etinilestradiol
+2264,2034,"Этинилэстрадиол, Этоногестрел",etinilestradiol_etonogestrel
+2266,1219,Деанола ацеглумат,deanola_atseglumat
+2267,1146,Ганиреликс,ganireliks
+2273,1658,"Парацетамол, Аскорбиновая кислота, Рутозид, Дифенгидрамин, Кальция глюконат",paratsetamol_askorbinovaya_kislota_rutozid_difengidramin_kaltsiya_glyukonat
+2275,1520,"Авокадо масло, соевых бобов масло",avokado_maslo_soevykh_bobov_maslo
+2277,1443,,
+2281,17,Метионил-глутамил-гистидил-фенилаланил-пролил-глицил-пролин,metionil_glutamil_gistidil_fenilalanil_prolil_glitsil_prolin
+2285,280,"Парацетамол, Фенилэфрин, Фенирамин",paratsetamol_fenilefrin_feniramin
+2288,269,Морская соль,morskaya_sol
+2295,2024,Эсциталопрам,estsitalopram
+2301,1141,Гадобутрол,gadobutrol
+2306,727,Декскетопрофен,deksketoprofen
+2307,721,Каспофунгин,kaspofungin
+2309,62,Леветирацетам,levetiratsetam
+2313,1862,Тиотропия бромид,tiotropiya_bromid
+2315,687,Вакцина для профилактики клещевого энцефалита,vaktsina_dlya_profilaktiki_kleshchevogo_entsefalita
+2316,1755,Ритонавир,ritonavir
+2317,1959,Цетрореликс,tsetroreliks
+2319,1934,Фондапаринукс натрия,fondaparinuks_natriya
+2320,1580,"Мометазон, Салициловая кислота",mometazon_salitsilovaya_kislota
+2321,1306,Идебенон,idebenon
+2322,723,Левосимендан,levosimendan
+2323,743,Инсулин аспарт двухфазный,insulin_aspart_dvukhfaznyy
+2325,1490,"Лизиноприл, Гидрохлоротиазид",lizinopril_gidrokhlorotiazid
+2327,958,Аминобензойная кислота,aminobenzoynaya_kislota
+2341,1067,"Бетаметазон, Кальципотриол",betametazon_kaltsipotriol
+2343,1880,Треонил-Глутамил-Лизил-Лизил-Аргинил-Аргинил-Глутамил-Треонил-Валил-Глутамил-Аргинил-Глутамил-Лизил-,treonil_glutamil_lizil_lizil_arginil_arginil_glutamil_treonil_valil_glutamil_arginil_glutamil_lizil
+2344,1215,Даназол,danazol
+2346,137,Сертаконазол,sertakonazol
+2352,88,Оланзапин,olanzapin
+2358,243,Золедроновая кислота,zoledronovaya_kislota
+2373,160,Бикалутамид,bikalutamid
+2374,111,Флупиртин,flupirtin
+2387,928,"Аллантоин, Гепарин натрия, Лука репчатого луковиц экстракт",allantoin_geparin_natriya_luka_repchatogo_lukovits_ekstrakt
+2393,355,"Гидрохлоротиазид, Лозартан",gidrokhlorotiazid_lozartan
+2414,439,Албендазол,albendazol
+2421,699,Митоксантрон,mitoksantron
+2423,1339,"Интерферон Альфа-2b, Дифенгидрамин",interferon_alfa_2b_difengidramin
+2431,1123,"Буфексамак, Висмута субгаллат, Титана диоксид, Лидокаин",bufeksamak_vismuta_subgallat_titana_dioksid_lidokain
+2436,920,"Прополис, Молочко маточ пчел, Перга сушенная, Пыльца, Мед, Воск",propolis_molochko_matoch_pchel_perga_sushennaya_pyltsa_med_vosk
+2450,1772,Сагетин,sagetin
+2451,1164,Гидразина сульфат,gidrazina_sulfat
+2456,125,Амисульприд,amisulprid
+2459,949,Альфа-Глутамил-Триптофан,alfa_glutamil_triptofan
+2460,1860,Тинидазол,tinidazol
+2464,1950,"Декстрометорфан, Парацетамол, Фенилэфрин, Хлорфенамин",dekstrometorfan_paratsetamol_fenilefrin_khlorfenamin
+2465,1873,Травопрост,travoprost
+2471,2099,N-карбамоилметил-4-фенил-2-пирролидон,n_karbamoilmetil_4_fenil_2_pirrolidon
+2477,764,Фуразидин,furazidin
+2481,1993,Эзетимиб,ezetimib
+2485,344,Левотироксин натрия,levotiroksin_natriya
+2496,593,Инсулин аспарт,insulin_aspart
+2499,861,Бензилдиметил 3-(миристоиламино) пропиламмоний хлорид моногидрат,benzildimetil_3_miristoilamino_propilammoniy_khlorid_monogidrat
+2506,128,Азелаиновая кислота,azelainovaya_kislota
+2509,301,Алендроновая кислота,alendronovaya_kislota
+2511,1834,Таурин,taurin
+2518,464,Цефоперазон,tsefoperazon
+2524,668,Ромашки аптечной цветков экстр.,romashki_aptechnoy_tsvetkov_ekstr
+2529,779,Порактант альфа,poraktant_alfa
+2530,585,Суксаметония хлорид,suksametoniya_khlorid
+2532,957,"Амилметакрезол, Дихлорбензиловый спирт, Лидокаин",amilmetakrezol_dikhlorbenzilovyy_spirt_lidokain
+2534,988,Винограда красных листьев экстракт сухой,vinograda_krasnykh_listev_ekstrakt_sukhoy
+2550,1979,Ципротерон,tsiproteron
+2552,956,"Амилметакрезол, Дихлорбензиловый спирт",amilmetakrezol_dikhlorbenzilovyy_spirt
+2553,50,"Лопинавир, Ритонавир",lopinavir_ritonavir
+2560,1929,Флударабин,fludarabin
+2568,1732,Проурокиназа,prourokinaza
+2591,1340,"Бензокаин, Интерферон альфа-2b, Таурин",benzokain_interferon_alfa_2b_taurin
+2605,752,Зипрасидон,ziprasidon
+2607,673,Якорцев стелющихся травы экстр.,yakortsev_stelyushchikhsya_travy_ekstr
+2609,30,"Кокарбоксилаза, Рибофлавин, Тиоктовая кислота",kokarboksilaza_riboflavin_tioktovaya_kislota
+2617,1011,"Амлодипин, Атенолол",amlodipin_atenolol
+2618,2062,"Вакцина для профилактики дифтерии, коклюша (бесклеточная) и столбняка",vaktsina_dlya_profilaktiki_difterii_koklyusha_beskletochnaya_i_stolbnyaka
+2620,1274,Дулоксетин,duloksetin
+2622,2110,"Индапамид, Эналаприл",indapamid_enalapril
+2626,1629,"Норэлгестромин, Этинилэстрадиол",norelgestromin_etinilestradiol
+2628,2004,Элетриптан,eletriptan
+2630,1262,"Амилметакрезол, Дихлорбензиловый спирт ,  Аскорбиновая кислота",amilmetakrezol_dikhlorbenzilovyy_spirt_askorbinovaya_kislota
+2631,369,"Тинидазол, Ципрофлоксацин",tinidazol_tsiprofloksatsin
+2633,57,Левоцетиризин,levotsetirizin
+2634,801,Диосмин,diosmin
+2636,1334,"Интерферон альфа-2b ,  Ацикловир ,  Лидокаин",interferon_alfa_2b_atsiklovir_lidokain
+2637,761,Вориконазол,vorikonazol
+2641,1460,"Лактобактерии ацидофиллус, Бифидобактерии ВВ12",laktobakterii_atsidofillus_bifidobakterii_vv12
+2653,2029,"Натрия гиалуронат, Алоэ вера сок,  глицерин",natriya_gialuronat_aloe_vera_sok_glitserin
+2654,1231,"Натрия гиалуронат, Алоэ вера сок,  глицерин, препараты серы",natriya_gialuronat_aloe_vera_sok_glitserin_preparaty_sery
+2657,790,"Дроспиренон, Эстрадиол",drospirenon_estradiol
+2659,2391,"Телмисартан, Гидрохлоротиазид",telmisartan_gidrokhlorotiazid
+2660,1161,Гиалуронат натрия,gialuronat_natriya
+2677,436,Пиразинамид,pirazinamid
+2687,991,Арабинопиранозилметил нитрозомочевина,arabinopiranozilmetil_nitrozomochevina
+2688,2432,Триптофанил-аланил-глицил-глицил-аспартил-аланил-серил-глицил-глутаминовая кислота,triptofanil_alanil_glitsil_glitsil_aspartil_alanil_seril_glitsil_glutaminovaya_kislota
+2689,766,Лутропин альфа,lutropin_alfa
+2690,324,Хориогонадотропин альфа,khoriogonadotropin_alfa
+2691,1757,Рифабутин,rifabutin
+2692,1094,Бутоконазола нитрат,butokonazola_nitrat
+2694,1882,"Трехмерный полиакриламид, би-дистиллированная вода, ионы серебра",trekhmernyy_poliakrilamid_bi_distillirovannaya_voda_iony_serebra
+2695,932,Гилан (Hylan G-F 20),gilan_hylan_g_f_20
+2698,540,Идарубицин,idarubitsin
+2701,139,Дутастерид,dutasterid
+2703,1555,Гамма-D-глутамил-D-триптофан,gamma_d_glutamil_d_triptofan
+2705,1009,Аспарагиназа,asparaginaza
+2713,2017,Эрготамин,ergotamin
+2714,939,Аллоферон,alloferon
+2720,737,Окскарбазепин,okskarbazepin
+2724,787,Микофеноловая кислота,mikofenolovaya_kislota
+2731,2105,Натрия гиалуронат,natriya_gialuronat
+2732,798,Сехифенадин,sekhifenadin
+2744,1812,Стронция ранелат,strontsiya_ranelat
+2760,1040,Бевацизумаб,bevatsizumab
+2763,413,Рамиприл,ramipril
+2766,1653,Папайи млечный Сск,papayi_mlechnyy_ssk
+2768,179,"Ацетилсалициловая кислота, Фенилэфрин, Хлорфенамин",atsetilsalitsilovaya_kislota_fenilefrin_khlorfenamin
+2780,1162,Бовгиалуронидаза азоксимер,bovgialuronidaza_azoksimer
+2781,1637,Омега-3 триглицериды [ЭПК/ДГК=1.2/1 - 90%],omega_3_triglitseridy_epk_dgk_1_2_1_90_
+2785,592,Фозиноприл,fozinopril
+2788,219,Гемифлоксацин,gemifloksatsin
+2792,1383,"Кальция пантетотенат, Димеркапрол",kaltsiya_pantetotenat_dimerkaprol
+2794,1735,Пэгастаргаза,pegastargaza
+2795,1310,Изофлуран,izofluran
+2799,1891,Убидекаренон,ubidekarenon
+2803,1497,Лиофилизат сока и экстракта клубней цикламена европейского свежих,liofilizat_soka_i_ekstrakta_klubney_tsiklamena_evropeyskogo_svezhikh
+2804,1822,Сульфатиазол серебра,sulfatiazol_serebra
+2806,191,Венлафаксин,venlafaksin
+2808,185,Инсулин детемир,insulin_detemir
+2811,1305,Ивабрадин,ivabradin
+2813,1309,Изоникотиноилгидразин железа сульфат,izonikotinoilgidrazin_zheleza_sulfat
+2815,1077,Бортезомиб,bortezomib
+2816,800,Гефитиниб,gefitinib
+2817,838,Дезоксирибонуклеат натрия с железом комплекс,dezoksiribonukleat_natriya_s_zhelezom_kompleks
+2819,1783,Севофлуран,sevofluran
+2832,2154,Сиролимус,sirolimus
+2833,213,Такролимус,takrolimus
+2838,1791,Сертиндол,sertindol
+2845,184,Апрепитант,aprepitant
+2847,1301,Зофеноприл,zofenopril
+2849,1803,Солифенацин,solifenatsin
+2850,1832,Тамсулозин,tamsulozin
+2852,353,Ибандроновая кислота,ibandronovaya_kislota
+2854,1839,Тенектеплаза,tenekteplaza
+2856,166,Ламотриджин,lamotridzhin
+2864,621,Пропофол,propofol
+2867,1218,Двуоксид кремния,dvuoksid_kremniya
+2869,1976,Цинка бисвинилимидазола диацетат,tsinka_bisvinilimidazola_diatsetat
+2870,268,Циклосерин,tsikloserin
+2876,2022,Эртапенем,ertapenem
+2878,1105,"Вакцина против вируса папилломы человека квадривалентная, рекомбинантная (типов 6, 11, 16, 18)",vaktsina_protiv_virusa_papillomy_cheloveka_kvadrivalentnaya_rekombinantnaya_tipov_6_11_16_18
+2882,1244,Джозамицин,dzhozamitsin
+2884,2021,Эрлотиниб,erlotinib
+2887,1715,Прегабалин,pregabalin
+2894,220,Атомоксетин,atomoksetin
+2901,1923,Фибриноген,fibrinogen
+2906,613,Тофизопам,tofizopam
+2907,223,Торасемид,torasemid
+2917,486,Кеторолак,ketorolak
+2918,2159,"Сибутрамин, Целлюлоза микрокристаллическая",sibutramin_tsellyuloza_mikrokristallicheskaya
+2926,321,Аминокислоты и пребиотические волокна,aminokisloty_i_prebioticheskie_volokna
+2927,240,Интерферон гамма человеческий рекомбинантный,interferon_gamma_chelovecheskiy_rekombinantnyy
+2929,1358,"Гидрохлоротиазид, Ирбесартан",gidrokhlorotiazid_irbesartan
+2936,989,Антитромбин III,antitrombin_iii
+2939,995,Арипипразол,aripiprazol
+2940,1685,Пиоглитазон,pioglitazon
+2942,272,Адеметионин,ademetionin
+2943,775,Гидроксикарбамид,gidroksikarbamid
+2946,387,Дарунавир,darunavir
+2947,1010,Атазанавир,atazanavir
+2948,312,Фосампренавир,fosamprenavir
+2951,136,Эпидермальный фактор роста человеческий рекомбинантный и Сульфадиазин серебра,epidermalnyy_faktor_rosta_chelovecheskiy_rekombinantnyy_i_sulfadiazin_serebra
+2956,1650,Панавир,panavir
+2962,731,Орнитин,ornitin
+2965,1189,Глимепирид,glimepirid
+2967,1132,"Лидокаин, Цетилпиридиния хлорид",lidokain_tsetilpiridiniya_khlorid
+2968,190,Олопатадин,olopatadin
+2969,1137,Вода морская,voda_morskaya
+2971,260,"Гидрохлоротиазид, Фозиноприл",gidrokhlorotiazid_fozinopril
+2977,961,Аминосалициловая кислота,aminosalitsilovaya_kislota
+2981,1577,Мифепристон,mifepriston
+2985,537,Инсулин лизпро двухфазный,insulin_lizpro_dvukhfaznyy
+2990,1648,Палиперидон,paliperidon
+2994,303,Эверолимус,everolimus
+3000,807,Эсмолол,esmolol
+3004,882,"Инозин, Никотинамид, Рибофлавин, Янтарная кислота",inozin_nikotinamid_riboflavin_yantarnaya_kislota
+3010,1930,"Азитромицин, Секнидазол, Флуконазол",azitromitsin_seknidazol_flukonazol
+3013,1198,"Глюкозамин, Ибупрофен, Хондроитина сульфат",glyukozamin_ibuprofen_khondroitina_sulfat
+3014,1411,"Амоксициллин, Кларитромицин, Омепразол",amoksitsillin_klaritromitsin_omeprazol
+3018,706,Иринотекан,irinotekan
+3020,337,Омализумаб,omalizumab
+3022,1332,Инсулин глулизин,insulin_glulizin
+3030,1696,Пирлиндол,pirlindol
+3032,1456,"Лактобактерии ацидофиллус, Бифидобактерии инфантис, Энтерококки",laktobakterii_atsidofillus_bifidobakterii_infantis_enterokokki
+3035,1217,Дарбэпоэтин альфа,darbepoetin_alfa
+3039,964,"Амлодипин, Валсартан",amlodipin_valsartan
+3044,925,"Алендроновая кислота, Колекальциферол",alendronovaya_kislota_kolekaltsiferol
+3048,1564,"Метроформил, Росиглитазон",metroformil_rosiglitazon
+3053,1798,Ситаглиптин,sitagliptin
+3055,1292,Занамивир,zanamivir
+3057,1242,Деферазирокс,deferaziroks
+3058,1932,Фоллитропин альфа,follitropin_alfa
+3071,229,Транексамовая кислота,traneksamovaya_kislota
+3082,785,Фамцикловир,famtsiklovir
+3095,1634,Октоког альфа,oktokog_alfa
+3099,401,Пидотимод,pidotimod
+3100,1255,"Диметилэфир, Пропан",dimetilefir_propan
+3102,278,Пенцикловир,pentsiklovir
+3106,1528,Мегестрол,megestrol
+3110,1994,Экзенацид,ekzenatsid
+3112,2083,"Леводопа, Энтакапон, Карбидопа",levodopa_entakapon_karbidopa
+3115,1267,Дорипенем,doripenem
+3118,1243,Децитабин,detsitabin
+3134,1627,Омберацетам,omberatsetam
+3138,1599,"Натрия алгинат, Натрия гидрокарбонат, Кальция карбонат",natriya_alginat_natriya_gidrokarbonat_kaltsiya_karbonat
+3149,1946,"Бензокаин, Хлоргексидин",benzokain_khlorgeksidin
+3151,809,"Поливитамины, Фосфолипиды",polivitaminy_fosfolipidy
+3155,1182,Гиперицин,giperitsin
+3163,339,Сорафениб,sorafenib
+3164,97,Периндоприл,perindopril
+3165,628,Прутняка обыкновенного плодов экстр.,prutnyaka_obyknovennogo_plodov_ekstr
+3175,2176,"Бензалкония хлорид, Лидокаин",benzalkoniya_khlorid_lidokain
+3176,1524,"Розмариновое масло, Эвкалиптовое масло , Перуанский бальзам, Камфора",rozmarinovoe_maslo_evkaliptovoe_maslo_peruanskiy_balzam_kamfora
+3198,1522,"Гидрокортизона ацетат, Цинка сульфата моногидрат",gidrokortizona_atsetat_tsinka_sulfata_monogidrat
+3205,1960,Цетуксимаб,tsetuksimab
+3206,1212,Дазатиниб,dazatinib
+3208,333,Энтекавир,entekavir
+3211,81,Кветиапин,kvetiapin
+3213,356,Вакцина для профилактики ветряной оспы,vaktsina_dlya_profilaktiki_vetryanoy_ospy
+3214,334,Телбивудин,telbivudin
+3216,1026,"Ацетилсалициловая кислотa, Дипиридамол",atsetilsalitsilovaya_kislota_dipiridamol
+3220,235,Пантопразол,pantoprazol
+3223,901,Агомелатин,agomelatin
+3225,338,Цитиколин,tsitikolin
+3232,1296,Зидовудин,zidovudin
+3234,402,"Вакцина для профилактики дифтерии,коклюша,полиомиелита,столбняка и инфекций Haemophilus Influenzae",vaktsina_dlya_profilaktiki_difterii_koklyusha_poliomielita_stolbnyaka_i_infektsiy_haemophilus_influenzae
+3236,119,"Тамсулозин, Финастерид набор",tamsulozin_finasterid_nabor
+3237,1926,Флуоресцеин натрия,fluorestsein_natriya
+3245,1826,Сунитиниб,sunitinib
+3246,98,Итоприд,itoprid
+3250,1303,"Ибупрофен, Левоментол",ibuprofen_levomentol
+3251,283,Рифаксимин,rifaksimin
+3257,157,"Плюща листьев экстр., Тимьяна обыкновенного травы экстр.",plyushcha_listev_ekstr_timyana_obyknovennogo_travy_ekstr
+3260,409,"Первоцвета корней экстр., Тимьяна обыкновенного травы экстр.",pervotsveta_korney_ekstr_timyana_obyknovennogo_travy_ekstr
+3262,879,"Тыквы обыкновенной семян масло, Тимол",tykvy_obyknovennoy_semyan_maslo_timol
+3271,267,Тетраметилтетраазабициклооктандион,tetrametiltetraazabitsiklooktandion
+3273,969,"Амлодипин, Лизиноприл",amlodipin_lizinopril
+3279,760,Цисатракурия безилат,tsisatrakuriya_bezilat
+3280,1233,"Декспантенол, Хлоргексидин",dekspantenol_khlorgeksidin
+3282,843,Бациллюс субтилис,batsillyus_subtilis
+3289,993,Природная лиофилизированная гомогенная масса слизистой оболочки желудка птиц,prirodnaya_liofilizirovannaya_gomogennaya_massa_slizistoy_obolochki_zheludka_ptits
+3290,101,"Зидовудин, Ламивудин",zidovudin_lamivudin
+3298,1117,Варениклин,vareniklin
+3302,246,"Гепарин натрия, Декспантенол, Троксерутин",geparin_natriya_dekspantenol_trokserutin
+3305,1784,Селена сульфид,selena_sulfid
+3307,302,Ломефлоксацин,lomefloksatsin
+3308,927,"Аллантоин, Бензетоина хлорид",allantoin_benzetoina_khlorid
+3311,1992,"Яд змеиный, Метилсалицилат, Камфора, Эвкалиптовое масло",yad_zmeinyy_metilsalitsilat_kamfora_evkaliptovoe_maslo
+3312,738,Перметрин,permetrin
+3318,451,"Левоментола раствор в ментил изовалерате, (Декстроза)",levomentola_rastvor_v_mentil_izovalerate_dekstroza
+3323,2544,Метоксиполиэтиленгликоль-эпоэтин бета,metoksipolietilenglikol_epoetin_beta
+3325,926,Алискирен,aliskiren
+3329,1467,Лапатиниб,lapatinib
+3330,1740,Ранибизумаб,ranibizumab
+3335,944,Алтея лекарственного корней экстракт,alteya_lekarstvennogo_korney_ekstrakt
+3340,513,Ламивудин,lamivudin
+3353,2184,"Алюминия гидроксид, Магния гидроксид, Симетикон, Солодки голой корней порошок",alyuminiya_gidroksid_magniya_gidroksid_simetikon_solodki_goloy_korney_poroshok
+3362,512,Абакавир,abakavir
+3368,1199,Глюкозамина сульфат,glyukozamina_sulfat
+3383,1670,"Парацетамол, Фенилэфрин, Фенирамин, Аскорбиновая кислота",paratsetamol_fenilefrin_feniramin_askorbinovaya_kislota
+3384,1013,Атракурия безилат,atrakuriya_bezilat
+3393,2188,"Натрия гиалуронат, Декспантенол",natriya_gialuronat_dekspantenol
+3398,1913,"Фенобарбитал, Этиловый эфир альфа-бромизовалериановой кислоты, Натрия гидроокись, Мяты переч масло",fenobarbital_etilovyy_efir_alfa_bromizovalerianovoy_kisloty_natriya_gidrookis_myaty_perech_maslo
+3400,199,"Гидрохлоротиазид, Хинаприл",gidrokhlorotiazid_khinapril
+3411,1915,"Фенол, Метакрезол",fenol_metakrezol
+3422,795,"Артикаин, Эпинефрин",artikain_epinefrin
+3429,372,Валацикловир,valatsiklovir
+3444,776,Клобетазол,klobetazol
+3447,688,Зверобоя продырявленного травы экстракт,zveroboya_prodyryavlennogo_travy_ekstrakt
+3452,516,"Донника травы экстр., Каштана конского семян экстр.",donnika_travy_ekstr_kashtana_konskogo_semyan_ekstr
+3467,1070,"Лактобактерии рамнозус GG, Лактобактерии ацидофиллус, Бифидобактерии ВВ12, Инулин",laktobakterii_ramnozus_gg_laktobakterii_atsidofillus_bifidobakterii_vv12_inulin
+3475,1477,Лерканидипин,lerkanidipin
+3476,1892,Уденафил,udenafil
+3485,1269,Доцетаксел,dotsetaksel
+3487,368,"Гидрохлоротиазид, Кандесартан",gidrokhlorotiazid_kandesartan
+3490,1974,Цинакальцет,tsinakaltset
+3495,902,Адалимумаб,adalimumab
+3506,1441,"Кофеин, Парацетамол, Хлорфенамин, Фенилэфрин",kofein_paratsetamol_khlorfenamin_fenilefrin
+3510,1483,"Тетракаина гидрохлорид, Цетилпиридиния хлорид, Цинка сульфат",tetrakaina_gidrokhlorid_tsetilpiridiniya_khlorid_tsinka_sulfat
+3527,2564,Бусульфан,busulfan
+3529,1051,"Бензалкония хлорид, Цетримид",benzalkoniya_khlorid_tsetrimid
+3530,2002,Цимицифуги даурской корневищ с корнями экстракт,tsimitsifugi_daurskoy_kornevishch_s_kornyami_ekstrakt
+3538,1958,"Цетилпиридиния хлорид, Лидокаина гидрохрорид",tsetilpiridiniya_khlorid_lidokaina_gidrokhrorid
+3554,716,Мелфалан,melfalan
+3555,1505,"Ломефлоксацин, Простаты экстракт",lomefloksatsin_prostaty_ekstrakt
+3557,962,"Амлодипин, Аторвастатин",amlodipin_atorvastatin
+3559,277,"Бисопролол, Гидрохлоротиазид",bisoprolol_gidrokhlorotiazid
+3565,903,Адамантилбромфениламин,adamantilbromfenilamin
+3566,1458,"Лактобактерии ацидофильные, кефирные грибки",laktobakterii_atsidofilnye_kefirnye_gribki
+3567,381,Гадоксетовая кислота,gadoksetovaya_kislota
+3568,898,"Абакавир, Ламивудин",abakavir_lamivudin
+3569,2040,Этравирин,etravirin
+3579,415,Памидроновая кислота,pamidronovaya_kislota
+3580,434,Треосульфан,treosulfan
+3583,1308,"Изониазид, Рифампицин",izoniazid_rifampitsin
+3584,1795,"Симвастатин, Эзитимиб",simvastatin_ezitimib
+3588,1159,"Гепарин натрия, Эсцин",geparin_natriya_estsin
+3589,1943,Хлорамбуцил,khlorambutsil
+3591,1698,Повидон,povidon
+3592,420,Имидазолилэтанамид пентандиовой кислоты,imidazoliletanamid_pentandiovoy_kisloty
+3593,1430,Коллагеновые волокна на основе коллагена I типа,kollagenovye_volokna_na_osnove_kollagena_i_tipa
+3611,349,"Беклометазон, Формотерол",beklometazon_formoterol
+3617,1428,"ТЕА-кокоилгидролизированный коллаген, Кокобетаин, ПЭГ 120-метилглюкозодиолеат",tea_kokoilgidrolizirovannyy_kollagen_kokobetain_peg_120_metilglyukozodioleat
+3618,2433,Фабомотизол,fabomotizol
+3620,1868,Тоцилизумаб,totsilizumab
+3621,2037,Эторикоксиб,etorikoksib
+3624,389,Разагилин,razagilin
+3627,335,Цетилпиридиния хлорид,tsetilpiridiniya_khlorid
+3642,441,Вилдаглиптин,vildagliptin
+3643,548,Сульфасалазин,sulfasalazin
+3645,1136,"Вода Атлантического океана, Декспантенол",voda_atlanticheskogo_okeana_dekspantenol
+3646,817,"Валерианы корня экстр., Мелиссы лек. травы экстр., Мяты листьев экстр.",valeriany_kornya_ekstr_melissy_lek_travy_ekstr_myaty_listev_ekstr
+3647,1245,Диацереин,diatserein
+3650,1758,Родиола четырехнадрезная,rodiola_chetyrekhnadreznaya
+3661,1782,Севеламер,sevelamer
+3667,948,"Натрия дигидрофосфата дигидрат, Натрия гидрофосфата додекагидрат",natriya_digidrofosfata_digidrat_natriya_gidrofosfata_dodekagidrat
+3674,2035,Этифоксин,etifoksin
+3676,288,"Бифидобактерии бифидум, Лактобактерии плантарум",bifidobakterii_bifidum_laktobakterii_plantarum
+3686,1176,"Гидрохлоротиазид, Рамиприл",gidrokhlorotiazid_ramipril
+3692,1699,"Повидон, Поливиниловый спирт",povidon_polivinilovyy_spirt
+3693,1325,"Индапамид, Периндоприл",indapamid_perindopril
+3695,1073,Бифидобактерии энималис ВВ 12,bifidobakterii_enimalis_vv_12
+3696,571,Симетикон,simetikon
+3697,2381,Раствор физиологический,rastvor_fiziologicheskiy
+3699,1345,Йоверсол,yoversol
+3702,1075,Бозентан,bozentan
+3707,445,"Интерферон альфа-2b, Таурин",interferon_alfa_2b_taurin
+3713,376,"Ципротерон, Этинилэстрадиол",tsiproteron_etinilestradiol
+3716,1119,"Вилдаглиптин, Метформин",vildagliptin_metformin
+3733,1455,Лактитол,laktitol
+3738,1188,Гликопротеин,glikoprotein
+3744,1622,Нилотиниб,nilotinib
+3756,1475,Леналидомид,lenalidomid
+3762,1081,"Боярышник, Валериана, Дифенгидрамин, Мята, Пустырник",boyaryshnik_valeriana_difengidramin_myata_pustyrnik
+3766,1956,Целлюлоза раст.микронизированная,tsellyuloza_rast_mikronizirovannaya
+3767,1543,"Целлюлоза раст.микронизированная, дикого чеснока экстракт",tsellyuloza_rast_mikronizirovannaya_dikogo_chesnoka_ekstrakt
+3768,2101,"Будесонид, Формотерол набор",budesonid_formoterol_nabor
+3773,362,"Пиридоксин, Тиамин, Цианокобаламин, [Лидокаин]",piridoksin_tiamin_tsianokobalamin_lidokain
+3776,502,Фосфолипиды,fosfolipidy
+3782,306,Пэгфилграстим,pegfilgrastim
+3797,1471,Левамлодипин,levamlodipin
+3803,1883,Тримебутин,trimebutin
+3804,2026,Этанерцепт,etanertsept
+3817,1675,Пеметрексед,pemetreksed
+3818,367,Норэпинефрин,norepinefrin
+3819,1211,Дабигатрана этексилат,dabigatrana_eteksilat
+3823,1671,Парикальцитол,parikaltsitol
+3824,1216,Даптомицин,daptomitsin
+3826,1901,Устекинумаб,ustekinumab
+3829,414,Лейпрорелин,leyprorelin
+3832,1689,Пипофезин,pipofezin
+3833,360,Толтеродин,tolterodin
+3835,400,Ботулинический токсин типа А,botulinicheskiy_toksin_tipa_a
+3858,131,Небиволол,nebivolol
+3859,1291,Залеплон,zaleplon
+3879,1331,Инсулин гларгин,insulin_glargin
+3883,404,Тиболон,tibolon
+3890,2014,Эптаког альфа активированный,eptakog_alfa_aktivirovannyy
+3906,2227,Пихты сибирской терпены,pikhty_sibirskoy_terpeny
+3911,1902,Фактор Некроза Опухоли Альфа 1,faktor_nekroza_opukholi_alfa_1
+3914,1330,"Инозитол, Цианокабаламин, Холин гидротартар, Цистеин гидрохлорид",inozitol_tsianokabalamin_kholin_gidrotartar_tsistein_gidrokhlorid
+3920,2009,Энфувиртид,enfuvirtid
+3921,1149,"Броигексин, Гвайфенизин, Сальбутамол, Ментол (Левоментол)",broigeksin_gvayfenizin_salbutamol_mentol_levomentol
+3924,1854,Тигециклин,tigetsiklin
+3925,1838,Темсиролимус,temsirolimus
+3926,1754,Ризендроновая кислота,rizendronovaya_kislota
+3933,1454,Лакосамид,lakosamid
+3938,1588,"Мяты Перечной Масло, Тимол, Эвкалиптовое Масло, Сосны Обыкновенной Масло, Гвайязулен, ",myaty_perechnoy_maslo_timol_evkaliptovoe_maslo_sosny_obyknovennoy_maslo_gvayyazulen
+3951,2426,"Полисилоксан, диоксид кремния",polisiloksan_dioksid_kremniya
+3982,1554,"Метилсалицилат, Левоментол, Терпентинное масло, Эвкалиптовое масло",metilsalitsilat_levomentol_terpentinnoe_maslo_evkaliptovoe_maslo
+3984,1704,Подорожника сок,podorozhnika_sok
+3986,1874,"Травопрост, Тимолол",travoprost_timolol
+3987,1638,"Омепразол, Домперидол",omeprazol_domperidol
+3990,1897,Ундициленовый Амидопропил-Бетаин,unditsilenovyy_amidopropil_betain
+3991,202,Фулвестрант,fulvestrant
+3994,692,Циклофосфамид,tsiklofosfamid
+3995,1739,Ралтегравир,raltegravir
+3996,1373,"Калия хлорид, Кальция хлорид, Магния хлорид, Натрия ацетат, Натрия хлорид, Яблочная кислота",kaliya_khlorid_kaltsiya_khlorid_magniya_khlorid_natriya_atsetat_natriya_khlorid_yablochnaya_kislota
+4007,967,"Амлодипин, Периндоприл",amlodipin_perindopril
+4013,980,Анастрозол,anastrozol
+4014,1898,Урапидил,urapidil
+4018,1615,Неларабин,nelarabin
+4019,2041,Эфирные масла и экстракты хвойных пород,efirnye_masla_i_ekstrakty_khvoynykh_porod
+4020,952,Альфа-Фетопротеин Человека,alfa_fetoprotein_cheloveka
+4021,1635,Олмесартана медоксомил,olmesartana_medoksomil
+4027,1761,Ромиплостим,romiplostim
+4030,1651,Панитумумаб,panitumumab
+4032,1762,Ропинерол,ropinerol
+4064,1465,"Камилофин, Кофеин, Меклоксамин, Пропифеназон, Эрготамин",kamilofin_kofein_mekloksamin_propifenazon_ergotamin
+4081,1774,Саксаглиптин,saksagliptin
+4087,1208,"Грамицидин С, Цетилпиридиния хлорид",gramitsidin_s_tsetilpiridiniya_khlorid
+4088,1207,"Грамицидин С, Оксибупрокаин, Цитилпиридиния хлорид",gramitsidin_s_oksibuprokain_tsitilpiridiniya_khlorid
+4102,186,Ванкомицин,vankomitsin
+4110,1311,Илопрост,iloprost
+4116,1601,"Натрия дигидрофосфат, Ts-Полисахарид",natriya_digidrofosfat_ts_polisakharid
+4120,1354,"Ипратропия бромид, Ксилометазолин",ipratropiya_bromid_ksilometazolin
+4125,2043,"D,L-гопантеновая кислота",d_l_gopantenovaya_kislota
+4126,1148,"Диметикон, Гвайзулен",dimetikon_gvayzulen
+4143,1020,Ацетилкарнитин,atsetilkarnitin
+4144,1731,Протромбиновый комплекс,protrombinovyy_kompleks
+4153,1727,Протеин C,protein_c
+4162,965,"Амлодипин, Валсартан, Гидрохлортиазид",amlodipin_valsartan_gidrokhlortiazid
+4176,1815,Сугаммадекс,sugammadeks
+4177,1500,Лираглутид,liraglutid
+4178,67,Натамицин,natamitsin
+4195,1355,"Ипратропия бромид, Сальбутамол",ipratropiya_bromid_salbutamol
+4206,1753,Ривароксабан,rivaroksaban
+4208,438,Железа ІІІ гидроксид сахарозный комплекс,zheleza_iii_gidroksid_sakharoznyy_kompleks
+4213,1614,Недокромил,nedokromil
+4219,2045,"Якорцев стелющихся эктр., Вишни зимней экстр., Мукуны зудящей эктр.т, Аргиреи красивой экстракт",yakortsev_stelyushchikhsya_ektr_vishni_zimney_ekstr_mukuny_zudyashchey_ektr_t_argirei_krasivoy_ekstrakt
+4240,2384,"Полиэтиленгликоль, Пропиленгликоль, Гидроксипропилгуар",polietilenglikol_propilenglikol_gidroksipropilguar
+4243,2086,"Алендроновая кислота, Альфакальцидол набор",alendronovaya_kislota_alfakaltsidol_nabor
+4250,352,Гидроксихлорохин,gidroksikhlorokhin
+4251,1221,Дегареликс,degareliks
+4254,2011,Эплеренон,eplerenon
+4256,1566,"Метформин, Ситаглиптин",metformin_sitagliptin
+4262,2553,"Диеногест, Эстрадиола валерат и Эстрадиола валерат [набор]",dienogest_estradiola_valerat_i_estradiola_valerat_nabor
+4264,1290,"Парацетамол, Напроксен, Кофеин, Дротаверин, Фенирамин",paratsetamol_naproksen_kofein_drotaverin_feniramin
+4274,1048,Бемипарин натрия,bemiparin_natriya
+4278,1657,"Парацетамол, Аскорбиновая кислота, Римантадин, Рутозид, Лоратадин, Кальция глюконат",paratsetamol_askorbinovaya_kislota_rimantadin_rutozid_loratadin_kaltsiya_glyukonat
+4288,1190,"Глимепирид, Метформин",glimepirid_metformin
+4295,923,"Алверина цитрат, Симетикон",alverina_tsitrat_simetikon
+4306,1881,Треонил-Лизил-Пролил-Аргинил-Пролил-Глицил-Пролина,treonil_lizil_prolil_arginil_prolil_glitsil_prolina
+4310,1546,"Метионин, Фосфолипиды",metionin_fosfolipidy
+4321,1432,Комплексный Эмолент,kompleksnyy_emolent
+4332,1457,"Лактобактерии ацидофильные лиофилизат, Эстриол",laktobakterii_atsidofilnye_liofilizat_estriol
+4348,1646,Пазопаниб,pazopanib
+4352,386,"Бринзоламид, Тимолол",brinzolamid_timolol
+4354,1570,Микафунгин,mikafungin
+4357,225,Антитоксин гангренозный,antitoksin_gangrenoznyy
+4358,58,Донепезил,donepezil
+4362,1281,Железа карбоксимальтозат,zheleza_karboksimaltozat
+4383,1417,"Ацетилсалициловая кислота, Клопидогрел",atsetilsalitsilovaya_kislota_klopidogrel
+4393,1645,"Офлоксацин, Метилурацил, Лидокаин",ofloksatsin_metiluratsil_lidokain
+4394,804,Гранисетрон,granisetron
+4405,566,Мупироцин,mupirotsin
+4408,931,Аллерген бактерий туберкулезный рекомбинантный,allergen_bakteriy_tuberkuleznyy_rekombinantnyy
+4414,2229,"Фузидиновая кислота, Диоксометилтетрагидропиримидин",fuzidinovaya_kislota_dioksometiltetragidropirimidin
+4423,357,Глицин,glitsin
+4425,904,"Адапален, Клиндамицин",adapalen_klindamitsin
+4429,1582,"Морская соль, Экстракт трав",morskaya_sol_ekstrakt_trav
+4432,1138,"Вода морская , Алоэ вера экстр., Ромашки цветки",voda_morskaya_aloe_vera_ekstr_romashki_tsvetki
+4434,71,Диеногест,dienogest
+4442,1135,"Вода Адриатического океана, Эвкалипта масло",voda_adriaticheskogo_okeana_evkalipta_maslo
+4445,1794,Силодозин,silodozin
+4450,670,Сультамициллин,sultamitsillin
+4452,1840,Теноксикам,tenoksikam
+4458,431,"Биматопрост, Тимолол",bimatoprost_timolol
+4462,917,Винбластин,vinblastin
+4463,1084,Бримонидин,brimonidin
+4472,1438,"Кофеин, Кодеин, Парацетамол, Пропифеназон",kofein_kodein_paratsetamol_propifenazon
+4473,1688,"Пиперациллин, [Тазобактам]",piperatsillin_tazobaktam
+4476,1324,Индакатерол,indakaterol
+4481,1050,Бендамустин,bendamustin
+4482,2123,Паливизумаб,palivizumab
+4492,908,Азацитидин,azatsitidin
+4523,1595,Натализумаб,natalizumab
+4530,1764,Рофлумиласт,roflumilast
+4531,1927,Финголимод,fingolimod
+4537,619,Гозерелин,gozerelin
+4538,2006,Элтромбопаг,eltrombopag
+4543,747,Винкристин,vinkristin
+4551,635,Зафирлукаст,zafirlukast
+4554,1855,Тикагрелор,tikagrelor
+4564,631,Золмитриптан,zolmitriptan
+4572,712,Баклофен,baklofen
+4573,2182,Бовактант,bovaktant
+4584,1386,Камбиогенплазмид,kambiogenplazmid
+4597,266,Фоллитропин бета,follitropin_beta
+4598,1238,Деносумаб,denosumab
+4609,1733,Прукалоприд,prukaloprid
+4611,60,Этоногестрел,etonogestrel
+4614,2222,Биматопрост,bimatoprost
+4628,2111,"Адапален, Бензоила пероксид",adapalen_benzoila_peroksid
+4632,1449,Кровохлебки корневища с корнями,krovokhlebki_kornevishcha_s_kornyami
+4658,942,"Алоэ экстр., Аронии черноплодной сок, Аскорбиновая кислота",aloe_ekstr_aronii_chernoplodnoy_sok_askorbinovaya_kislota
+4660,1017,Ацетазоламид,atsetazolamid
+4669,990,Бактериофаг клебсиелл,bakteriofag_klebsiell
+4673,1008,"Аскорбиновая кислотa, Эхинацея",askorbinovaya_kislota_ekhinatseya
+4675,1981,"Ципрофлоксацин, Дексаметазон",tsiprofloksatsin_deksametazon
+4681,1509,"Лотос, Ямс, Туя, Финик",lotos_yams_tuya_finik
+4683,1250,"Диклофенак натрия, Тиамин, Пиридоксин, Цианокобаламин",diklofenak_natriya_tiamin_piridoksin_tsianokobalamin
+4687,1225,Деквалиния хлорид,dekvaliniya_khlorid
+4703,1261,"Дифенгидрамин, Нафазолин",difengidramin_nafazolin
+4705,1083,"Боярышника плоды, Солодки корни, Каштана конского семена, Шиповника плоды",boyaryshnika_plody_solodki_korni_kashtana_konskogo_semena_shipovnika_plody
+4715,1842,"Тенофовир, Эмтрицитабин",tenofovir_emtritsitabin
+4720,1797,"Алюминия гидроксид, Магния гидроксид, Симетикон",alyuminiya_gidroksid_magniya_gidroksid_simetikon
+4730,871,Березы листья,berezy_listya
+4731,890,Шиповника плоды,shipovnika_plody
+4737,2185,"Поливитамины, Минеральные соли",polivitaminy_mineralnye_soli
+4740,2405,"Камфора, Эвкалиптовое масло",kamfora_evkaliptovoe_maslo
+4741,70,Эхинацеи пурпурной трава,ekhinatsei_purpurnoy_trava
+4747,841,Бадяга,badyaga
+4760,485,"Ибупрофен, Парацетамол",ibuprofen_paratsetamol
+4768,1773,Саквинавир,sakvinavir
+4769,2069,Винкаалкалоиды,vinkaalkaloidy
+4773,1361,Кабазитаксел,kabazitaksel
+4774,1712,Полиминералы,polimineraly
+4776,1495,Линаглиптин,linagliptin
+4782,1625,"Номегэстрол, Эстрадиол",nomegestrol_estradiol
+4792,872,"Аира корневища, Валерианы корневища с корнями, Крапивы листья, Крушины кора, Мята переч листья",aira_kornevishcha_valeriany_kornevishcha_s_kornyami_krapivy_listya_krushiny_kora_myata_perech_listya
+4793,1673,Пастушьей сумки трава,pastushey_sumki_trava
+4802,1975,"Шалфея экстракт, Шалфея масло, Гесперидин",shalfeya_ekstrakt_shalfeya_maslo_gesperidin
+4810,1173,Гидрохлоротиазид,gidrokhlorotiazid
+4812,2028,Этилтиобезимидазола Гидробромид,etiltiobezimidazola_gidrobromid
+4813,380,Алимемазин,alimemazin
+4829,1256,Динопрост,dinoprost
+4839,746,Мелатонин,melatonin
+4841,314,Фентиконазол,fentikonazol
+4842,1583,Морфолиний-Метил-Триазолил-Тиоацетат,morfoliniy_metil_triazolil_tioatsetat
+4845,1747,Ретинола пальмитат,retinola_palmitat
+4848,1540,"Анетол, 2,4-дихлорбензиловый спирт, Ментол, Мяты переч. масло",anetol_2_4_dikhlorbenzilovyy_spirt_mentol_myaty_perech_maslo
+4852,1593,"Напроксен, Эзомепразол",naproksen_ezomeprazol
+4863,1525,Масло чесночное,maslo_chesnochnoe
+4882,1591,Налидиксовая кислота,nalidiksovaya_kislota
+4891,93,Ганцикловир,gantsiklovir
+4892,432,"Бримонидин, Тимолол",brimonidin_timolol
+4902,1766,Рупатадина фумарат,rupatadina_fumarat
+4907,734,Преноксдиазин,prenoksdiazin
+4908,1547,"Подорожника ланц экст., Тимьяна экст., Ромашки экст., Аскорбиновая кислота, Мелиссы экст.",podorozhnika_lants_ekst_timyana_ekst_romashki_ekst_askorbinovaya_kislota_melissy_ekst
+4909,1610,"Натрия хлорид, Калия хлорид, Кальция хлорид, Бензалкония хлорид",natriya_khlorid_kaliya_khlorid_kaltsiya_khlorid_benzalkoniya_khlorid
+4915,1369,"Калия бромид, Горицвета сухого экстр",kaliya_bromid_goritsveta_sukhogo_ekstr
+4918,1548,"Метамизол Натрия, Кофеин, Тиамин",metamizol_natriya_kofein_tiamin
+4919,2180,"Янтарная кислота, Меглюмин, Рибоксин, Метионин, Никотинамид",yantarnaya_kislota_meglyumin_riboksin_metionin_nikotinamid
+4933,1969,Циклесонид,tsiklesonid
+4951,1271,"Дроспиренон, Этинилэстрадиол, Кальция Левомефолинат",drospirenon_etinilestradiol_kaltsiya_levomefolinat
+4975,1553,"Метилсалицилат, Рацементол",metilsalitsilat_ratsementol
+4976,899,Абиратерон,abirateron
+4989,2220,Тромбовазим,trombovazim
+4990,1315,Имихимод,imikhimod
+4992,1734,Пчелиный воск,pchelinyy_vosk
+5033,982,Анидулафунгин,anidulafungin
+5037,1668,"Парацетамол, Фенилэфрин",paratsetamol_fenilefrin
+5040,1391,"Камфора, Скипидар, Эвкалипта масло, Левоментол",kamfora_skipidar_evkalipta_maslo_levomentol
+5048,1957,Цертолизумаба Пэгол,tsertolizumaba_pegol
+5051,574,Бенциклан,bentsiklan
+5069,599,Метилдопа,metildopa
+5077,310,Цефепим,tsefepim
+5088,590,Прометазин,prometazin
+5092,224,Хлоропирамин,khloropiramin
+5101,1280,Железа III гидроксид полиизомальтозат,zheleza_iii_gidroksid_poliizomaltozat
+5104,1478,"Лерканидипин, Эналаприл",lerkanidipin_enalapril
+5107,934,Аллергены бактерий,allergeny_bakteriy
+5113,1435,Корифоллитропин альфа,korifollitropin_alfa
+5119,909,Азенапин,azenapin
+5121,2078,Кальция гидроксиапатит,kaltsiya_gidroksiapatit
+5124,1163,Гиалуроновая кислота,gialuronovaya_kislota
+5131,997,Артикаин,artikain
+5136,1203,Голимумаб,golimumab
+5138,1933,"Фоллитропин альфа, Лутропин альфа",follitropin_alfa_lutropin_alfa
+5209,690,Кломифен,klomifen
+5215,1763,Ротиготин,rotigotin
+5236,1147,Гатифлоксацин,gatifloksatsin
+5239,2108,"Глицин, Глутаминовая кислота, Цистин",glitsin_glutaminovaya_kislota_tsistin
+5244,1579,"Молочная кислота, гликоген",molochnaya_kislota_glikogen
+5248,96,Непафенак,nepafenak
+5253,1402,"Кармеллоза натрия, Глицерол",karmelloza_natriya_glitserol
+5264,1297,"Спираль с золотом, медь",spiral_s_zolotom_med
+5266,2094,"Калия хлорид, Натрия гидрокарбонат, Натрия хлорид",kaliya_khlorid_natriya_gidrokarbonat_natriya_khlorid
+5279,1655,"Парацетамол, Аскорбиновая кислота",paratsetamol_askorbinovaya_kislota
+5280,1179,"Гинестеин, Резвиратрол, Вит.D и K",ginestein_rezviratrol_vit_d_i_k
+5307,977,"Ампициллин, Оксациллин",ampitsillin_oksatsillin
+5308,1576,Бензилдиметил-миристоиламино-пропиламмоний,benzildimetil_miristoilamino_propilammoniy
+5315,640,Апротинин,aprotinin
+5316,1716,"Декспантенол, Преднизолон, Лидокаин",dekspantenol_prednizolon_lidokain
+5321,542,Бромокриптин,bromokriptin
+5323,59,"Мелоксикам, Хондроитина сульфат",meloksikam_khondroitina_sulfat
+5329,1811,Стрептомицин,streptomitsin
+5332,1896,Улипристал,ulipristal
+5333,2156,Кальция-фосфатный буферный раствор,kaltsiya_fosfatnyy_bufernyy_rastvor
+5335,1889,Тыквы обыкновенной семена,tykvy_obyknovennoy_semena
+5337,1521,"Магалдрат, симетикон",magaldrat_simetikon
+5339,1235,"Расторопши пятнистой плодов экстракт, Фосфолипиды",rastoropshi_pyatnistoy_plodov_ekstrakt_fosfolipidy
+5342,1865,Толперизон,tolperizon
+5345,1493,Лимонника китайского семена,limonnika_kitayskogo_semena
+5358,1166,"Гидрокортизон, Лидокаин",gidrokortizon_lidokain
+5387,1342,Интерферон бета-1b,interferon_beta_1b
+5388,1045,Белимумаб,belimumab
+5390,672,Левамизол,levamizol
+5391,1328,Индолкарбинол,indolkarbinol
+5400,1249,"Диеногест, Эстрадиол",dienogest_estradiol
+5401,1695,Полисахариды Streptococcus pneumoniae,polisakharidy_streptococcus_pneumoniae
+5417,1253,Диметиловый эфир,dimetilovyy_efir
+5418,1910,"Парацетамол, Аскорбиновая кислота, Кофеин, Фенирамин, Фенилэфрин",paratsetamol_askorbinovaya_kislota_kofein_feniramin_fenilefrin
+5429,1835,Телапревир,telaprevir
+5437,719,Норэтистерон,noretisteron
+5445,853,Натрия нуклеинат,natriya_nukleinat
+5447,1841,Тенофовир,tenofovir
+5448,1925,Фильтрат фермента ржи,filtrat_fermenta_rzhi
+5451,530,Триамцинолон,triamtsinolon
+5462,1065,Бета-Аланин,beta_alanin
+5476,1703,Подорожника овального семян оболочка,podorozhnika_ovalnogo_semyan_obolochka
+5479,603,"Камфора, Сосны обыкновенной хвои масло, Эвкалипта прутовидного листьев масло",kamfora_sosny_obyknovennoy_khvoi_maslo_evkalipta_prutovidnogo_listev_maslo
+5511,2223,"Гидроксиэтилкрахмал, натрия хлорид, калия хлорид, кальция хлорид, магния хлорид, натрия ацетат, ябл. к-та",gidroksietilkrakhmal_natriya_khlorid_kaliya_khlorid_kaltsiya_khlorid_magniya_khlorid_natriya_atsetat_yabl_k_ta
+5528,1169,Гидроксиалюминия трисульфоффталоцианин,gidroksialyuminiya_trisulfofftalotsianin
+5529,1640,"Орнидазол, Офлоксацин",ornidazol_ofloksatsin
+5536,1741,Ранолазин,ranolazin
+5540,1510,Магний гидрокарбонат,magniy_gidrokarbonat
+5545,1572,Микофенолата мофетил,mikofenolata_mofetil
+5548,1104,Вакцина для профилактики бешенства,vaktsina_dlya_profilaktiki_beshenstva
+5549,1452,"Ксилометазолин, [Декспантенол]",ksilometazolin_dekspantenol
+5551,1276,Желатина таннат,zhelatina_tannat
+5556,1341,Интерферон бета-1a,interferon_beta_1a
+5559,2106,Апиксабан,apiksaban
+5561,1955,Цепэгинтерферон Альфа-2B,tsepeginterferon_alfa_2b
+5564,1087,"Бромгексин, Гвайфенезин, Сальбутамол, Рацементол",bromgeksin_gvayfenezin_salbutamol_ratsementol
+5570,1079,Боцепревир,botseprevir
+5580,1469,Ларонидаза,laronidaza
+5593,1121,Винфлунин,vinflunin
+5594,1321,Иммуноглобулин человека против гепатита В,immunoglobulin_cheloveka_protiv_gepatita_v
+5598,1183,Гипромелоза,gipromeloza
+5601,1397,Капреомицин,kapreomitsin
+5614,1042,"Бекламетазон, Гентамицин, Клотримазол",beklametazon_gentamitsin_klotrimazol
+5617,1870,Кипрея трава,kipreya_trava
+5629,1900,Урофоллитропин,urofollitropin
+5633,1581,"Мометазон, Формотерол",mometazon_formoterol
+5657,1030,"Базилика священного, Солодки голой, Адатоды сосудистой, Альпинии Галанги, Перца длинного, Мяты полев",bazilika_svyashchennogo_solodki_goloy_adatody_sosudistoy_alpinii_galangi_pertsa_dlinnogo_myaty_polev
+5660,2399,"Толперизон, [Лидокаин]",tolperizon_lidokain
+5664,780,Терипаратид,teriparatid
+5672,1316,Иммуноглобулин антирабический,immunoglobulin_antirabicheskiy
+5676,1498,Лиофилизированная культура лактобактерий Lactobacillus casei rhamnosus Doderleini,liofilizirovannaya_kultura_laktobakteriy_lactobacillus_casei_rhamnosus_doderleini
+5677,1184,Глибенкламид,glibenklamid
+5681,1620,Никорандил,nikorandil
+5685,1824,"Сульфаэтидол, Облепихи масло, Бензокаин",sulfaetidol_oblepikhi_maslo_benzokain
+5689,1474,"Левотироксин натрия, Калия йодид",levotiroksin_natriya_kaliya_yodid
+5693,79,Иксабепилон,iksabepilon
+5696,1904,Фактор Свертывания Крови Ix,faktor_svertyvaniya_krovi_ix
+5697,1012,Атозибан,atoziban
+5700,1562,"Метронидазол, Миконазол, Лидокаин",metronidazol_mikonazol_lidokain
+5709,1016,Аценокумарол,atsenokumarol
+5714,1949,Хлорохин,khlorokhin
+5719,1567,"Метформина гидрохлорид, Саксаглиптин",metformina_gidrokhlorid_saksagliptin
+5723,1600,"Натрия бикарбонат, Калия битартрат, Полиэтиленгликоль",natriya_bikarbonat_kaliya_bitartrat_polietilenglikol
+5726,963,"Амлодипин, Бисопролол",amlodipin_bisoprolol
+5735,1538,"Алтея кор., Ромашка цв., Хвощ тр., Грец. орех лист, Тысячелистник тр., Дуб кор., Одуванчик тр.",alteya_kor_romashka_tsv_khvoshch_tr_grets_orekh_list_tysyachelistnik_tr_dub_kor_oduvanchik_tr
+5741,1677,"Перец стрючковый, Лаванда масло",perets_stryuchkovyy_lavanda_maslo
+5751,2074,Колистиметат натрия,kolistimetat_natriya
+5752,1348,Йодиксанол,yodiksanol
+5753,1346,Йогексол,yogeksol
+5759,1451,"Лактобактерии ацидофиллус, Бифидобактерии инфантис, Энтерококки, Цинка оксид, L-селенометионин",laktobakterii_atsidofillus_bifidobakterii_infantis_enterokokki_tsinka_oksid_l_selenometionin
+5764,1213,Дактиномицин,daktinomitsin
+5765,2003,Экулизумаб,ekulizumab
+5773,1864,Флурбипрофен,flurbiprofen
+5794,1742,Раствор изотонический,rastvor_izotonicheskiy
+5799,1686,Пиона экстракт,piona_ekstrakt
+5803,1867,Тофацитиниб,tofatsitinib
+5823,2228,Планценты человека гидролизат,plantsenty_cheloveka_gidrolizat
+5827,2552,"Бетаметазон, Мупироцин",betametazon_mupirotsin
+5832,1351,Йопромид,yopromid
+5835,2090,"Пирацетам, Тиотриазолин",piratsetam_tiotriazolin
+5842,1626,"Вакцина для профилактики ротавирусной инфекции,пентавалентная, живая",vaktsina_dlya_profilaktiki_rotavirusnoy_infektsii_pentavalentnaya_zhivaya
+5869,769,Фенитоин,fenitoin
+5886,1863,"Тиротрицин, Бензалкония хлорид, Бензокаин",tirotritsin_benzalkoniya_khlorid_benzokain
+5899,1193,"Мяты перечной листьев масло, Сульфаниламид, Сульфатиазол, Тимол, Эвкалипта прутовидного листьев масло",myaty_perechnoy_listev_maslo_sulfanilamid_sulfatiazol_timol_evkalipta_prutovidnogo_listev_maslo
+5910,1110,"Валерианы лекарствен.настойка, Камфора, Мяты переч.масло",valeriany_lekarstven_nastoyka_kamfora_myaty_perech_maslo
+5915,2019,Эрибулин,eribulin
+5920,849,"Боярышника плоды, Мелиссы лекарственной трава, Пустырника трава, Шиповника плоды, Эхинацеи пурпурн трава",boyaryshnika_plody_melissy_lekarstvennoy_trava_pustyrnika_trava_shipovnika_plody_ekhinatsei_purpurn_trava
+5928,1778,"Сальбутамол, Теофиллин",salbutamol_teofillin
+5963,1442,"Кофеин, Эрготамин",kofein_ergotamin
+5965,38,"Диоксометилтетрагидропиримидин, Хлорамфеникол",dioksometiltetragidropirimidin_khloramfenikol
+5967,2107,Молочная кислота,molochnaya_kislota
+5975,972,"Амлодипин, Телмисартан",amlodipin_telmisartan
+5987,657,Дипиридамол,dipiridamol
+5991,1659,"Парацетамол, Аскорбиновая кислота, Фенилэфрин, Рутозит, Янтарная кислота",paratsetamol_askorbinovaya_kislota_fenilefrin_rutozit_yantarnaya_kislota
+5999,2076,"Небиволол, Гидрохлоротиазид",nebivolol_gidrokhlorotiazid
+6001,971,"Амлодипин, Небиволол",amlodipin_nebivolol
+6011,1718,Примидон,primidon
+6012,2187,Антитоксин ботулинический типа В,antitoksin_botulinicheskiy_tipa_v
+6013,1616,Неомицин,neomitsin
+6014,1257,"Диоксометилтетрагидропиримидин, Ретинол",dioksometiltetragidropirimidin_retinol
+6038,2018,Эрдостеин,erdostein
+6045,1229,Дексмедетомидин,deksmedetomidin
+6048,900,Агалсидаза бета,agalsidaza_beta
+6068,1066,"Эшшольции сухой экстракт, Боярышника сухой экстрак, Магния оксид",eshsholtsii_sukhoy_ekstrakt_boyaryshnika_sukhoy_ekstrak_magniya_oksid
+6071,1765,Руксолитиниб,ruksolitinib
+6077,1792,Сибутрамин,sibutramin
+6101,1965,Цефтаролина фосамил,tseftarolina_fosamil
+6128,2060,Вакцина для профилактики бруцеллеза,vaktsina_dlya_profilaktiki_brutselleza
+6136,702,"Монаколин, Фолиевая кислота, Коэнзим Q10, Астаксантин",monakolin_folievaya_kislota_koenzim_q10_astaksantin
+6138,1618,Нефопам,nefopam
+6139,127,Женьшень,zhenshen
+6146,1515,Парекоксиб,parekoksib
+6147,1448,Кризотиниб,krizotinib
+6148,919,Акситиниб,aksitinib
+6172,1304,Имбиря лекарственного корневищ порошок,imbirya_lekarstvennogo_kornevishch_poroshok
+6173,305,"Фенхеля плоды, Аниса плоды, Липы цветки, Алтея корни, Чабреца трава",fenkhelya_plody_anisa_plody_lipy_tsvetki_alteya_korni_chabretsa_trava
+6174,2087,"Ромашки аптечной цветки, Мелиссы трава, Мяты перечной трава, Липы цветки, Фенхеля плоды",romashki_aptechnoy_tsvetki_melissy_trava_myaty_perechnoy_trava_lipy_tsvetki_fenkhelya_plody
+6175,1875,"Липы цветки, цветки бузины, плоды фенхеля, цветки мальвы, трава тимьяна",lipy_tsvetki_tsvetki_buziny_plody_fenkhelya_tsvetki_malvy_trava_timyana
+6179,1029,Бадана толстолистного корневища,badana_tolstolistnogo_kornevishcha
+6180,1434,"Кориандра плоды, Крушины ольховидной кора, Сенны остролистной листья, Солодки корни, Тысячелистника",koriandra_plody_krushiny_olkhovidnoy_kora_senny_ostrolistnoy_listya_solodki_korni_tysyachelistnika
+6197,1585,Мочевина,mochevina
+6198,1666,"Декстрометорфана, Парацетамол, Псевдоэфедрин",dekstrometorfana_paratsetamol_psevdoefedrin
+6199,1019,Ацетиламинонитропропоксибензол,atsetilaminonitropropoksibenzol
+6204,1575,Миноциклин,minotsiklin
+6212,1999,Клюквы экстракт,klyukvy_ekstrakt
+6222,196,"Валерианы лек. корневищ с корн настойка, Ландыша тр настойка, Нитроглицерин, Левоментол",valeriany_lek_kornevishch_s_korn_nastoyka_landysha_tr_nastoyka_nitroglitserin_levomentol
+6225,1122,Висмодегиб,vismodegib
+6227,2073,Карбоксим,karboksim
+6271,463,Клемастин,klemastin
+6294,405,Амитриптилин,amitriptilin
+6295,1088,Бромдигидрохлорфенилбензодиазепин,bromdigidrokhlorfenilbenzodiazepin
+6307,1118,Вемурафениб,vemurafenib
+6314,1534,"Мелоксикам, Перца стручкового плодов настойка",meloksikam_pertsa_struchkovogo_plodov_nastoyka
+6316,2174,"Кальций, Магний, Цинк, Колекальциферол, Аскорбиновая кислота",kaltsiy_magniy_tsink_kolekaltsiferol_askorbinovaya_kislota
+6323,1187,Гликопиррония бромид,glikopirroniya_bromid
+6326,1724,Пластохинонилдецилтрифенилфосфония бромид,plastokhinonildetsiltrifenilfosfoniya_bromid
+6330,2152,Полигуанидин гидрохлорид,poliguanidin_gidrokhlorid
+6334,2452,Фосапрепитант,fosaprepitant
+6335,504,Ботулинический токсин типа A-гемагглютинин комплекс,botulinicheskiy_toksin_tipa_a_gemagglyutinin_kompleks
+6341,1127,Висмута трикалия дицитрат,vismuta_trikaliya_ditsitrat
+6350,2047,"Минеральные масла, тилоксапол, глицерин, полоксамер 188, трометамин, трис гидрохлорид, очищ.вода",mineralnye_masla_tiloksapol_glitserin_poloksamer_188_trometamin_tris_gidrokhlorid_ochishch_voda
+6354,1828,Антитоксин яда гадюки обыкновенной,antitoksin_yada_gadyuki_obyknovennoy
+6368,2027,Этилметилгидроксипиридина малат,etilmetilgidroksipiridina_malat
+6371,2070,"Винпоцетин, Индапамид, Метопролол, Эналаприл",vinpotsetin_indapamid_metoprolol_enalapril
+6389,2233,Эсцина лизинат,estsina_lizinat
+6390,1071,"Бифидобактерии бифидум, кишечные палочки",bifidobakterii_bifidum_kishechnye_palochki
+6400,421,"Расторопши экстр.сухой, бифидобактерии бифидум, лактобактерии ферментум",rastoropshi_ekstr_sukhoy_bifidobakterii_bifidum_laktobakterii_fermentum
+6408,618,"Ацетилсалициловая кислота, Глицин",atsetilsalitsilovaya_kislota_glitsin
+6424,2550,Диэтилбензимидазолия трийодид,dietilbenzimidazoliya_triyodid
+6435,1209,Пиридостигмина бромид,piridostigmina_bromid
+6448,1511,"Магния аскорбат, Магния цитрат",magniya_askorbat_magniya_tsitrat
+6450,1200,Глюконат цинка,glyukonat_tsinka
+6451,1068,Бивалирудин,bivalirudin
+6458,1831,Тафлупрост,tafluprost
+6470,2189,"Натрия гиалуронат, Гепарин натрия",natriya_gialuronat_geparin_natriya
+6473,1473,Левокабастин,levokabastin
+6477,2053,Протеинат серебра,proteinat_serebra
+6506,517,"Гидрохлоротиазид, Триамтерен",gidrokhlorotiazid_triamteren
+6518,1664,"Дротаверин, Парацетамол",drotaverin_paratsetamol
+6519,1115,Вандетаниб,vandetanib
+6531,2489,"Lactobacillus rhamnosus GG (4?109 КОЕ),мальтодекстрин, лиофилизированные фруктоолигосахариды",lactobacillus_rhamnosus_gg_4_109_koe_maltodekstrin_liofilizirovannye_fruktooligosakharidy
+6540,966,"Амлодипин, Лозартан",amlodipin_lozartan
+6544,112,"Интерферон альфа-2b, Метронидазол, Флуконазол",interferon_alfa_2b_metronidazol_flukonazol
+6545,979,Амфотерицин B липидный комплекс,amfoteritsin_b_lipidnyy_kompleks
+6549,978,Амтолметин гуацил,amtolmetin_guatsil
+6554,1158,"Гепарин натрия, Лидокаин, Преднизолон",geparin_natriya_lidokain_prednizolon
+6557,2403,Клевера травы экстракт,klevera_travy_ekstrakt
+6564,1022,"Селенистой кислоты раствор 0.9% в 90% 2,2-дихлорпропионовой кислоте",selenistoy_kisloty_rastvor_0_9_v_90_2_2_dikhlorpropionovoy_kislote
+6565,913,"Цинка 2-хлорпропионата раствор 1,5% в 2-хлорпропионовой кислоте",tsinka_2_khlorpropionata_rastvor_1_5_v_2_khlorpropionovoy_kislote
+6568,1808,Спираприл,spirapril
+6571,1506,"Ломефлоксацин, Пиразинамид, Протионамид, Этамбутол, Пиридоксин",lomefloksatsin_pirazinamid_protionamid_etambutol_piridoksin
+6585,2170,"Бузины черной цветки, Аскорбиновая кислота, Цинк",buziny_chernoy_tsvetki_askorbinovaya_kislota_tsink
+6595,2093,"Эстриол, Прогестерон, Эубиотик",estriol_progesteron_eubiotik
+6624,1004,"Аскорбиновая кислота, Рутозид",askorbinovaya_kislota_rutozid
+6628,1400,Карбетоцин,karbetotsin
+6631,549,Акарбоза,akarboza
+6638,1241,Десфлуран,desfluran
+6659,641,"Ацетилсалициловая кислота, Аскорбиновая кислота",atsetilsalitsilovaya_kislota_askorbinovaya_kislota
+6669,1714,"Пиридоксин, Тиамин",piridoksin_tiamin
+6679,232,Вакцина для профилактики туберкулеза,vaktsina_dlya_profilaktiki_tuberkuleza
+6681,1508,"Макрогол, Натрия хлорид, Натрия гидрокарбонат, Калия хлорид",makrogol_natriya_khlorid_natriya_gidrokarbonat_kaliya_khlorid
+6687,1195,Глицирризиновая кислота,glitsirrizinovaya_kislota
+6690,1139,"Вода морская, Эктоин",voda_morskaya_ektoin
+6709,1623,"Нитрендипин, Эналаприл",nitrendipin_enalapril
+6716,1845,"Тербинафин, Мочевина",terbinafin_mochevina
+6729,896,L-изолейцил-L-глутамил-L-триптофан натрия,l_izoleytsil_l_glutamil_l_triptofan_natriya
+6739,818,"Декспантенол, Морская соль, Эфирные масла",dekspantenol_morskaya_sol_efirnye_masla
+6741,1406,Каштана конского семян экстр.,kashtana_konskogo_semyan_ekstr
+6745,1403,Карнитин,karnitin
+6774,534,"Амброксол, Натрия гидрокарбонат, Натрия глицирризинат, Термопсиса экстракт",ambroksol_natriya_gidrokarbonat_natriya_glitsirrizinat_termopsisa_ekstrakt
+6782,1237,"Декстрометорфан, Парацетамол, Псевдоэфедрин, Аскорбиновая кислота",dekstrometorfan_paratsetamol_psevdoefedrin_askorbinovaya_kislota
+6795,954,"Амброксол, Натрия глицерризинат, Тимьяна ползучего травы экстракт",ambroksol_natriya_glitserrizinat_timyana_polzuchego_travy_ekstrakt
+6802,1025,"Ацикловир, Гидрокортизон",atsiklovir_gidrokortizon
+6804,1423,Кокарбоксилаза,kokarboksilaza
+6825,968,"Амлодипин, Рамиприл",amlodipin_ramipril
+6836,1565,"Метформин, Сибутрамин, Целлюлоза Микрокристаллическая",metformin_sibutramin_tsellyuloza_mikrokristallicheskaya
+6845,1178,Гинестеин,ginestein
+6851,2161,"Мать-и-мачехи листья ,  Подорожника большого листья ,  Солодки корни",mat_i_machekhi_listya_podorozhnika_bolshogo_listya_solodki_korni
+6855,1963,Цефдиторен,tsefditoren
+6865,1265,Докозанол,dokozanol
+6874,1300,Зонисамид,zonisamid
+6877,2097,Перампанел,perampanel
+6886,1730,Протионамид,protionamid
+6899,910,Азилсартана медоксомил,azilsartana_medoksomil
+6906,1185,"Гликлазид, Метформин",gliklazid_metformin
+6919,1721,Прокаин,prokain
+6920,1372,Калия хлорид,kaliya_khlorid
+6927,1177,Гимекромон,gimekromon
+6928,1410,"Амоксициллин, Кларитромицин, Лансопразол",amoksitsillin_klaritromitsin_lansoprazol
+6933,1722,Проксодолол,proksodolol
+6935,1888,"Тропикамид, Фенилэфрин",tropikamid_fenilefrin
+6939,1379,"Кальция глюконат, Колекальциферол",kaltsiya_glyukonat_kolekaltsiferol
+6955,1652,Пантокрин,pantokrin
+6964,1431,Копеечник забытый корни,kopeechnik_zabytyy_korni
+6970,1799,Скипидар живичный,skipidar_zhivichnyy
+6977,172,Оротовая кислота,orotovaya_kislota
+7008,1125,"Амоксициллин, Сульбактам",amoksitsillin_sulbaktam
+7009,454,Празиквантел,prazikvantel
+7029,298,Гамма-аминомасляная кислота,gamma_aminomaslyanaya_kislota
+7063,708,Тиоридазин,tioridazin
+7068,285,Пропранолол,propranolol
+7069,2054,Набор реактивов,nabor_reaktivov
+7095,2039,Этофенамат,etofenamat
+7148,1780,Сапроптерин,sapropterin
+7182,1093,Буспирон,buspiron
+7199,1333,Инсулин деглудек,insulin_degludek
+7200,953,Амбризентан,ambrizentan
+7202,1790,Серелаксин,serelaksin
+7205,1196,"Глутарал, Пропанол, Этанол",glutaral_propanol_etanol
+7210,1298,"Золототысячника трава, Любистока лекарственного корни, Розмарина обыкновенного листья",zolototysyachnika_trava_lyubistoka_lekarstvennogo_korni_rozmarina_obyknovennogo_listya
+7212,2102,Дапаглифлозин,dapagliflozin
+7221,1214,"Горечавка кор., Первоцвет тр., Щавель тр., Бузина цв., Вербена тр.",gorechavka_kor_pervotsvet_tr_shchavel_tr_buzina_tsv_verbena_tr
+7225,1549,Оксодигидроакридинилацетат натрия,oksodigidroakridinilatsetat_natriya
+7231,526,"Иммуноглобулин человека нормальный IgG ,  IgM ,  IgA",immunoglobulin_cheloveka_normalnyy_igg_igm_iga
+7234,1322,Иммуноглобулин человеческий антицитомегаловирусный,immunoglobulin_chelovecheskiy_antitsitomegalovirusnyy
+7237,2072,"Желатин пищевой, Канамицина моносульфат, Плазма крови крупного рогатого скота",zhelatin_pishchevoy_kanamitsina_monosulfat_plazma_krovi_krupnogo_rogatogo_skota
+7250,983,Аниса обыкновенного плоды,anisa_obyknovennogo_plody
+7251,1893,Укропа пахучего плоды,ukropa_pakhuchego_plody
+7256,281,Ромашки аптечной цветки,romashki_aptechnoy_tsvetki
+7257,870,"Крапивы двудомной листья, Крушины ольховидной кора, Тысячелистника обыкновенного трава",krapivy_dvudomnoy_listya_krushiny_olkhovidnoy_kora_tysyachelistnika_obyknovennogo_trava
+7266,1064,Бессмертника песчаного цветки,bessmertnika_peschanogo_tsvetki
+7268,1433,Кориандра плоды,koriandra_plody
+7269,1444,Крапивы листья,krapivy_listya
+7270,1499,Липы цветки,lipy_tsvetki
+7271,894,Льна посевного семена,lna_posevnogo_semena
+7279,1063,"Бессмертник, Тысячелистник, Мята, Кориандр",bessmertnik_tysyachelistnik_myata_koriandr
+7290,583,Очанка лекарственная,ochanka_lekarstvennaya
+7295,1273,Дуба кора,duba_kora
+7297,1294,Зверобоя продырявленного трава,zveroboya_prodyryavlennogo_trava
+7302,1890,Тысячелистника трава,tysyachelistnika_trava
+7304,936,Аллергены пыльцы деревьев,allergeny_pyltsy_derevev
+7306,935,Аллергены клещей,allergeny_kleshchey
+7308,933,Аллерген пыльцы березы,allergen_pyltsy_berezy
+7312,2055,Аллергены трав пыльцевые,allergeny_trav_pyltsevye
+7318,1427,Коллаген,kollagen
+7329,1155,Гемоглобин глутамер,gemoglobin_glutamer
+7330,1014,Афатиниб,afatinib
+7334,1377,"Кальция ацетат, Магния гидроксикарбонат",kaltsiya_atsetat_magniya_gidroksikarbonat
+7335,1672,Пасиреотид,pasireotid
+7338,1796,Симепревир,simeprevir
+7339,129,Рилпивирин,rilpivirin
+7345,681,Алтеплаза,alteplaza
+7349,857,"Норсульфазол натрия ,  Стрептоцид растворимый",norsulfazol_natriya_streptotsid_rastvorimyy
+7354,2163,"Индол-3-карбинол, Дезоксерибонуклеиновая кислота",indol_3_karbinol_dezokseribonukleinovaya_kislota
+7358,89,"Йод, (Калия йодид, Поливиниловый спирт)",yod_kaliya_yodid_polivinilovyy_spirt
+7362,461,"Ибупрофен, Питофенон, Фенпивериния бромид",ibuprofen_pitofenon_fenpiveriniya_bromid
+7366,1912,"Амброксол, Гвайфенезин, Фенилэфрин, Хлорфенамин",ambroksol_gvayfenezin_fenilefrin_khlorfenamin
+7381,2557,Месульфамид,mesulfamid
+7384,2059,Бромфенак,bromfenak
+7406,236,Метионин,metionin
+7408,1353,Ипратропия бромид,ipratropiya_bromid
+7431,2,Камфора,kamfora
+7444,1415,Клозапин,klozapin
+7447,1142,Гадоверсетамид,gadoversetamid
+7455,491,Фенотерол,fenoterol
+7456,1592,Налоксон,nalokson
+7474,2071,Нафтидрофурил,naftidrofuril
+7478,1413,Кластерное биосеребро,klasternoe_bioserebro
+7484,783,Трамазолин,tramazolin
+7493,1194,"Глицерол, Этанол, Брусники экстракт, Глицеритан",glitserol_etanol_brusniki_ekstrakt_glitseritan
+7498,1569,Мизопростол,mizoprostol
+7500,1619,"Никобоксил, Нонивамид",nikoboksil_nonivamid
+7504,1861,"Тинидазол, Тиоконазол",tinidazol_tiokonazol
+7505,1175,"Гидрохлоротиазид, Олмесартана Медоксомил",gidrokhlorotiazid_olmesartana_medoksomil
+7512,751,Телмисартан,telmisartan
+7524,563,Флуфеназин,flufenazin
+7554,1349,"Повидон-Йод, Калия йодид",povidon_yod_kaliya_yodid
+7557,914,"Аир корневища, Мята переч.листья, Ромашка цветки, Солодки корни, Укропа плоды",air_kornevishcha_myata_perech_listya_romashka_tsvetki_solodki_korni_ukropa_plody
+7577,484,Топотекан,topotekan
+7586,206,Тестостерон,testosteron
+7597,1228,Декслансопразол,dekslansoprazol
+7609,679,Дигоксин,digoksin
+7616,1140,Высушенные клетки печени донорской свиньи,vysushennye_kletki_pecheni_donorskoy_svini
+7632,106,Полыни горькой трава,polyni_gorkoy_trava
+7652,994,Аргинина глутамат,arginina_glutamat
+7675,606,"Кодеин, Кофеин, Метамизол натрия, Парацетамол, Фенобарбитал",kodein_kofein_metamizol_natriya_paratsetamol_fenobarbital
+7697,6,Флуоцинолона ацетонид,fluotsinolona_atsetonid
+7698,1917,Фебуксостат,febuksostat
+7725,1542,"Левоментол, Фенобарбитал",levomentol_fenobarbital
+7754,1046,"Белладонна, Бензокаин",belladonna_benzokain
+7762,918,"Аира корневища, Висмута субнитрат, Крушины кора, Магния карбонат, Натрия гидрокарбонат",aira_kornevishcha_vismuta_subnitrat_krushiny_kora_magniya_karbonat_natriya_gidrokarbonat
+7790,1247,Дигидротахистерол,digidrotakhisterol
+7792,210,Диметилсульфоксид,dimetilsulfoksid
+7801,1389,"Камфора, Мятное масло",kamfora_myatnoe_maslo
+7807,2010,Эпинефрин,epinefrin
+7868,937,Аллергоид мономерный из смеси клещей домашней пыли,allergoid_monomernyy_iz_smesi_kleshchey_domashney_pyli
+7899,578,Изосорбида динитрат,izosorbida_dinitrat
+7979,1667,"Парацетамол, Трамадол",paratsetamol_tramadol
+7983,1468,Лапчатка белая,lapchatka_belaya
+7985,1603,Натрия тетраборат,natriya_tetraborat
+7988,2177,"Алоэлистьев сок, Календулы цветков экстракт, Клещевины обык.семян, Ромашки цвет.экстр, Эвкалипта масло",aloelistev_sok_kalenduly_tsvetkov_ekstrakt_kleshcheviny_obyk_semyan_romashki_tsvet_ekstr_evkalipta_maslo
+8033,373,Атропин,atropin
+8050,168,Кальция хлорид,kaltsiya_khlorid
+8051,831,Хлорпромазин,khlorpromazin
+8156,1587,Мятное Масло,myatnoe_maslo
+8163,878,Димеркаптопропансульфонат натрия,dimerkaptopropansulfonat_natriya
+8183,1021,"Ацетон, Борная кислота, Резорцинол",atseton_bornaya_kislota_rezortsinol
+8225,1507,Лопуха корни,lopukha_korni
+8234,1922,Фиалки трехцветной и полевой трава,fialki_trekhtsvetnoy_i_polevoy_trava
+8245,345,Черники обыкновенной плоды,cherniki_obyknovennoy_plody
+8278,1586,Муравьиная кислота,muravinaya_kislota
+8281,1552,"Метилсалилат, Яд пчелинный",metilsalilat_yad_pchelinnyy
+8314,299,"Калия хлорид, Натрия ацетат, Натрия хлорид",kaliya_khlorid_natriya_atsetat_natriya_khlorid
+8316,2178,"Подорожника большого листьев экстракт, Тимьяна обыкновенного травы экстракт",podorozhnika_bolshogo_listev_ekstrakt_timyana_obyknovennogo_travy_ekstrakt
+8324,2013,"Сосны обык.хвои масло, Эвкалипта прутов.листьев масло",sosny_obyk_khvoi_maslo_evkalipta_prutov_listev_maslo
+8373,313,Натрия тиосульфат,natriya_tiosulfat
+8377,2084,"Прокаин, Сульфокамфорная кислота",prokain_sulfokamfornaya_kislota
+8389,1617,Нетилмицин,netilmitsin
+8394,406,Абатацепт,abatatsept
+8395,916,"Аира корневища, Висмута субнитрат, Келлин, Крушины кора, Магния карбонат, Натрия гидрокарбонат, Рутазид",aira_kornevishcha_vismuta_subnitrat_kellin_krushiny_kora_magniya_karbonat_natriya_gidrokarbonat_rutazid
+8439,1611,"Натрия ацетат, Натрия хлорид",natriya_atsetat_natriya_khlorid
+8466,1869,Трабектедин,trabektedin
+8523,617,Изолейцил-глутамил-триптофан натрия,izoleytsil_glutamil_triptofan_natriya
+8527,1375,"Калия хлорид, Магния хлорид, Натрия ацетат, Натрия глюконат, Натрия хлорид",kaliya_khlorid_magniya_khlorid_natriya_atsetat_natriya_glyukonat_natriya_khlorid
+8538,457,"Деквалиния хлорид ,  Лизоцима гидрохлорид",dekvaliniya_khlorid_lizotsima_gidrokhlorid
+8545,676,"Карбиноксамин, Фенилэфрин",karbinoksamin_fenilefrin
+8584,595,Добутамин,dobutamin
+8585,1174,"Боярышника цветков экстракт, Валерианы лекарственной корневищ с корнями экстракт",boyaryshnika_tsvetkov_ekstrakt_valeriany_lekarstvennoy_kornevishch_s_kornyami_ekstrakt
+8588,940,Алоглиптин,alogliptin
+8614,614,Соталол,sotalol
+8652,862,Бактериофаг синегнойной палочки,bakteriofag_sinegnoynoy_palochki
+8658,1843,Теофиллин,teofillin
+8729,49,Магния цитрат,magniya_tsitrat
+8771,1972,Циклопирокс,tsiklopiroks
+8784,1003,Пеларгонии сидовидной корней жидкий экстракт,pelargonii_sidovidnoy_korney_zhidkiy_ekstrakt
+8792,1899,Урокиназа,urokinaza
+8799,2038,Этосуксимид,etosuksimid
+8807,816,"Левоноргестрел, Эстрадиол",levonorgestrel_estradiol
+8823,1556,Метилтионитрооксодигидротриазолотриазинид натрия,metiltionitrooksodigidrotriazolotriazinid_natriya
+8826,740,Бипериден,biperiden
+8827,3,Сушеницы топяной трава,sushenitsy_topyanoy_trava
+8834,912,Азтреонам,aztreonam
+8840,906,"Адонизид, Боярышника экстр., Валерианы н-ка, Желтушника сок, Натрия бромид, Камфора",adonizid_boyaryshnika_ekstr_valeriany_n_ka_zheltushnika_sok_natriya_bromid_kamfora
+8849,1005,Карбоксиметилцеллюлоза,karboksimetiltsellyuloza
+8857,1705,Позаконазол,pozakonazol
+8873,1422,"Кодеин, Кофеин, Метамизол натрия, Напроксен, Фенобарбитал",kodein_kofein_metamizol_natriya_naproksen_fenobarbital
+8886,610,Эксенатид,eksenatid
+8906,1878,Трандолаприл,trandolapril
+8911,470,"Натрия пикосульфат,  Магний оксид, Лимонная кислота",natriya_pikosulfat_magniy_oksid_limonnaya_kislota
+8919,1103,"Вакцина менингококковая полисахаридная (Серогрупп А,С,Yи W-135) конъюгиров с дифтерийным анатоксином",vaktsina_meningokokkovaya_polisakharidnaya_serogrupp_a_s_yi_w_135_konyugirov_s_difteriynym_anatoksinom
+8920,1099,Вакцина для профилактики дизентерии,vaktsina_dlya_profilaktiki_dizenterii
+8921,1097,Вакцина для профилактики брюшного тифа,vaktsina_dlya_profilaktiki_bryushnogo_tifa
+8923,884,"Вакцина для профилактики вирусного гепатита B, дифтерии, коклюша и столбняка",vaktsina_dlya_profilaktiki_virusnogo_gepatita_b_difterii_koklyusha_i_stolbnyaka
+8924,823,"Вакцина для профилактики вирусного гепатита B, дифтерии и столбняка",vaktsina_dlya_profilaktiki_virusnogo_gepatita_b_difterii_i_stolbnyaka
+8928,2068,Вакцина для профилактики краснухи,vaktsina_dlya_profilaktiki_krasnukhi
+8929,2063,Вакцина для профилактики кори,vaktsina_dlya_profilaktiki_kori
+8930,2065,Вакцина для профилактики паротита,vaktsina_dlya_profilaktiki_parotita
+8932,852,Анатоксин столбнячный,anatoksin_stolbnyachnyy
+8933,1323,Иммуноглобулин человека противостолбнячный,immunoglobulin_cheloveka_protivostolbnyachnyy
+8935,1829,Антитоксин ботулинический типа А,antitoksin_botulinicheskiy_tipa_a
+8941,2186,Иммуноглобулин человека противодифтерийный,immunoglobulin_cheloveka_protivodifteriynyy
+8942,922,Антитоксин ботулинический типа Е,antitoksin_botulinicheskiy_tipa_e
+8943,428,"Вакцина для профилактики гриппа инактивированная, Азоксимера бромид",vaktsina_dlya_profilaktiki_grippa_inaktivirovannaya_azoksimera_bromid
+8955,1371,Калия перманганат,kaliya_permanganat
+8981,1078,Босутиниб,bosutinib
+8982,1302,Ибрутиниб,ibrutinib
+8983,1876,Трастузумаб эмтанзин,trastuzumab_emtanzin
+8986,1096,Вакцина для профилактики гриппа [живая],vaktsina_dlya_profilaktiki_grippa_zhivaya
+8991,2207,Токоферол,tokoferol
+8992,2007,Эмпаглифлозин,empagliflozin
+9021,1230,"Декспантенол, Морская соль",dekspantenol_morskaya_sol
+9022,1833,"Тамсулозин, Дутастерид",tamsulozin_dutasterid
+9031,2166,"Имбирь, Солодки голой, Эмблики лек, Ментол",imbir_solodki_goloy_embliki_lek_mentol
+9042,1560,"Метронидазол, Хлоргексидин",metronidazol_khlorgeksidin
+9048,1224,Декаметоксин,dekametoksin
+9060,2225,Калия натрия гидроцитрат,kaliya_natriya_gidrotsitrat
+9071,624,Пиритинол,piritinol
+9078,426,Прокаинамид,prokainamid
+9105,1284,"Железа сульфат, Серин, Фолиевая кислота",zheleza_sulfat_serin_folievaya_kislota
+9131,726,"Железа сульфат, Серин",zheleza_sulfat_serin
+9136,893,Горца птичьего трава,gortsa_ptichego_trava
+9170,7,"Интерферон альфа-2b, Лоратадин",interferon_alfa_2b_loratadin
+9175,2075,Гидролизат плаценты человека,gidrolizat_platsenty_cheloveka
+9193,561,Тимьяна обыкновенного травы экстракт,timyana_obyknovennogo_travy_ekstrakt
+9208,1544,Меркаптопурин,merkaptopurin
+9228,1039,"Ацетилсалициловая кислота, [Магния гидроксид]",atsetilsalitsilovaya_kislota_magniya_gidroksid
+9235,970,"Амлодипин, Индапамид, Периндоприл",amlodipin_indapamid_perindopril
+9252,1461,"Лактулоза, Семитикон",laktuloza_semitikon
+9253,2056,"Амлодипин, Ирбесартан",amlodipin_irbesartan
+9274,777,Гадодиамид,gadodiamid
+9291,1937,Фотемустин,fotemustin
+9313,1594,"Настойка корня Окопника, Вит Е, Масло Сосны",nastoyka_kornya_okopnika_vit_e_maslo_sosny
+9317,1405,"Календулы цветков экстракт, Каштана конского семян экстракт",kalenduly_tsvetkov_ekstrakt_kashtana_konskogo_semyan_ekstrakt
+9318,2044,Эхинацеи пурпурной травы экстракт,ekhinatsei_purpurnoy_travy_ekstrakt
+9335,1418,"Трифосаденин, Кокарбоксилаза, Цианокобаламин, Никотинамид",trifosadenin_kokarboksilaza_tsianokobalamin_nikotinamid
+9339,554,"Модифицированные углеводы, рыбий жир, мононенасыщенные жирные кислоты, антиоксиданты",modifitsirovannye_uglevody_rybiy_zhir_mononenasyshchennye_zhirnye_kisloty_antioksidanty
+9342,911,"Азилсартана медоксомил, Хлорталидон",azilsartana_medoksomil_khlortalidon
+9345,2079,"Инсулин деглудек, Инсулин аспарт",insulin_degludek_insulin_aspart
+9393,2066,Вакцина для профилактики кори и паротита,vaktsina_dlya_profilaktiki_kori_i_parotita
+9403,945,Алтея лекарственного корни,alteya_lekarstvennogo_korni
+9413,999,"Минеральное масло, Фитосквалан, Мята масло",mineralnoe_maslo_fitoskvalan_myata_maslo
+9432,623,"Тиамин, Эсцин",tiamin_estsin
+9448,2175,"Гвайфенезин, Парацетамол, Фенилэфрин",gvayfenezin_paratsetamol_fenilefrin
+9476,984,Аниса обыкновенного семян масло,anisa_obyknovennogo_semyan_maslo
+9494,2165,"Вода Атлантического океана, Алоэ экстракт",voda_atlanticheskogo_okeana_aloe_ekstrakt
+9502,1551,"Метилпреднизолона ацепонат, Мочевина",metilprednizolona_atseponat_mochevina
+9598,1849,"Рябины плоды, Шиповника плоды",ryabiny_plody_shipovnika_plody
+9599,2162,"Алтея лек.корни, Душицы обык. трава, Мать-и-мачехи листья",alteya_lek_korni_dushitsy_obyk_trava_mat_i_machekhi_listya
+9603,947,"Алтея лек.корни, Аниса обыкновенного плоды, Солодки корни, Сосны почки,  Шалфея трава",alteya_lek_korni_anisa_obyknovennogo_plody_solodki_korni_sosny_pochki_shalfeya_trava
+9604,1961,"Ромашки аптечной цветки, Эвкалипта прутовидного листья",romashki_aptechnoy_tsvetki_evkalipta_prutovidnogo_listya
+9607,1872,"Брусники листья, Мяты пер листья, Календула цветки, Солодки корни, Укропа пахучего плоды",brusniki_listya_myaty_per_listya_kalendula_tsvetki_solodki_korni_ukropa_pakhuchego_plody
+9612,1058,"Бензидамин, Цетилпиридиния хлорид",benzidamin_tsetilpiridiniya_khlorid
+9613,1054,"Бензидамин, Цетилпиридиния хлорид",benzidamin_tsetilpiridiniya_khlorid
+9632,1857,Тмина обыкновенного плоды,tmina_obyknovennogo_plody
+9667,2061,Вакцина для профилактики желтой лихорадки,vaktsina_dlya_profilaktiki_zheltoy_likhoradki
+9690,1082,"Боярышник, Хмель, Валериана, Мелисса, Женьшень",boyaryshnik_khmel_valeriana_melissa_zhenshen
+9713,1550,Метилбензилкарбамидопиридиния Йодид,metilbenzilkarbamidopiridiniya_yodid
+9744,762,Хифенадин,khifenadin
+9745,1669,"Парацетамол, Фенилэфрин, Терпингидра, Кофеин, Аскорбиновая кислота",paratsetamol_fenilefrin_terpingidra_kofein_askorbinovaya_kislota
+9755,2167,"Прополис экст, Имбирь лек. экст, Ментол, Гранат ароматизатор",propolis_ekst_imbir_lek_ekst_mentol_granat_aromatizator
+9756,2168,"Прополис экст, Ментол, Мед и Лимон ароматизатор",propolis_ekst_mentol_med_i_limon_aromatizator
+9757,2169,"Прополис экст, Ромашка экст, Чабрец экст, Ментол",propolis_ekst_romashka_ekst_chabrets_ekst_mentol
+9778,1537,"Метронидазол, Клотримазол",metronidazol_klotrimazol
+9788,2081,Налмефен,nalmefen
+9809,2095,"Флуокортолон, Цинхокаин",fluokortolon_tsinkhokain
+9812,2092,"Дифлукортолон, Изоконазол",diflukortolon_izokonazol
+9813,1307,Изоконазол,izokonazol
+9818,1143,Гадопентетовая кислота,gadopentetovaya_kislota
+9821,791,"Норгестрел, Эстрадиол",norgestrel_estradiol
+9823,1980,"Ципротерон, Эстрадиол",tsiproteron_estradiol
+9826,274,Натрия амидотризоат,natriya_amidotrizoat
+9833,753,Репаглинид,repaglinid
+9836,717,Растворы для перитонеального диализа,rastvory_dlya_peritonealnogo_dializa
+9847,2080,Ребамипид,rebamipid
+9884,2082,Этанол,etanol
+9892,2049,"Бутоконазол, Клиндамицин",butokonazol_klindamitsin
+9901,1440,"Кофеин, Парацетамол, Хлорфенамин, Аскорбиновая кислота",kofein_paratsetamol_khlorfenamin_askorbinovaya_kislota
+9903,2050,Метилфенилтиометил-диметиламинометил-гидроксиброминдол карбоновой кислоты этиловый эфир,metilfeniltiometil_dimetilaminometil_gidroksibromindol_karbonovoy_kisloty_etilovyy_efir
+9907,2051,"Азеластин, Мометазон",azelastin_mometazon
+9913,773,"Лидокаин, Ромашки аптечной цветков экстракт",lidokain_romashki_aptechnoy_tsvetkov_ekstrakt
+9928,2052,"Этилметилгидроксипиридина сукцинат ,  Пиридоксин",etilmetilgidroksipiridina_suktsinat_piridoksin
+9971,2173,"Камфора, Левоментол",kamfora_levomentol
+9985,1060,"Бенфотиамин, Пиридоксин",benfotiamin_piridoksin
+10022,2113,"Дасабувир;Омбитасвир, Паритапревир, Ритонавир",dasabuvir_ombitasvir_paritaprevir_ritonavir
+10023,2114,Ликсисенатид,liksisenatid
+10025,2116,Афлиберцепт,aflibertsept
+10028,2117,Плериксафор,pleriksafor
+10030,162,Поливинокс,polivinoks
+10036,2118,Обинутузумаб,obinutuzumab
+10041,2120,"Вилантерол ,  Умеклидиния бромид",vilanterol_umeklidiniya_bromid
+10042,2119,Помалидомид,pomalidomid
+10055,2122,Мороктоког альфа,moroktokog_alfa
+10060,2121,Тригексифенидил,trigeksifenidil
+10062,2115,"Эмтрицитабин ,  Рилпивирин ,  Тенофовир",emtritsitabin_rilpivirin_tenofovir
+10068,2124,Бедаквилин,bedakvilin
+10069,2125,Берактант,beraktant
+10072,2126,Цефпиром,tsefpirom
+10080,2127,"Солифенацин ,  Тамсулозин",solifenatsin_tamsulozin
+10089,2128,"Вилантерол ,  Флутиказона фуроат",vilanterol_flutikazona_furoat
+10100,2129,Аклидиния бромид,aklidiniya_bromid
+10103,2130,Траметиниб,trametinib
+10105,2131,Дабрафениб,dabrafenib
+10108,1804,Комплекс природных противомикробных пептидов и цитокинов,kompleks_prirodnykh_protivomikrobnykh_peptidov_i_tsitokinov
+10118,2132,"Олодатерол, Тиотропия бромид",olodaterol_tiotropiya_bromid
+10137,2133,Канаглифлозин,kanagliflozin
+10152,2134,"Орнидазол, Неомицин, Преднизалон, Эконазол",ornidazol_neomitsin_prednizalon_ekonazol
+10154,2135,"Пертузумаб, Трастузумаб",pertuzumab_trastuzumab
+10187,2136,Метазид,metazid
+10188,24,Изониазид,izoniazid
+10196,1938,Фтивазид,ftivazid
+10204,2137,"Аминосалициловая кислота, Изониазид",aminosalitsilovaya_kislota_izoniazid
+10206,1459,"Лактобактерии, Бифидобактерии",laktobakterii_bifidobakterii
+10216,2138,Протамина сульфат,protamina_sulfat
+10232,2139,Мирабегрон,mirabegron
+10240,2140,Тиоуреидоиминометилпиридиния перхлорат,tioureidoiminometilpiridiniya_perkhlorat
+10255,2141,Теризидон,terizidon
+10260,2142,"Изониазид, Рифампицин, Пиридоксин",izoniazid_rifampitsin_piridoksin
+10263,2143,"Изониазид, Пиразинамид, Рифампицин",izoniazid_pirazinamid_rifampitsin
+10266,2144,"Изониазид, Пиразинамид, Рифампицин, Этамбутол",izoniazid_pirazinamid_rifampitsin_etambutol
+10269,2145,"Изониазид, Пиридоксин",izoniazid_piridoksin
+10274,2146,"Изониазид, Пиразинамид, Рифампицин, Пиридоксин",izoniazid_pirazinamid_rifampitsin_piridoksin
+10275,2147,"Пиразинамид, Протионамид, Рифабутин, Пиридоксина",pirazinamid_protionamid_rifabutin_piridoksina
+10276,2148,"Гидпоксиметилхинокслиндиоксид, Изониазид",gidpoksimetilkhinokslindioksid_izoniazid
+10292,2149,Ставудин,stavudin
+10302,2150,Эмтрицитабин,emtritsitabin
+10334,1514,"Калия хлорид, Кальция хлорид, Магния хлорид, Натрия гидрокарбонат, Натрия хлорид, Повидон-8 тыс.",kaliya_khlorid_kaltsiya_khlorid_magniya_khlorid_natriya_gidrokarbonat_natriya_khlorid_povidon_8_tys
+10357,2151,"Гликопиррония бромид, Индакатерол",glikopirroniya_bromid_indakaterol
+10367,2153,Бария сульфат,bariya_sulfat
+10369,2155,"Амлодипин, Лизиноприл, Розувастатин",amlodipin_lizinopril_rozuvastatin
+10402,1745,"Пустырника трава, Магния аспарагинат, Пиридоксин",pustyrnika_trava_magniya_asparaginat_piridoksin
+10409,697,Гликвидон,glikvidon
+10431,696,Пирензепин,pirenzepin
+10447,2158,Асунапревир,asunaprevir
+10448,2157,Даклатасвир,daklatasvir
+10481,2545,"Мометазон, [Гепарин натрия]",mometazon_geparin_natriya
+10497,1072,"Бифидобактерии лонгум, Энтерококкус фециум",bifidobakterii_longum_enterokokkus_fetsium
+10519,2171,"Прополис экст, Ромашка экст, Чабрец экст, Глицерол",propolis_ekst_romashka_ekst_chabrets_ekst_glitserol
+10523,1288,,
+10555,733,Глюкагон,glyukagon
+10556,644,Инсулин растворимый [свиной монокомпонентный],insulin_rastvorimyy_svinoy_monokomponentnyy
+10582,1602,Ипилимумаб,ipilimumab
+10667,2190,Брентуксимаб ведотин,brentuksimab_vedotin
+10701,814,Кальципотриол,kaltsipotriol
+10745,2191,"Макрогол, аскорбиновая кислота",makrogol_askorbinovaya_kislota
+10779,1995,Калия пероксомоносульфат,kaliya_peroksomonosulfat
+10780,1133,Вортиоксетин,vortioksetin
+10784,169,Глатирамера ацетат,glatiramera_atsetat
+10818,2218,"Яд гадюки, Камфора, Салициловая кислота, Скипидар живичный",yad_gadyuki_kamfora_salitsilovaya_kislota_skipidar_zhivichnyy
+10827,860,Ивермектин,ivermektin
+10833,951,Коллагеназа,kollagenaza
+10834,1786,Полимурамил,polimuramil
+10840,1489,"Лидокаин, Флуокортолон",lidokain_fluokortolon
+10845,2192,"Паклитаксел, Альбумин",paklitaksel_albumin
+10851,2193,Липэгфилграстим,lipegfilgrastim
+10852,2194,Алглюкозидаза альфа,alglyukozidaza_alfa
+10855,2195,Палоносетрон,palonosetron
+10859,2196,Ланреотид,lanreotid
+10870,1954,"Гиалуронат натрия, Хондроитин сульфат натрия",gialuronat_natriya_khondroitin_sulfat_natriya
+10892,2197,Ленватиниб,lenvatinib
+10894,2198,Апремиласт,apremilast
+10967,1387,Бромкамфора,bromkamfora
+10972,446,Нитроксолин,nitroksolin
+10997,1827,"Тафлупрост, Тимолол",tafluprost_timolol
+11014,724,"Левоноргестрел, Этинилэстрадиол; Этинилэстрадиол [набор]",levonorgestrel_etinilestradiol_etinilestradiol_nabor
+11022,664,"Дексаметазон, Неомицин",deksametazon_neomitsin
+11023,2199,Биластин,bilastin
+11068,2479,Дицикловерин,ditsikloverin
+11101,2457,Бензобарбитал,benzobarbital
+11113,1480,Левоментола раствор в ментил изовалерате,levomentola_rastvor_v_mentil_izovalerate
+11135,2200,Эволокумаб,evolokumab
+11159,897,"Мяты перечной листьев масло, Пустырника травы экстракт, Этилбромизовалерианат",myaty_perechnoy_listev_maslo_pustyrnika_travy_ekstrakt_etilbromizovalerianat
+11183,250,Дапоксетин,dapoksetin
+11199,1098,Вакцина для лечения и диагностики гонококковая,vaktsina_dlya_lecheniya_i_diagnostiki_gonokokkovaya
+11243,711,"Каперсы колючей экстр., Кассии западной экстр., Паслена черного плодов экстр., Тамарикса двудомно",kapersy_kolyuchey_ekstr_kassii_zapadnoy_ekstr_paslena_chernogo_plodov_ekstr_tamariksa_dvudomno
+11264,1277,Дулаглутид,dulaglutid
+11277,1227,"Дексаметазон, Фрамицетин",deksametazon_framitsetin
+11278,557,"Бензокаин, Бутамбен, Гидрокортизон, Фрамицетин, Эскулозид",benzokain_butamben_gidrokortizon_framitsetin_eskulozid
+11279,1044,"Бензокаин, Бутамбен, Гидрокортизон, Гепарин натрия, Фрамицетин, Эскулозид",benzokain_butamben_gidrokortizon_geparin_natriya_framitsetin_eskulozid
+11342,72,"Амлодипин, Олмесартана медоксомил",amlodipin_olmesartana_medoksomil
+11346,834,Лаппаконитина гидробромид,lappakonitina_gidrobromid
+11363,1643,"Октенидин дигидрохлорид ,  Феноксиэтанол",oktenidin_digidrokhlorid_fenoksietanol
+11381,1728,"Прокаин, Борная кислота",prokain_bornaya_kislota
+11386,2206,"Мёд, прополис, экстракт тимьяна и витамин С",myed_propolis_ekstrakt_timyana_i_vitamin_s
+11406,437,Экстракт концентрированный из мелкой морской рыбы,ekstrakt_kontsentrirovannyy_iz_melkoy_morskoy_ryby
+11410,2201,С1-эстеразы человека ингибитор,s1_esterazy_cheloveka_ingibitor
+11413,2172,Фолиниевая кислота,folinievaya_kislota
+11415,1682,Ниволумаб,nivolumab
+11417,1494,Мацитентан,matsitentan
+11418,2203,Пэгинтерферон альфа-2b,peginterferon_alfa_2b
+11421,1737,Пертузумаб,pertuzumab
+11426,2204,Риоцигуат,riotsiguat
+11430,1748,Регорафениб,regorafenib
+11431,2205,"Гидрохлоротиазид, Телмисартан",gidrokhlorotiazid_telmisartan
+11439,1278,Долутегравир,dolutegravir
+11472,1424,"Кофеин, Парацетамол, Хлорфенамин",kofein_paratsetamol_khlorfenamin
+11519,705,Перициазин,peritsiazin
+11522,2208,Палбоциклиб,palbotsiklib
+11525,651,"Валсартан, Сакубитрил",valsartan_sakubitril
+11528,1788,Секукинумаб,sekukinumab
+11539,1793,Серотонин,serotonin
+11551,2209,"Рамиприл, Гидрохлоротиазид",ramipril_gidrokhlorotiazid
+11556,2030,Специально отобранные пробиотические штаммы LGG  и BB-12,spetsialno_otobrannye_probioticheskie_shtammy_lgg_i_bb_12
+11593,1374,"Калия хлорид, Натрия хлорид, Натрия ацетат",kaliya_khlorid_natriya_khlorid_natriya_atsetat
+11606,2001,Элсульфавирин,elsulfavirin
+11607,1991,Элотузумаб,elotuzumab
+11628,1531,"Метронидазол, Флуконазол",metronidazol_flukonazol
+11665,2210,"Валериана н-ка, Полынь н-ка,  Мята н-ка, Красавка н-ка",valeriana_n_ka_polyn_n_ka_myata_n_ka_krasavka_n_ka
+11698,1113,"Калия йодид, Фолиевая кислота, Цианокобаламин",kaliya_yodid_folievaya_kislota_tsianokobalamin
+11724,2212,Питавастатин,pitavastatin
+11860,2214,Флутиказон,flutikazon
+11872,1952,"Эвкалипта прутовидного листьев настойка, Левоментол/Рацементол",evkalipta_prutovidnogo_listev_nastoyka_levomentol_ratsementol
+11977,2216,Капсаицин,kapsaitsin
+11986,1151,"Аклидиния бромид, Формотерол",aklidiniya_bromid_formoterol
+11987,1532,Кальция полистиролсульфонат,kaltsiya_polistirolsulfonat
+11992,1800,Полипептиды шишковидной железы [эпифиза] крупного рогатого скота,polipeptidy_shishkovidnoy_zhelezy_epifiza_krupnogo_rogatogo_skota
+11995,1144,Полипептиды из головного мозга эмбрионов свиней,polipeptidy_iz_golovnogo_mozga_embrionov_sviney
+12000,2217,"Аскорбиновая кислота, Кальция глюконат, Кофеин, Парацетамол, Рутозид",askorbinovaya_kislota_kaltsiya_glyukonat_kofein_paratsetamol_rutozid
+12005,1968,Специализированный комплекс минеральных солей и глюкозы,spetsializirovannyy_kompleks_mineralnykh_soley_i_glyukozy
+12028,718,"Лидокаин, Толперизон",lidokain_tolperizon
+12056,1919,"Гентамицин, Декспантенол, Мометазон, Эконазол",gentamitsin_dekspantenol_mometazon_ekonazol
+12058,1924,"Фенилэфрин, Цетиризин",fenilefrin_tsetirizin
+12081,2219,Рацекадотрил,ratsekadotril
+12202,315,"Камфора, Ореха скорлупы масло, Скипидар живичный, Тимол, Эвкалипта прут.листьев масло, Левоментол",kamfora_orekha_skorlupy_maslo_skipidar_zhivichnyy_timol_evkalipta_prut_listev_maslo_levomentol
+12351,2221,"Декстроза, Калия хлорид, Кальция хлорид, Магния хлорид, Натрия ацетат, Натрия хлорид",dekstroza_kaliya_khlorid_kaltsiya_khlorid_magniya_khlorid_natriya_atsetat_natriya_khlorid
+12383,509,Лацидипин,latsidipin
+12408,661,Пипемидовая кислота,pipemidovaya_kislota
+12416,1350,Йопамидол,yopamidol
+12422,1836,Тапентадол,tapentadol
+12446,2226,Тетрабеназин,tetrabenazin
+12448,1877,Тразодон,trazodon
+12450,2434,"Нистатин, Нифурател",nistatin_nifuratel
+12453,1624,Нифурател,nifuratel
+12499,538,Ниморазол,nimorazol
+12509,1150,"2 -аллилоксиэтанол , лидокаин",2_alliloksietanol_lidokain
+12517,1987,Черники экстракт,cherniki_ekstrakt
+12518,1966,Цефтибутен,tseftibuten
+12524,2230,Гидроксипропилметилцеллюлоза,gidroksipropilmetiltsellyuloza
+12527,1482,"Лидокаин, Неомицин, Полимиксин В",lidokain_neomitsin_polimiksin_v
+12528,1024,"Ацетилцистеин, Туаминогептан",atsetiltsistein_tuaminogeptan
+12529,2232,Цилостазол,tsilostazol
+12531,1853,Тиамфеникола глицинат ацетилцистеинат,tiamfenikola_glitsinat_atsetiltsisteinat
+12534,2231,"Декаприлил, кунжутное масло, апельсиновое масло, лимонное масло, антиоксидантная смесь",dekaprilil_kunzhutnoe_maslo_apelsinovoe_maslo_limonnoe_maslo_antioksidantnaya_smes
+12575,2215,"Простаты экстракт, Цинка аргинил-глицинат",prostaty_ekstrakt_tsinka_arginil_glitsinat
+12578,626,Тестостерон смесь эфиров,testosteron_smes_efirov
+12592,2234,"Мяты перечной листьев масло, Пустырника травы экстракт, Этилбромизовалерианат, Дифенгидрамин",myaty_perechnoy_listev_maslo_pustyrnika_travy_ekstrakt_etilbromizovalerianat_difengidramin
+12621,2349,"Фурагин, метилурацил, экстракт прополиса",furagin_metiluratsil_ekstrakt_propolisa
+12622,2235,"Фипронил, дифенгидрамин, дифлубензурон",fipronil_difengidramin_diflubenzuron
+12623,2236,"Цифлутрин, лидокаин, хлорамфеникол",tsiflutrin_lidokain_khloramfenikol
+12624,2238,Амитраз,amitraz
+12626,2239,Атипамезол,atipamezol
+12631,2241,Доксициллин,doksitsillin
+12633,2237,Фирококсиб,firokoksib
+12635,2243,"L-орнитин, L-цитруллин, L-аргинин",l_ornitin_l_tsitrullin_l_arginin
+12637,2240,"Эссенциальные фосфолипиды, метионин, орнитин, экстракт расторопши, экстракт бессмертника",essentsialnye_fosfolipidy_metionin_ornitin_ekstrakt_rastoropshi_ekstrakt_bessmertnika
+12640,2242,Полиметилсилоксана полигидрат,polimetilsiloksana_poligidrat
+12641,2324,"Хондроитина сульфат, глюкозамина гидрохлорид, селенометионин, витамин Е, кальция глюконат",khondroitina_sulfat_glyukozamina_gidrokhlorid_selenometionin_vitamin_e_kaltsiya_glyukonat
+12644,2245,"Фипронил, хлорамфеникол,лидокаин",fipronil_khloramfenikol_lidokain
+12645,2246,"Гентамицин, дексаметазон",gentamitsin_deksametazon
+12649,2247,"Грамицидин С ,глюкаминопропилкарбакридон",gramitsidin_s_glyukaminopropilkarbakridon
+12651,2248,"Грамицидин С ,глюкаминопропилкарбакридон,перметрин",gramitsidin_s_glyukaminopropilkarbakridon_permetrin
+12652,2244,Глюкаминопропилкарбакридон,glyukaminopropilkarbakridon
+12653,2250,Медетомидин,medetomidin
+12655,2251,"Гидроксиметилхиноксилиндиоксид, метилурацил, хлорамфеникол, лидокаин",gidroksimetilkhinoksilindioksid_metiluratsil_khloramfenikol_lidokain
+12657,2249,"Хлорамфеникол, метилурацил, лидокаин",khloramfenikol_metiluratsil_lidokain
+12658,2252,"Триамцинолон, пиридоксин, рибофлавин, никотинамид, метионин и янтарная кислота",triamtsinolon_piridoksin_riboflavin_nikotinamid_metionin_i_yantarnaya_kislota
+12660,2253,"Триамцинолон, хлорамфеникол, метронидазол, лидокаина гидрохлорид, экстракт календулы",triamtsinolon_khloramfenikol_metronidazol_lidokaina_gidrokhlorid_ekstrakt_kalenduly
+12661,2254,Оклацитиниб,oklatsitinib
+12663,1335,Интерлейкин 2,interleykin_2
+12666,2255,"Фенибут,шлемника экстракт, хмеля экстракт, экстракт пустырника, пиона экстракт",fenibut_shlemnika_ekstrakt_khmelya_ekstrakt_ekstrakt_pustyrnika_piona_ekstrakt
+12671,2256,"Нитроксолин, дротаверина гидрохлорид, растительные экстракты",nitroksolin_drotaverina_gidrokhlorid_rastitelnye_ekstrakty
+12672,2257,"Тербинафин, тиабендазол, метронидазол, лидокаин, дексаметазон",terbinafin_tiabendazol_metronidazol_lidokain_deksametazon
+12676,2258,"Миконазол,энрофлоксацин",mikonazol_enrofloksatsin
+12677,2259,"Фипронил, дифлубензурон",fipronil_diflubenzuron
+12681,2261,Фипронил,fipronil
+12683,2262,"Левомицетин, фурацилин",levomitsetin_furatsilin
+12684,2263,Диазинон,diazinon
+12685,2264,"Фипронил, дифлубензурон, дикарбоксимид",fipronil_diflubenzuron_dikarboksimid
+12700,2260,Аверсектин,aversektin
+12702,2265,"АСД фракция, витамины А, Е, янтарная кислота",asd_fraktsiya_vitaminy_a_e_yantarnaya_kislota
+12703,2266,"Хлоргексидин, таурин, янтарная кислота",khlorgeksidin_taurin_yantarnaya_kislota
+12704,2267,"Вакцина против возбудителей чумы плотоядных, аденовируса, парагриппа, парвовируса, коронавируса",vaktsina_protiv_vozbuditeley_chumy_plotoyadnykh_adenovirusa_paragrippa_parvovirusa_koronavirusa
+12706,1106,Инактивированная антирабическая вакцина,inaktivirovannaya_antirabicheskaya_vaktsina
+12716,2268,"Витамин А ,витамин D3 ,витамин Е",vitamin_a_vitamin_d3_vitamin_e
+12720,2269,"Силимарин, витамин Е",silimarin_vitamin_e
+12721,2270,Плацента денатурированная эмульгированная (ПДЭ),platsenta_denaturirovannaya_emulgirovannaya_pde
+12724,2271,"Пропионат мепрегенола, этинилэстрадиол",propionat_mepregenola_etinilestradiol
+12725,2272,"Мепрегенолацетат, этинилэстрадиол",mepregenolatsetat_etinilestradiol
+12729,2273,"Тилетамин, золазепам",tiletamin_zolazepam
+12730,2274,Витаминно-аминокислотный комплекс,vitaminno_aminokislotnyy_kompleks
+12731,2275,Беназеприл,benazepril
+12740,2276,Кальция борглюконат,kaltsiya_borglyukonat
+12751,2277,"Натрия хлорид, Калия хлорид, Кальция хлорид, Натрия гидрокарбонат",natriya_khlorid_kaliya_khlorid_kaltsiya_khlorid_natriya_gidrokarbonat
+12755,2278,Цинк-инсулин,tsink_insulin
+12760,2375,"Глюкозамин, МСМ, хондроитин",glyukozamin_msm_khondroitin
+12768,2318,"Азитромицин, мелоксикам",azitromitsin_meloksikam
+12770,2336,"Диоксидин, димедрол, диметилсульфоксид",dioksidin_dimedrol_dimetilsulfoksid
+12776,2279,Цефовецин,tsefovetsin
+12777,2280,"Сульфадиазин, триметоприм",sulfadiazin_trimetoprim
+12778,2281,Энрофлоксацин,enrofloksatsin
+12779,2282,"Кальция глюконат, кальция бороглюконат, кальция гидроксид, магния хлорид",kaltsiya_glyukonat_kaltsiya_boroglyukonat_kaltsiya_gidroksid_magniya_khlorid
+12780,2283,Менбутон,menbuton
+12781,2284,"Пенициллин G, дигидрострептомицин, прокаин, бетаметазон, хлорфенирамин",penitsillin_g_digidrostreptomitsin_prokain_betametazon_khlorfeniramin
+12786,2342,Пролигестон,proligeston
+12787,2285,"Ацетобумедон, этинилэстрадиол",atsetobumedon_etinilestradiol
+12788,2286,"Мепрегинол, этинилэстрадиол",mepreginol_etinilestradiol
+12791,2287,"Диклофенак натрия, дротаверина гидрохлорид",diklofenak_natriya_drotaverina_gidrokhlorid
+12795,2288,"Тетрациклин, неомицин, бацитрацин, преднизолон",tetratsiklin_neomitsin_batsitratsin_prednizolon
+12801,2295,Альбендазол,albendazol
+12802,2317,"Ципрофлоксацин, флуоцинолон, лидокаин, кетоконазол",tsiprofloksatsin_fluotsinolon_lidokain_ketokonazol
+12805,2328,Витаминный комплекс,vitaminnyy_kompleks
+12806,2319,Натрия 10-метиленкарбоксилат-9-акридон,natriya_10_metilenkarboksilat_9_akridon
+12810,2333,"Фебантел, пирантел, празиквантел",febantel_pirantel_prazikvantel
+12814,2289,"Мирамистин,водноспиртовой экстракт ромашки,сукцинат хитозана",miramistin_vodnospirtovoy_ekstrakt_romashki_suktsinat_khitozana
+12815,2290,Цефкином,tsefkinom
+12822,2291,Инактивированные споры дерматофитов,inaktivirovannye_spory_dermatofitov
+12824,2292,Карпрофен,karprofen
+12827,2293,Интерферон кошки,interferon_koshki
+12833,2294,"Празиквантел, пирантел",prazikvantel_pirantel
+12837,2296,Окситетрациклин,oksitetratsiklin
+12841,2325,Имидокарб,imidokarb
+12844,2357,"Фипронил, перметрин",fipronil_permetrin
+12849,2297,"Динотефуран, перметрин, пирипроксифен",dinotefuran_permetrin_piriproksifen
+12854,2299,"Динотефуран, пирипроксифен",dinotefuran_piriproksifen
+12862,2300,"Моксидектин, празиквантел",moksidektin_prazikvantel
+12873,2301,"Сульфагуанидин, бензонафтол, ратания",sulfaguanidin_benzonaftol_rataniya
+12876,2302,"Фенбендазол, пирантел",fenbendazol_pirantel
+12885,2303,"Пирантел,празиквантел",pirantel_prazikvantel
+12900,2304,"Беназеприл, спиронолактон",benazepril_spironolakton
+12903,2305,"Бутафосфан, цианокобаламин",butafosfan_tsianokobalamin
+12904,2306,Ксилазин,ksilazin
+12905,2307,"Хлорамфеникол, диоксометилтетрагидропиримидин",khloramfenikol_dioksometiltetragidropirimidin
+12907,2308,"Гентамицин,клотримазол,бетаметазона дипропионат",gentamitsin_klotrimazol_betametazona_dipropionat
+12908,2309,"Бис(пиридин-2,6-дикарбоксилат) германия",bis_piridin_2_6_dikarboksilat_germaniya
+12910,2310,Марбофлоксацин,marbofloksatsin
+12916,2311,"Мегестрол, пророксан, мелатонин",megestrol_proroksan_melatonin
+12919,2312,"Ципротерон, пророксан, мелатонин",tsiproteron_proroksan_melatonin
+12922,2313,"Триамцинолон, кислота салициловая, гентамицин",triamtsinolon_kislota_salitsilovaya_gentamitsin
+12924,2314,"Марбофлоксацин, клотримазол, дексаметазон",marbofloksatsin_klotrimazol_deksametazon
+12926,2326,"Фипронил, бензилбензоат, диэтилтолуамид, метопрен",fipronil_benzilbenzoat_dietiltoluamid_metopren
+12936,2329,"Фипронил, тиаметоксам, пирипроксифен",fipronil_tiametoksam_piriproksifen
+12941,2331,"Фипронил, цифлутрин",fipronil_tsiflutrin
+12943,2330,"Фипронил, ивермектин, пирипроксифен",fipronil_ivermektin_piriproksifen
+12947,2332,Дельтаметрин,deltametrin
+12958,2327,Флураланер,fluralaner
+12967,2343,"Пропоксур, флуметрин",propoksur_flumetrin
+12968,2315,"Орбифлоксацин,мометазон, посаконазол",orbifloksatsin_mometazon_posakonazol
+12969,2376,Низкомолекулярные пептиды и фрагменты РНК,nizkomolekulyarnye_peptidy_i_fragmenty_rnk
+12970,2562,"Миконазола нитрат, полимиксина в сульфат, преднизолона ацетат",mikonazola_nitrat_polimiksina_v_sulfat_prednizolona_atsetat
+12978,2372,Толтразурил,toltrazuril
+12980,2361,Эмидонол,emidonol
+12996,2355,"Имидаклоприд, флуметрин",imidakloprid_flumetrin
+12999,2356,"Фипронил, метопрен",fipronil_metopren
+13012,2359,"Пирантел,празиквантел,ивермектин",pirantel_prazikvantel_ivermektin
+13013,2335,"Празиквантел, ивермектин",prazikvantel_ivermektin
+13017,2334,"Пирантел, рибонуклеат натрия",pirantel_ribonukleat_natriya
+13019,2337,"Ивермектин, лидокаина гидрохлорид, декспантенол",ivermektin_lidokaina_gidrokhlorid_dekspantenol
+13020,2338,"Празиквантел, фипронил, аверсектин С1",prazikvantel_fipronil_aversektin_s1
+13025,2339,"Фипронил, пирипроксифен",fipronil_piriproksifen
+13033,2341,"Фенбендазол, празиквантел",fenbendazol_prazikvantel
+13037,2560,"Мильбемицина оксим, празиквантел",milbemitsina_oksim_prazikvantel
+13049,2320,Фенбендазол,fenbendazol
+13054,2321,"Альбендазол, празиквантел",albendazol_prazikvantel
+13059,2352,Имидаклоприд,imidakloprid
+13063,2351,"Имидаклоприд, перметрин",imidakloprid_permetrin
+13068,2353,"Имидаклоприд, моксидектин",imidakloprid_moksidektin
+13078,2354,Пропоксур,propoksur
+13083,2561,Пирипрол,piriprol
+13087,2322,Тиопентал натрия,tiopental_natriya
+13097,2323,Софосбувир,sofosbuvir
+13102,2344,Тиаметоксам,tiametoksam
+13104,2345,Робенакоксиб,robenakoksib
+13108,2346,"Тербинафин, флорфеникол, бетаметазон",terbinafin_florfenikol_betametazon
+13114,2347,"Пирантел, празиквантел, пчелиное маточное молочко",pirantel_prazikvantel_pchelinoe_matochnoe_molochko
+13118,2348,"Празиквантел, пирантел, фенбендазол, пчелиное маточное молочко",prazikvantel_pirantel_fenbendazol_pchelinoe_matochnoe_molochko
+13123,2350,"Аверсектин, празиквантел",aversektin_prazikvantel
+13129,2358,"Тетраметил-4,4-диаминотрифенилметан оксалат (малахитовый зеленый) и формалин",tetrametil_4_4_diaminotrifenilmetan_oksalat_malakhitovyy_zelenyy_i_formalin
+13138,2360,Экстракт стеблей Солянки лиственничной,ekstrakt_stebley_solyanki_listvennichnoy
+13143,2362,Аглепристон,aglepriston
+13160,2363,"Цефапирин, преднизолон",tsefapirin_prednizolon
+13161,2364,"Неомицин,бензилпенициллин",neomitsin_benzilpenitsillin
+13167,2365,"Толдимфос натрия, никотиновая кислота, кобальт, селен, цинк, марганец, молибден",toldimfos_natriya_nikotinovaya_kislota_kobalt_selen_tsink_marganets_molibden
+13169,2366,"Перметрин,амитраз",permetrin_amitraz
+13170,2367,"Софора японская, крапива двудомная",sofora_yaponskaya_krapiva_dvudomnaya
+13175,2368,Детомидин,detomidin
+13179,2369,"Фипронил, тиаметоксам, пирипроксифен, цифлутрин",fipronil_tiametoksam_piriproksifen_tsiflutrin
+13191,2370,"Амоксициллин, гентамицин",amoksitsillin_gentamitsin
+13193,2371,"Хлоргексидин,янтарная кислота",khlorgeksidin_yantarnaya_kislota
+13197,2373,"Сульфадиметоксин,эритромицин,триметоприм,дексаметазон",sulfadimetoksin_eritromitsin_trimetoprim_deksametazon
+13207,2374,Дииндолилметан,diindolilmetan
+13239,2379,Пимобендан,pimobendan
+13255,2378,Динатриевая соль фосфата полипренолов,dinatrievaya_sol_fosfata_poliprenolov
+13278,2380,Лактоферрин,laktoferrin
+13375,2377,Алирокумаб,alirokumab
+13389,1807,Спектиномицин,spektinomitsin
+13394,2382,Бозутиниб,bozutinib
+13396,2383,"Инсулин гларгин, Ликсисенатид",insulin_glargin_liksisenatid
+13427,2385,"Тенофовир, Эмтрицитабин, Эфавиренз",tenofovir_emtritsitabin_efavirenz
+13443,2386,"Бензоила пероксид, Клиндамицин",benzoila_peroksid_klindamitsin
+13447,2387,Фимасартан,fimasartan
+13464,2211,"Калия аспарагинат, Магния аспарагинат",kaliya_asparaginat_magniya_asparaginat
+13465,845,Никотиноил гамма-аминомасляная кислота,nikotinoil_gamma_aminomaslyanaya_kislota
+13494,2388,Феназопиридин,fenazopiridin
+13498,2389,Рибоциклиб,ribotsiklib
+13501,2390,Меполизумаб,mepolizumab
+13524,2398,Глутатион,glutation
+13525,2392,"Метформин, Эмпаглифлозин",metformin_empagliflozin
+13534,2393,Прасугрел,prasugrel
+13581,2395,"Дапаглифлозин, Метформин",dapagliflozin_metformin
+13589,2396,Фезотеродин,fezoterodin
+13603,2397,"Диосмин, флавоноиды в пересчете на гесперидин",diosmin_flavonoidy_v_pereschete_na_gesperidin
+13629,1770,Рябины плоды,ryabiny_plody
+13642,750,Диэтиламинопропионилэтоксикарбониламинофенотиазин,dietilaminopropioniletoksikarbonilaminofenotiazin
+13698,2400,Пророксан,proroksan
+13715,2401,Диметилфумарат,dimetilfumarat
+13733,2402,"Аторвастатин, Ацетилсалициловая кислота",atorvastatin_atsetilsalitsilovaya_kislota
+13789,1232,"Гепарин натрия, Фосфолипиды, Эсцин",geparin_natriya_fosfolipidy_estsin
+13792,2404,"Индапамид, Рамиприл",indapamid_ramipril
+13801,2436,Аденопросин,adenoprosin
+13804,2406,"Амлодипин, Индапамид",amlodipin_indapamid
+13806,2408,"Ивабрадин, Метопролол",ivabradin_metoprolol
+13810,2407,"Бисопролол, Периндоприл",bisoprolol_perindopril
+13828,2409,Бриварацетам,brivaratsetam
+13831,2410,Венетоклакс,venetoklaks
+13843,2411,"Глекапревир, Пибрентасвир",glekaprevir_pibrentasvir
+13845,2412,Молграмостим,molgramostim
+13848,2413,Иксазомиб,iksazomib
+13849,2414,"Калия хлорид, Магния сульфат, Маннитол",kaliya_khlorid_magniya_sulfat_mannitol
+13855,2415,Терифлуномид,teriflunomid
+13856,2416,Пэгинтерферон бета-1a,peginterferon_beta_1a
+13859,2417,Нарлапревир,narlaprevir
+13866,2418,Телаванцин,telavantsin
+13872,505,Диданозин,didanozin
+13873,2419,"Гиалуронат натрия, Натрия хлорид",gialuronat_natriya_natriya_khlorid
+13875,2420,Осимертиниб,osimertinib
+13881,2421,"Цефтазидим, [Авибактам]",tseftazidim_avibaktam
+13883,2422,"Цефтолозан, [Тазобактам]",tseftolozan_tazobaktam
+13894,2423,Пембролизумаб,pembrolizumab
+13897,2424,Энзалутамид,enzalutamid
+13904,2425,Нетакимаб,netakimab
+13918,2427,Полимиксин B,polimiksin_b
+13927,2428,Ведолизумаб,vedolizumab
+13937,2429,Аминометилбензойная кислота,aminometilbenzoynaya_kislota
+13941,2430,4-Нитро-N-[(1RS)-1-(4-фторфенил)-2-(1-этилпиперидин-4-ил)этил] бензамида гидрохлорид,4_nitro_n_1rs_1_4_ftorfenil_2_1_etilpiperidin_4_il_etil_benzamida_gidrokhlorid
+13943,2431,Тедизолид,tedizolid
+13965,2450,"Неденатурированный коллаген II типа (UC-II®), витамин С, витамин D3, медь, марганец",nedenaturirovannyy_kollagen_ii_tipa_uc_ii_vitamin_s_vitamin_d3_med_marganets
+13979,2435,Энисамия йодид,enisamiya_yodid
+14000,2437,Блинатумомаб,blinatumomab
+14006,2438,Церитиниб,tseritinib
+14013,2439,Барицитиниб,baritsitinib
+14014,2440,"Беклометазон, Сальбутамол",beklometazon_salbutamol
+14015,2441,Иксекизумаб,iksekizumab
+14029,2442,Гозоглиптин,gozogliptin
+14058,2443,Кобиметиниб,kobimetinib
+14084,2444,"Розувастатин, Эзетимиб",rozuvastatin_ezetimib
+14086,714,Линэстренол,linestrenol
+14100,1496,Линестренол,linestrenol
+14101,1568,Миансерин,mianserin
+14120,2020,"Эритромицин, Цинка ацетат",eritromitsin_tsinka_atsetat
+14124,1167,"Гидрокортизон, Неомицин, Натамицин",gidrokortizon_neomitsin_natamitsin
+14126,655,Подофиллотоксин,podofillotoksin
+14147,788,Ломустин,lomustin
+14149,524,"Салициловая кислота, Флуметазон",salitsilovaya_kislota_flumetazon
+14156,2445,Ипраглифлозин,ipragliflozin
+14158,2446,Луразидон,lurazidon
+14185,2447,"Парацетамол, Фенилэфрин, Хлорфенамин, [Аскорбиновая кислота]",paratsetamol_fenilefrin_khlorfenamin_askorbinovaya_kislota
+14221,459,Пефлоксацин,pefloksatsin
+14228,722,"Неомицин, Флуоцинолона ацетонид",neomitsin_fluotsinolona_atsetonid
+14234,1931,"Клиохинол, Флуметазон",kliokhinol_flumetazon
+14239,638,Пеницилламин,penitsillamin
+14243,1710,Поликресулен,polikresulen
+14245,634,Флудрокортизон,fludrokortizon
+14260,1248,"Дигидроэргокристин, Клопамид, Резерпин",digidroergokristin_klopamid_rezerpin
+14266,582,"Тетрациклин, Триамцинолон",tetratsiklin_triamtsinolon
+14268,2448,Нитрендипин,nitrendipin
+14271,2449,Секнидазол,seknidazol
+14298,1687,Пиперазин,piperazin
+14336,2451,"Аргинин, Бетаин",arginin_betain
+14347,348,Сульфадиметоксин,sulfadimetoksin
+14356,1445,"Белладонны листьев экстракт, Бензокаин, Метамизол натрия, Натрия гидрокарбонат",belladonny_listev_ekstrakt_benzokain_metamizol_natriya_natriya_gidrokarbonat
+14364,2453,"Очищенная микронизированная флавоноидная фракция (диосмин ,  флавоноиды в пересчете на гесперидин)",ochishchennaya_mikronizirovannaya_flavonoidnaya_fraktsiya_diosmin_flavonoidy_v_pereschete_na_gesperidin
+14442,2455,"Индапамид, Лизиноприл",indapamid_lizinopril
+14445,2456,"Амлодипин, Индапамид, Лизиноприл",amlodipin_indapamid_lizinopril
+14474,2458,"Кофеин, Метамизол натрия, Фенобарбитал",kofein_metamizol_natriya_fenobarbital
+14483,1502,Лития карбонат,litiya_karbonat
+14493,1559,Метоциния Йодид,metotsiniya_yodid
+14563,2459,Абемациклиб,abematsiklib
+14567,2460,Дурвалумаб,durvalumab
+14569,2461,Кабозантиниб,kabozantinib
+14574,2462,Семаглутид,semaglutid
+14581,2463,"Дротаверин, Кофеин, Напроксен, Парацетамол, Фенирамин",drotaverin_kofein_naproksen_paratsetamol_feniramin
+14643,886,Кортизон,kortizon
+14659,1821,Сульфадимидин,sulfadimidin
+14664,1398,"Гидрохлоротиазид, Каптоприл",gidrokhlorotiazid_kaptopril
+14684,1631,"Диоксометилтетрагидропиримидин, Облепихи крушиновидной плодов масло, Сульфаэтидол",dioksometiltetragidropirimidin_oblepikhi_krushinovidnoy_plodov_maslo_sulfaetidol
+14691,1944,"Хлорамфеникол, Облепихи масло, Бензокаин, Борная кислота",khloramfenikol_oblepikhi_maslo_benzokain_bornaya_kislota
+14704,1057,"Бензокаин, Висмута субгаллат, Цинка оксид, Левоментол",benzokain_vismuta_subgallat_tsinka_oksid_levomentol
+14737,1319,Иммуноглобулин против клещевого энцефалита,immunoglobulin_protiv_kleshchevogo_entsefalita
+14741,1729,Антитоксин столбнячный,antitoksin_stolbnyachnyy
+14758,2181,Бактериофаг коли,bakteriofag_koli
+14760,865,Платифиллин,platifillin
+14764,1801,Живица сосновая,zhivitsa_sosnovaya
+14770,1236,"Декстроза, Натрия гидроцитрат",dekstroza_natriya_gidrotsitrat
+14771,146,Гризеофульвин,grizeofulvin
+14777,1852,"Тетрациклин, Олеандомицин",tetratsiklin_oleandomitsin
+14779,1385,"Кальция хлорид, Натрия гидрокарбонат, Повидон, Натрия хлорид, Калия хлорид",kaltsiya_khlorid_natriya_gidrokarbonat_povidon_natriya_khlorid_kaliya_khlorid
+14783,1851,"Тетрациклин, Нистатин",tetratsiklin_nistatin
+14845,837,Белладонны листья,belladonny_listya
+14890,829,"Белладонны листьев экстр., Трибромфенолята висмута и Висмута оксида комплекс, Цинка сульфат",belladonny_listev_ekstr_tribromfenolyata_vismuta_i_vismuta_oksida_kompleks_tsinka_sulfat
+14895,448,"Калия хлорид, Магния хлорид, Натрия хлорид, Натрия фумарат",kaliya_khlorid_magniya_khlorid_natriya_khlorid_natriya_fumarat
+14908,826,"Янтарная кислота, Лимонная кислота",yantarnaya_kislota_limonnaya_kislota
+14911,888,"Пиридоксин, Треонин",piridoksin_treonin
+14915,253,Декстран ср.мол.масса 50000-70000,dekstran_sr_mol_massa_50000_70000
+14928,1607,"Декстран(ср.мол.масса 30000-50000), Маннитол, Натрия хлорид",dekstran_sr_mol_massa_30000_50000_mannitol_natriya_khlorid
+15006,1338,Интерферон альфа-2,interferon_alfa_2
+15009,2464,Эвкалипта прутовидного листья настойка,evkalipta_prutovidnogo_listya_nastoyka
+15019,1061,"Березы листьев экстр., Зверобоя травы экстр., Расторопши пятнистой плодов экстр., Пижмы цветко",berezy_listev_ekstr_zveroboya_travy_ekstr_rastoropshi_pyatnistoy_plodov_ekstr_pizhmy_tsvetko
+15023,87,Тетрагидроксиглюкопиранозилксантен,tetragidroksiglyukopiranozilksanten
+15026,2058,"Белладонны алкалоиды, Фенобарбитал, Эрготамин",belladonny_alkaloidy_fenobarbital_ergotamin
+15029,290,Ланатозид Ц,lanatozid_ts
+15030,1479,Леспедезы двухцветной побеги,lespedezy_dvukhtsvetnoy_pobegi
+15032,1779,Сангвиритрин,sangviritrin
+15036,331,Пижмы обыкновенной цветков экстракт,pizhmy_obyknovennoy_tsvetkov_ekstrakt
+15041,973,Амми большой плодов фурокумарины,ammi_bolshoy_plodov_furokumariny
+15043,1630,Облепихи крушиновидной листьев экстракт,oblepikhi_krushinovidnoy_listev_ekstrakt
+15070,2466,"Левоментол, Фенилсалицилат",levomentol_fenilsalitsilat
+15111,2469,"Инсулин деглудек, Лираглутид",insulin_degludek_liraglutid
+15115,2471,Реслизумаб,reslizumab
+15163,2472,"Индапамид, Периндоприл, Розувастатин",indapamid_perindopril_rozuvastatin
+15169,2473,Фонтурацетам,fonturatsetam
+15228,2474,Сарилумаб,sarilumab
+15254,2475,Олапариб,olaparib
+15264,2476,Упадацитиниб,upadatsitinib
+15266,2477,"Факторы свертывания крови II, VII, IX и X в комбинации [Протромбиновый комплекс]",faktory_svertyvaniya_krovi_ii_vii_ix_i_x_v_kombinatsii_protrombinovyy_kompleks
+15273,2478,Бензгидрилпиперазинилбутилметилксантина сукцинат,benzgidrilpiperazinilbutilmetilksantina_suktsinat
+15275,2480,Олокизумаб,olokizumab
+15276,2481,"Левоцетиризин, Монтелукаст",levotsetirizin_montelukast
+15282,2482,Эмпэгфилграстим,empegfilgrastim
+15287,2483,Бенрализумаб,benralizumab
+15290,2484,Нинтеданиб,nintedanib
+15292,2486,Рамуцирумаб,ramutsirumab
+15294,2485,"Комплекс бета-железа [III] оксигидроксида, сахарозы и крахмала",kompleks_beta_zheleza_iii_oksigidroksida_sakharozy_i_krakhmala
+15302,2487,Авелумаб,avelumab
+15304,2488,Леводропропизин,levodropropizin
+15324,2490,Фавипиравир,favipiravir
+15334,2491,Дупилумаб,dupilumab
+15337,2492,Канакинумаб,kanakinumab
+15338,2493,Маравирок,maravirok
+15342,2494,Даратумумаб,daratumumab
+15350,2495,Анагрелид,anagrelid
+15351,2496,"Вакцина для профилактики дифтерии, столбняка и коклюша",vaktsina_dlya_profilaktiki_difterii_stolbnyaka_i_koklyusha
+15361,2497,"Кобицистат, Тенофовира алафенамид, Элвитегравир, Эмтрицитабин",kobitsistat_tenofovira_alafenamid_elvitegravir_emtritsitabin
+15378,2498,Эренумаб,erenumab
+15381,2499,Фреманезумаб,fremanezumab
+15398,2500,Апалутамид,apalutamid
+15402,2501,Алектиниб,alektinib
+15403,2502,Икодекстрин,ikodekstrin
+15412,2503,Селексипаг,seleksipag
+15421,2504,Вакцина для профилактики оспы,vaktsina_dlya_profilaktiki_ospy
+15427,2505,Гадодиамид,gadodiamid
+15434,2506,Окрелизумаб,okrelizumab
+15450,2508,Валерианы лекарственной корневищ с корнями экстракт,valeriany_lekarstvennoy_kornevishch_s_kornyami_ekstrakt
+15501,2509,"Комплекс солей Na и К, пробиотик Lactobacillus rhamnosus GG и пребиотик мальтодекстрин",kompleks_soley_na_i_k_probiotik_lactobacillus_rhamnosus_gg_i_prebiotik_maltodekstrin
+15507,2510,"Вилантерол, Умеклидиния бромид, Флутиказона фуроат",vilanterol_umeklidiniya_bromid_flutikazona_furoat
+15520,2512,"Гразопревир, Элбасвир",grazoprevir_elbasvir
+15523,2511,"Доравирин, Ламивудин, Тенофовир",doravirin_lamivudin_tenofovir
+15527,2513,Левилимаб,levilimab
+15543,2514,Алемтузумаб,alemtuzumab
+15548,2515,Мидостаурин,midostaurin
+15549,2516,Митотан,mitotan
+15562,2517,Доравирин,doravirin
+15563,2518,Идаруцизумаб,idarutsizumab
+15570,2520,Нусинерсен,nusinersen
+15587,2519,Тиотепа,tiotepa
+15588,2521,Атезолизумаб,atezolizumab
+15602,2522,Тиротропин альфа,tirotropin_alfa
+15603,2523,Гуселькумаб,guselkumab
+15609,2524,Пролголимаб,prolgolimab
+15610,2525,Идурсульфаза бета,idursulfaza_beta
+15612,2526,Клофарабин,klofarabin
+15613,2527,"Велпатасвир, Софосбувир",velpatasvir_sofosbuvir
+15615,2528,Пирфенидон,pirfenidon
+15635,2529,"Октенидин, декспантенол, гидроксиэтилцеллюлоза",oktenidin_dekspantenol_gidroksietiltsellyuloza
+15636,2530,Глицинат серебра,glitsinat_serebra
+15637,2531,"Кофеин, Напроксен, Парацетамол",kofein_naproksen_paratsetamol
+15648,2532,"Фенилбутазон, [Лидокаин]",fenilbutazon_lidokain
+15671,2533,Риамиловир,riamilovir
+15681,2534,Гадотеридол,gadoteridol
+15682,2535,Йомепрол,yomeprol
+15723,1362,Кагоцел,kagotsel
+15726,2536,Карипразин,kariprazin
+15814,2538,Ремдесивир,remdesivir
+15817,2539,Балоксавир марбоксил,baloksavir_marboksil
+15842,2541,"Цефепим, [Сульбактам]",tsefepim_sulbaktam
+15851,2542,"Диклофенак, Орфенадрин",diklofenak_orfenadrin
+15861,2540,"Аскорбиновая кислота, Кальция глюконат, Парацетамол, Рутозид, Фенилэфрин",askorbinovaya_kislota_kaltsiya_glyukonat_paratsetamol_rutozid_fenilefrin
+15867,2554,Полинуклеотиды,polinukleotidy
+15942,2547,Изавуконазол,izavukonazol
+15946,2543,Эртуглифлозин,ertugliflozin
+15947,2548,"Биктегравир, Тенофовир алафенамид, Эмтрицитабин",biktegravir_tenofovir_alafenamid_emtritsitabin
+15948,2549,Тенофовир алафенамид,tenofovir_alafenamid
+16131,2551,"Бримонидин, Бринзоламид",brimonidin_brinzolamid
+16159,2555,"Лидокаин, Лизоцим, Цетилпиридиния хлорид",lidokain_lizotsim_tsetilpiridiniya_khlorid
+16193,2558,"Алоглиптин, Метформин",alogliptin_metformin
+16201,2559,"Глицирризиновая кислота, Урсодезоксихолевая кислота",glitsirrizinovaya_kislota_ursodezoksikholevaya_kislota
+16244,851,Оксиэтиламмония метилфеноксиацетат,oksietilammoniya_metilfenoksiatsetat
+16263,2563,"Камфора, Салициловая кислота, Скипидар живичный, Яд гадюки",kamfora_salitsilovaya_kislota_skipidar_zhivichnyy_yad_gadyuki
+16296,2566,"Орнидазол, Ципрофлоксацин",ornidazol_tsiprofloksatsin
+16322,1751,Рибофлавин,riboflavin
+16350,4,Гидроксипрогестерона капроат,gidroksiprogesterona_kaproat
+16376,1126,"Висмута субнитрат, Йод, Метиленовый синий, Резорцинол, Танин, Цинка оксид",vismuta_subnitrat_yod_metilenovyy_siniy_rezortsinol_tanin_tsinka_oksid
+16492,1090,"Брусники листья, Зверобоя трава, Череды трава, Шиповника плоды",brusniki_listya_zveroboya_trava_cheredy_trava_shipovnika_plody
+16514,1578,Можжевельника плоды,mozhzhevelnika_plody
+16550,1628,"Ромашки аптечной цветки, Шалфея лекарственного листья",romashki_aptechnoy_tsvetki_shalfeya_lekarstvennogo_listya
+16614,1378,"Кальция глюконат, Бромизовал, Кофеин, Папаверин, Фенобарбитал",kaltsiya_glyukonat_bromizoval_kofein_papaverin_fenobarbital
+16636,827,Арники настойка гомеопатическая,arniki_nastoyka_gomeopaticheskaya
+16644,832,Дроперидол,droperidol
+16659,1416,"Клонидин, Бутиламиногидроксипропоксифеноксиметил метилоксадиазол",klonidin_butilaminogidroksipropoksifenoksimetil_metiloksadiazol
+16664,842,Сычужные ферменты,sychuzhnye_fermenty
+16666,856,Азатиоприн,azatioprin
+16709,863,Этидроновая кислота,etidronovaya_kislota
+16729,1326,Индигокармин,indigokarmin
+16762,1558,"Метилурацил, Хлорамфеникол",metiluratsil_khloramfenikol
+16763,1945,"Хлорамфеникол, Сульфадиметоксин, Тримекаин",khloramfenikol_sulfadimetoksin_trimekain
+16774,1680,Перца стручкового экстракт,pertsa_struchkovogo_ekstrakt
+16775,1047,"Белладонна, Ихтаммол",belladonna_ikhtammol
+16776,850,Ацетарсол,atsetarsol
+16779,1168,"Гидрокортизон, Хлорамфеникол",gidrokortizon_khloramfenikol
+16792,1597,Натрия алгинат,natriya_alginat
+16812,1206,Грамицидин С,gramitsidin_s
+16895,1541,Эфир метилфосфоновой кислоты,efir_metilfosfonovoy_kisloty
+16897,322,Диметилоксобутилфосфонилдиметилат,dimetiloksobutilfosfonildimetilat
+16901,416,Метенамина кальция хлорид,metenamina_kaltsiya_khlorid
+16907,2556,Гидроксиэтилдиметилдигидропиримидин,gidroksietildimetildigidropirimidin
+16915,854,Перфеназин,perfenazin
+16937,1723,Промазин,promazin
+17056,287,"Ацетилсалициловая кислота, Кофеин, Парацетамол, Аскорбиновая кислота",atsetilsalitsilovaya_kislota_kofein_paratsetamol_askorbinovaya_kislota
+17067,1254,"Хлорметилсилатран, Димексид, Касторовое масло",khlormetilsilatran_dimeksid_kastorovoe_maslo
+17106,1086,"Бромгексин, Левоментол, Анис масло, Душицы масло, Фенхель масло, Мята масло, Эвкалипт масло",bromgeksin_levomentol_anis_maslo_dushitsy_maslo_fenkhel_maslo_myata_maslo_evkalipt_maslo
+17123,2565,"Аскорбиновая кислота, (Мальвы лесной цветков, Подорожника ланцетовидного листьев) экстракт",askorbinovaya_kislota_malvy_lesnoy_tsvetkov_podorozhnika_lantsetovidnogo_listev_ekstrakt
+17132,1516,Малатион,malation
+17143,671,Сукральфат,sukralfat
+17157,729,Мидекамицин,midekamitsin
+17161,778,Эналаприлат,enalaprilat
+17185,1820,Сульфадиазин серебра,sulfadiazin_serebra
+17187,662,Эсцин,estsin
+17215,1420,"Бензилникотинат, Никотинамид, Ментол",benzilnikotinat_nikotinamid_mentol
+17224,1662,"Дифенгидрамин, Парацетамол",difengidramin_paratsetamol
+17228,231,Метоксален,metoksalen
