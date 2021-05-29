@@ -134,7 +134,7 @@ class Code(Screen):
         #requests.get('htt://45.128.207.185:8000',params={'phone':fone})
         #self.send_fone.hint_text="Введите код"
         #self.send_fone.text=""
-        hash2=""
+        #hash2=""
         sm.switch_to(Menu(name='menu'))
 
 class Autorith(Screen):
